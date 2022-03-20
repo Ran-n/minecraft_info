@@ -1,4 +1,10 @@
-[<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" width="25" alt="galego" title="Galego">](doc/readme_idiomas/readme_gz.md#Índice)&nbsp;[<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" width="27" alt="english" title="English">](doc/readme_idiomas/readme_en.md#Index)&nbsp;[<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/eo_0.svg" width="25" alt="esperanto" title="Esperanto">](doc/readme_idiomas/readme_eo.md#Indekso)&nbsp;[<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" width="28" alt="castellano" title="Castellano">](doc/readme_idiomas/readme_cas.md#Índice)
+[<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" width="27" alt="english" title="English">](doc/readme_idiomas/readme_en.md#Index)
+
+[<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" width="25" alt="galego" title="Galego">](doc/readme_idiomas/readme_gz.md#Índice)
+
+[<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/eo_0.svg" width="25" alt="esperanto" title="Esperanto">](doc/readme_idiomas/readme_eo.md#Indekso)
+
+[<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" width="28" alt="castellano" title="Castellano">](doc/readme_idiomas/readme_cas.md#Índice)
 <br />
 # Minecraft Information
 
