@@ -2,7 +2,7 @@
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" width="27" alt="english" title="English">](doc/readme_idiomas/readme_en.md#Index) 
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/eo_0.svg" width="25" alt="esperanto" title="Esperanto">](doc/readme_idiomas/readme_eo.md#Indekso) 
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" width="28" alt="castellano" title="Castellano">](doc/readme_idiomas/readme_cas.md#Índice) 
-
+<br />
 # Minecraft Information
 
 A place where you can find all minecraft related info.
