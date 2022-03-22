@@ -1,4 +1,7 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-clarity'
+languageCode = 'es-gl'
+title = 'Minecraft Information'
+theme = 'hugo-theme-monochrome'
+
+[build]
+    writeStats = true
