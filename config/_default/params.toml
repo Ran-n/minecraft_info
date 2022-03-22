@@ -1,0 +1,21 @@
+navbarTitle = "Monochrome"
+footer = "Minecraft ❤️"
+
+enableZoomingJS = false
+enableTOC = true
+enableSiteSearch = true
+enableMathJax = false
+
+# Codeblock
+usePrismJs = false
+enablePrismJsLineNo = false
+enableCodeCopy = false
+
+#SEO
+enableOpenGraph = false
+enableTwitterCards = false
+author = "Ran#"
+
+# Collapsible Menu
+enableCollapsibleTOC = false
+enableCollapsibleChangelogs= true

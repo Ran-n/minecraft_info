@@ -6,12 +6,7 @@ defaultContentLanguage = "gz"
 enableEmoji = true
 
 [build]
-    writeStats = true
+writeStats = true
 
-[params]
-    author = "Ran#"
-    footer = "Feito por Ran#"
-    enableTOC = true
-    enableCollapsibleTOC = false
-    enableCollapsibleChangelogs= true
+
 
