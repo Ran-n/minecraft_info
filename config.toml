@@ -1,4 +1,4 @@
-baseURL = 'https://ran-n.github.io/minecraft_info/'
+baseURL = 'http://ran-n.github.io/minecraft_info/'
 languageCode = 'es-gl'
 title = 'Minecraft Information'
 theme = 'hugo-theme-monochrome'
