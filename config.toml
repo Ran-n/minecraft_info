@@ -1,7 +1,17 @@
 baseURL = 'https://ran-n.github.io/minecraft_info/'
-languageCode = 'es-gl'
+languageCode = 'en'
 title = 'Minecraft Information'
 theme = 'hugo-theme-monochrome'
+defaultContentLanguage = "gz"
+enableEmoji = true
 
 [build]
     writeStats = true
+
+[params]
+    author = "Ran#"
+    footer = "Feito por Ran#"
+    enableTOC = true
+    enableCollapsibleTOC = false
+    enableCollapsibleChangelogs= true
+

@@ -2,8 +2,10 @@
   "htmlElements": {
     "tags": [
       "a",
+      "article",
       "body",
       "div",
+      "footer",
       "g",
       "h1",
       "head",
@@ -53,7 +55,9 @@
       "px-6",
       "sm:w-10/12",
       "text-2xl",
+      "text-center",
       "text-lg",
+      "text-xs",
       "w-full",
       "xl:block",
       "xl:hidden",
