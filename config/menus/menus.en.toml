@@ -1,0 +1,5 @@
+[[navbar]]
+    identifier = "granxas"
+    name = "Farms"
+    url = "/en/farms/"
+    weight = 1
