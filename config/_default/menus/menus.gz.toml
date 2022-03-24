@@ -1,0 +1,54 @@
+[[navbar]]
+    identifier = "minecraft"
+    name = "Minecraft"
+    url = "/minecraft/"
+    weight = 1
+    [[navbar]]
+        parent = 'minecraft'
+        identifier = "versions"
+        name = "Versións"
+        url = "/versions/"
+        weight = 1
+
+[[navbar]]
+    identifier = "granxas"
+    name = "Granxas"
+    url = "/granxas/"
+    weight = 2
+    [[navbar]]
+    parent = "granxas"
+    identifier = "ferro"
+    name = "Ferro"
+    url = "/granxas/ferro/"
+    weight = 1
+
+[[navbar]]
+    identifier = "ferramentas"
+    name = "Ferramentas"
+    url = "/ferramentas/"
+    weight = 3
+
+[[navbar]]
+    identifier = "redstone"
+    name = "Redstone"
+    url = "/redstone/"
+    weight = 4
+
+[[navbar]]
+    identifier = "mods"
+    name = "Mods"
+    url = "/mods/"
+    weight = 5
+
+[[navbar]]
+    identifier = "youtubers"
+    name = "Creadores"
+    url = "/creadores/"
+    weight = 6
+
+[[navbar]]
+    identifier = "servidores"
+    name = "Servidores"
+    url = "/servidores/"
+    weight = 7
+

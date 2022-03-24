@@ -1,15 +1,15 @@
 #navbarTitle = "Minecraft Information 2"
 footer = "Minecraft ❤️"
 
-enableZoomingJS = false
+enableZoomingJS = true
 enableTOC = true
 enableSiteSearch = true
 enableMathJax = false
 
 # Codeblock
 usePrismJs = false
-enablePrismJsLineNo = false
-enableCodeCopy = false
+enablePrismJsLineNo = true
+enableCodeCopy = true
 
 #SEO
 enableOpenGraph = false
@@ -17,5 +17,5 @@ enableTwitterCards = false
 author = "Ran#"
 
 # Collapsible Menu
-enableCollapsibleTOC = false
+enableCollapsibleTOC = true
 enableCollapsibleChangelogs= true

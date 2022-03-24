@@ -4,6 +4,7 @@ title = 'Minecraft Information'
 theme = 'hugo-theme-monochrome'
 defaultContentLanguage = "gz"
 enableEmoji = true
+#contentDir = 'content'
 
 [build]
 writeStats = true
