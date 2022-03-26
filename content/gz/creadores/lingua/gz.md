@@ -9,4 +9,4 @@ bookcase_cover_src_dark: 'linguas/gz.svg'
 
 # Lista de creadores de contido en galego.
 
-* [Breogann](/creadores/breogann)
+* [Breogann]({{< ref "../breogann.md" >}})

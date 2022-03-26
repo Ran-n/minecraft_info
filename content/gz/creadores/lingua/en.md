@@ -10,5 +10,5 @@ bookcase_cover_src_dark: 'linguas/en.svg'
 # Lista de creadores de contido en inglés.
 
 * [EthosLab]({{< ref "../etho.md" >}})
-* [docm77](/creadores/docm)
-* [ilmango](/creadores/ilmango)
+* [docm77]({{< ref "../docm.md" >}})
+* [ilmango]({{< ref "../ilmango.md" >}})
