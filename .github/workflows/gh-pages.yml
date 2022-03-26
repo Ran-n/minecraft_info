@@ -3,7 +3,8 @@ name: github pages
 on:
   push:
     branches:
-      - dev
+      - main  # Set a branch to deploy
+  pull_request:
 
 jobs:
   deploy:
@@ -17,16 +18,8 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          submodules: true
-          fetch-depth: 0
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: '12'
-
-      - name: Setup Dependency
-        run: npm install
+          hugo-version: 'latest'
+          # extended: true
 
       - name: Build
         run: hugo --minify
@@ -35,5 +28,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
