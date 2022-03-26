@@ -1,23 +1,25 @@
 ---
 title: "Breogann"
 date: 2022-03-26T16:53:56+01:00
-#draft: true
-bookcase_cover_src: 'creadores/breogann.png'
-bookcase_cover_src_dark: 'creadores/breogann.png'
+#draft: false
+bookcase_cover_src: 'creadores/breogann.svg'
+bookcase_cover_src_dark: 'creadores/breogann.svg'
 collapsible_toc: false
 
 keywords:
 - breogann
 - minecraft
 - let's play
+- inglés
 ---
 
-# Breogann
 
 <img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" width="25" alt="galego" title="Galego">
-<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" width="27" alt="english" title="English">
 <img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" width="28" alt="castellano" title="Castellano">
+<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" width="27" alt="english" title="English">
 <br>
+
+# Breogann
 
 Creador de contido especializado en gameplays.
 

@@ -6,7 +6,13 @@ weight: 6
 type: 'bookcase'
 bookcase_cover_src: 'creadores/social-media.png'
 bookcase_cover_src_dark: 'creadores/social-media.png'
+bookcase_list_pages: true
+bookcase_list_sections: false
 
 ---
 
-Un listado de varios creadores de contido, coas súas repectivas redes, e indicando en que idioma ofrecen dito contido.
+Listado alfabético da páxina de información de tódolos creadores de contido de Minecraft.
+Dentro de cada un especifícase a linguaxe que usan no seu contido.
+
+Para unha clasificación por linguas pulsar [aqui](lingua).
+
