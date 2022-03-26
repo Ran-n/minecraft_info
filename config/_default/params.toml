@@ -1,4 +1,4 @@
-#navbarTitle = "Minecraft Information 2"
+navbarTitle = "Minecraft Information"
 footer = "Minecraft ❤️"
 
 enableZoomingJS = true
@@ -12,8 +12,8 @@ enablePrismJsLineNo = true
 enableCodeCopy = true
 
 #SEO
-enableOpenGraph = false
-enableTwitterCards = false
+enableOpenGraph = true
+enableTwitterCards = true
 author = "Ran#"
 
 # Collapsible Menu

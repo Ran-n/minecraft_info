@@ -41,7 +41,7 @@
     weight = 5
 
 [[navbar]]
-    identifier = "youtubers"
+    identifier = "creadores"
     name = "Creadores"
     url = "/creadores/"
     weight = 6
