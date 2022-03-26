@@ -9,4 +9,6 @@ bookcase_cover_src_dark: 'linguas/en.svg'
 
 # Lista de creadores de contido en inglés.
 
-* [ilmango](../ilmango)
+* [EthosLab](/creadores/etho)
+* [docm77](/creadores/docm)
+* [ilmango](/creadores/ilmango)
