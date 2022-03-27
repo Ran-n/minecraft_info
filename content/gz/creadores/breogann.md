@@ -1,6 +1,6 @@
 ---
 title: "Breogann"
-date: 2022-03-26T16:53:56+01:00
+#date: 2022-03-26T16:53:56+01:00
 #draft: false
 bookcase_cover_src: 'creadores/breogann.svg'
 bookcase_cover_src_dark: 'creadores/breogann.svg'

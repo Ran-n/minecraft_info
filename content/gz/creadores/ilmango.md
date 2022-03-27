@@ -1,6 +1,6 @@
 ---
 title: "ilmango"
-date: 2022-03-26T18:59:08+01:00
+#date: 2022-03-26T18:59:08+01:00
 #draft: true
 bookcase_cover_src: 'creadores/ilmango.svg'
 bookcase_cover_src_dark: 'creadores/ilmango.svg'
