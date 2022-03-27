@@ -16,11 +16,17 @@
     url = "/granxas/"
     weight = 2
     [[navbar]]
-    parent = "granxas"
-    identifier = "ferro"
-    name = "Ferro"
-    url = "/granxas/ferro/"
-    weight = 1
+        parent = "granxas"
+        identifier = "ferro"
+        name = "Ferro"
+        url = "/granxas/ferro/"
+        weight = 1
+    [[navbar]]
+        parent = "granxas"
+        identifier = "lama"
+        name = "Lama"
+        url = "/granxas/lama/"
+        weight = 10
 
 [[navbar]]
     identifier = "ferramentas"
