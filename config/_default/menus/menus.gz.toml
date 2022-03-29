@@ -58,3 +58,8 @@
     url = "/servidores/"
     weight = 7
 
+[[navbar]]
+    identifier = "sobre"
+    name = "Sobre"
+    url = "/sobre/"
+    weight = 8
