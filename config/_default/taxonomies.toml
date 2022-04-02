@@ -1,4 +1,4 @@
 tag = "tags"
-lingua = "linguas"
-version = "versions"
-creador = "creadores"
+etiqueta_lingua= "etiquetas_linguas"
+etiqueta_version = "etiquetas_versions"
+etiqueta_creador= "etiquetas_creadores"
