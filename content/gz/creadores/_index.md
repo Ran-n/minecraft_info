@@ -1,22 +1,23 @@
-+++
-title = "Creadores"
-date = 2022-03-26T16:43:10+01:00
-author = "Ran#"
-#draft = true
+---
+title: "Creadores"
+date: 2022-03-26T16:43:10+01:00
+author: "Ran#"
+#draft: true
 
-slug = 'creadores'
-aliases = ['/creadores']
+slug: 'creadores'
+aliases: ['/creadores']
 
-weight = 6
-bookcase_cover_src = 'creadores/social-media.png'
-bookcase_cover_src_dark = 'creadores/social-media.png'
+weight: 6
+bookcase_cover_src: 'creadores/social-media.png'
+bookcase_cover_src_dark: 'creadores/social-media.png'
 
-type = 'bookcase'
-bookcase_list_pages = true
-bookcase_list_sections = false
-+++
+type: 'bookcase'
+bookcase_list_pages: true
+bookcase_list_sections: false
 
-{{< terms-cloud terms="linguas" >}}
+---
+
+{{< terms-cloud terms="etiquetas_linguas" >}}
 
 Listado alfabético da páxina de información de tódolos creadores de contido de Minecraft.
 Dentro de cada un especifícase a linguaxe que usan no seu contido.

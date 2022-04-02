@@ -1,35 +1,38 @@
-+++
-title = "Breogann"
+---
+title: "Breogann"
 # eliminando a date ordarase por nome
-#date = 2022-03-26T16:53:56+01:00
-#draft = false
-bookcase_cover_src = 'creadores/breogann.svg'
-bookcase_cover_src_dark = 'creadores/breogann.svg'
-collapsible_toc = false
+#date: 2022-03-26T16:53:56+01:00
+#draft: false
+collapsible_toc: false
 
-slug = "breogan"
-aliases = [
+weight: 1
+bookcase_cover_src: 'creadores/breogann.svg'
+bookcase_cover_src_dark: 'creadores/breogann.svg'
+
+slug: "breogan"
+aliases: [
     "/creadores/breogann"
 ]
 
-linguas = [
+etiquetas_linguas: [
     "galego",
     "inglés",
     "castelán",
 ]
-+++
+
+---
 
 <svg width="28px" height="17px">
-<title>Galego</title>
-<image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" src="linguas/gz_0.svg" width="100%" height="100%"/>
+    <title>Galego</title>
+    <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" src="linguas/gz_0.svg" width="100%" height="100%"/>
 </svg>
 <svg width="28px" height="17px">
-<title>Castellano</title>
-<image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" src="linguas/cas_0.svg" width="100%" height="100%"/>
+    <title>Castellano</title>
+    <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" src="linguas/cas_0.svg" width="100%" height="100%"/>
 </svg>
 <svg width="28px" height="17px">
-<title>English</title>
-<image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" src="linguas/en_0.svg" width="100%" height="100%"/>
+    <title>English</title>
+    <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" src="linguas/en_0.svg" width="100%" height="100%"/>
 </svg>
 
 <!--
@@ -46,7 +49,7 @@ function proba() {
 </script>
 <script>
 function myFunction() {
-    var copyText = document.getElementById("myInput");
+    var copyText: document.getElementById("myInput");
     copyText.select();
     document.execCommand("copy");
     alert("Copied the text: " + copyText.value);
