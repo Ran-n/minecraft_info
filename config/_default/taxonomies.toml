@@ -1,5 +1,4 @@
-category = "categories"
 tag = "tags"
-series = "series"
-proba = 'probas'
-
+lingua = "linguas"
+version = "versions"
+creador = "creadores"

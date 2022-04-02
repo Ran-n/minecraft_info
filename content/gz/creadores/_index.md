@@ -13,6 +13,5 @@ bookcase_list_sections: false
 
 Listado alfabético da páxina de información de tódolos creadores de contido de Minecraft.
 Dentro de cada un especifícase a linguaxe que usan no seu contido.
-
-Para unha clasificación por linguas pulsar [aqui](lingua).
-
+De querer listar soamente ós de certo idioma, usar a seguinte selección:
+{{< terms-cloud terms="linguas" >}}
