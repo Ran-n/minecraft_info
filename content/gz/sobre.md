@@ -27,7 +27,6 @@ Para consultas de negocios mandar correo a: ran-n@tutanota.com
 
 ## Doazóns
 
-{{< bitcoin >}}
 {{< icon link="" >}}
 {{< icon link="" >}}
 
