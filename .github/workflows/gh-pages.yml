@@ -3,7 +3,8 @@ name: github pages
 on:
   push:
     branches:
-      - main
+      - main  # Set a branch to deploy
+  pull_request:
 
 jobs:
   deploy:
@@ -11,30 +12,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: true
+          submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: '12'
-
-      - name: Composite package.json
-        run: hugo mod npm pack
-
-      - name: Setup Dependency
-        run: npm install
-
-      - name: Setup public
-        run: git worktree add -B gh-pages ./public origin/gh-pages
-
-      - name: Clean public
-        run: rm -rf ./public/*
+          # extended: true
 
       - name: Build
         run: hugo --minify
