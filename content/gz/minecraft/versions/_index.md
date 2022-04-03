@@ -7,5 +7,8 @@ author: "Ran#"
 slug: 'versions'
 aliases: ['/versións']
 
+type: 'balloon'
+balloon_resources: '/minecraft/versions/snapshots'
+
 ---
 
