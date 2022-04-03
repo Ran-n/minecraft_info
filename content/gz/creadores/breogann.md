@@ -9,15 +9,15 @@ weight: 1
 bookcase_cover_src: 'creadores/breogann.svg'
 bookcase_cover_src_dark: 'creadores/breogann.svg'
 
-slug: "breogan"
+slug: 'breogan'
 aliases: [
-    "/creadores/breogann"
+    '/creadores/breogann'
 ]
 
 etiquetas_linguas: [
-    "galego",
-    "inglés",
-    "castelán",
+    'galego',
+    'inglés',
+    'castelán',
 ]
 
 ---
