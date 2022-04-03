@@ -8,3 +8,4 @@ bookcase_cover_src_dark: 'minecraft/minecraft_cover.png'
 
 ---
 
+[Páxina oficial](https://www.minecraft.net/)
