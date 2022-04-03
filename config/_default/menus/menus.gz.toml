@@ -7,7 +7,7 @@
         parent = 'minecraft'
         identifier = "versions"
         name = "Versións"
-        url = "/versions/"
+        url = "/minecraft/versions/"
         weight = 1
 
 [[navbar]]
