@@ -35,28 +35,6 @@ etiquetas_linguas: [
     <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" src="linguas/en_0.svg" width="100%" height="100%"/>
 </svg>
 
-<!--
-<br>
-<input type="text" value="Hello World" id="myInput">
-<button onclick="myFunction()">Copy text</button>
-
-<script>
-function proba() {
-    "proba".select();
-    document.execCommand("copy");
-    alert("Copied the text: " + copyText.value);
-}
-</script>
-<script>
-function myFunction() {
-    var copyText: document.getElementById("myInput");
-    copyText.select();
-    document.execCommand("copy");
-    alert("Copied the text: " + copyText.value);
-}
-</script>
--->
-
 # Breogann
 
 Creador de contido especializado en gameplays.
