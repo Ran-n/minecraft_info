@@ -13,10 +13,18 @@ bookcase_cover_src_dark: 'monochrome/cover/coding_dark.png'
 ---
 
 # 22w13oneBlockAtATime
+<img src="/fotos_content/cabeceira.webp" />
 
 ## Introdución
 
 *Simplicitas.*
+
+<!--![proba](/fotos_content/minecraft/versions/java/22w13/aprilis_asinus3.webp)-->
+<img src="/fotos_content/minecraft/versions/java/22w13/aprilis_asinus1.webp" />
+<img src="/fotos_content/minecraft/versions/java/22w13/aprilis_asinus2.webp" />
+<img src="/fotos_content/minecraft/versions/java/22w13/aprilis_asinus3.webp" />
+<img src="/fotos_content/minecraft/versions/java/22w13/aprilis_asinus4.webp" />
+<img src="/fotos_content/minecraft/versions/java/22w13/aprilis_asinus6.jpg" />
 
 ## Características
 
@@ -43,6 +51,8 @@ Para instalala, abre o lanzador de Minecraft e habilita as *snapshots* na pestan
 Ficheiro jar multiplataforma:
 [jar de servidor](https://launcher.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar).
 <!--[jar de servidor](/fichs_content/minecraft/versions/22w13/22w13_server.jar).-->
+
+<img src="/fotos_content/minecraft/versions/java/22w13/aprilis_asinus5.webp" />
 
 ## Dúbidas Frecuentes
 
