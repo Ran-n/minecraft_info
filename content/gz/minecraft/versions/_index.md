@@ -4,11 +4,14 @@ date: 2022-04-03T13:43:42+02:00
 #draft: true
 author: "Ran#"
 
-slug: 'versions'
-aliases: ['/versións']
+toc: true
 
-type: 'balloon'
-balloon_resources: '/minecraft/versions/snapshots'
+#slug: '/minecraft/versións'
+#aliases: ['/minecrat/versions']
+
+type: 'bookcase'
+bookcase_list_pages: false
+bookcase_list_sections: true
 
 ---
 

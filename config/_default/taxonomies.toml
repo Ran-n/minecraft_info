@@ -1,4 +1,5 @@
 tag = "tags"
 etiqueta_lingua= "etiquetas_linguas"
 etiqueta_version = "etiquetas_versions"
+etiqueta_version_especial = "etiquetas_versions_especiais"
 etiqueta_creador= "etiquetas_creadores"

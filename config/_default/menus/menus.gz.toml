@@ -9,6 +9,30 @@
         name = "Versións"
         url = "/minecraft/versions/"
         weight = 1
+        [[navbar]]
+            parent = 'versions'
+            identifier = "java"
+            name = "Java"
+            url = "/minecraft/versions/java/"
+            weight = 1
+            [[navbar]]
+                parent = 'java'
+                identifier = "cronoloxia"
+                name = "Cronoloxía"
+                url = "/minecraft/versions/java/cronoloxia"
+                weight = 1
+            [[navbar]]
+                parent = 'java'
+                identifier = "informacion"
+                name = "Información"
+                url = "/minecraft/versions/java/informacion"
+                weight = 2
+        [[navbar]]
+            parent = 'versions'
+            identifier = "bedrock"
+            name = "Bedrock"
+            url = "/minecraft/versions/bedrock/"
+            weight = 2
 
 [[navbar]]
     identifier = "granxas"
