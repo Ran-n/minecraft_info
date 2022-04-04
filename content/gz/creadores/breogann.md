@@ -6,8 +6,8 @@ title: "Breogann"
 collapsible_toc: false
 
 weight: 1
-bookcase_cover_src: 'creadores/breogann.svg'
-bookcase_cover_src_dark: 'creadores/breogann.svg'
+bookcase_cover_src: 'fotos_content/creadores/breogann.svg'
+bookcase_cover_src_dark: 'fotos_content/creadores/breogann.svg'
 
 slug: 'breogan'
 aliases: [

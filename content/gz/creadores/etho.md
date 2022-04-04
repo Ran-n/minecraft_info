@@ -2,8 +2,10 @@
 title: "EthosLab"
 #date: 2022-03-26T22:59:56+01:00
 #draft: true
-bookcase_cover_src: 'creadores/etho.svg'
-bookcase_cover_src_dark: 'creadores/etho.svg'
+bookcase_cover_src: 'fotos_content/creadores/etho.svg'
+bookcase_cover_src_dark: 'fotos_content/creadores/etho.svg'
+
+toc: true
 collapsible_toc: false
 
 keywords:

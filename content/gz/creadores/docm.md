@@ -2,8 +2,10 @@
 title: "docm77"
 #date: 2022-03-26T23:08:37+01:00
 #draft: true
-bookcase_cover_src: 'creadores/docm.svg'
-bookcase_cover_src_dark: 'creadores/docm.svg'
+bookcase_cover_src: 'fotos_content/creadores/docm.svg'
+bookcase_cover_src_dark: 'fotos_content/creadores/docm.svg'
+
+toc: true
 collapsible_toc: false
 
 keywords:

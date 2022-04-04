@@ -2,8 +2,10 @@
 title: "Rays Works"
 #date: 2022-03-27T21:09:31+02:00
 #draft: true
-bookcase_cover_src: 'creadores/rays.svg'
-bookcase_cover_src_dark: 'creadores/rays.svg'
+bookcase_cover_src: 'fotos_content/creadores/rays.svg'
+bookcase_cover_src_dark: 'fotos_content/creadores/rays.svg'
+
+toc: true
 collapsible_toc: false
 
 keywords:
