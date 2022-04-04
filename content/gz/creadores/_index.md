@@ -8,8 +8,8 @@ slug: 'creadores'
 aliases: ['/creadores']
 
 weight: 6
-bookcase_cover_src: 'creadores/social-media.png'
-bookcase_cover_src_dark: 'creadores/social-media.png'
+bookcase_cover_src: 'fotos_content/creadores/social-media.png'
+bookcase_cover_src_dark: 'fotos_content/creadores/social-media.png'
 
 type: 'bookcase'
 bookcase_list_pages: true
