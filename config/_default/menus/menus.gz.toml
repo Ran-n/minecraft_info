@@ -11,25 +11,25 @@
         weight = 1
         [[navbar]]
             parent = 'versions'
-            identifier = "java"
+            identifier = "versions_java"
             name = "Java"
             url = "/minecraft/versions/java/"
             weight = 1
             [[navbar]]
-                parent = 'java'
+                parent = 'versions_java'
                 identifier = "cronoloxia"
                 name = "Cronoloxía"
                 url = "/minecraft/versions/java/cronoloxia"
                 weight = 1
             [[navbar]]
-                parent = 'java'
+                parent = 'versions_java'
                 identifier = "informacion"
                 name = "Información"
                 url = "/minecraft/versions/java/informacion"
                 weight = 2
         [[navbar]]
             parent = 'versions'
-            identifier = "bedrock"
+            identifier = "versions_bedrock"
             name = "Bedrock"
             url = "/minecraft/versions/bedrock/"
             weight = 2
@@ -40,17 +40,29 @@
     url = "/granxas/"
     weight = 2
     [[navbar]]
-        parent = "granxas"
-        identifier = "ferro"
-        name = "Ferro"
-        url = "/granxas/ferro/"
+        parent = 'granxas'
+        identifier = "granxas_java"
+        name = "Java"
+        url = "/granxas/java/"
         weight = 1
+        [[navbar]]
+            parent = "granxas_java"
+            identifier = "ferro"
+            name = "Ferro"
+            url = "/granxas/java/ferro/"
+            weight = 1
+        [[navbar]]
+            parent = "granxas_java"
+            identifier = "lama"
+            name = "Lama"
+            url = "/granxas/java/lama/"
+            weight = 2
     [[navbar]]
-        parent = "granxas"
-        identifier = "lama"
-        name = "Lama"
-        url = "/granxas/lama/"
-        weight = 10
+        parent = 'granxas'
+        identifier = "granxas_bedrock"
+        name = "Bedrock"
+        url = "/granxas/granxas/bedrock/"
+        weight = 2
 
 [[navbar]]
     identifier = "ferramentas"
