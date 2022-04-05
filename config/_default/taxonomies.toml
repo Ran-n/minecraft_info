@@ -1,5 +1,19 @@
 tag = "tags"
-etiqueta_lingua= "etiquetas_linguas"
-etiqueta_version = "etiquetas_versions"
-etiqueta_version_especial = "etiquetas_versions_especiais"
-etiqueta_creador= "etiquetas_creadores"
+
+#eqt_lingua = "eqt_linguas"
+
+# java / bedrock
+#eqt_edicion = "eqt_edicions"
+
+# versions
+eqt_version_edicion = "eqt_versions_edicions"
+eqt_version_java = "eqt_versions_java"
+eqt_version_especial_java = "eqt_versions_especiais_java"
+eqt_version_bedrock = "eqt_versions_bedrock"
+eqt_version_especial_bedrock = "eqt_versions_especiais_bedrock"
+
+# creadores
+eqt_creador= "eqt_creadores"
+eqt_creador_edicion = "eqt_creadores_edicions"
+eqt_creador_lingua = "eqt_creadores_linguas"
+eqt_creador_nacionalidade = "eqt_creadores_nacionalidades"
