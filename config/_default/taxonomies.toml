@@ -1,19 +1,31 @@
 tag = "tags"
 
-#eqt_lingua = "eqt_linguas"
-
-# java / bedrock
-#eqt_edicion = "eqt_edicions"
-
 # versions
+## java | bedrock
 eqt_version_edicion = "eqt_versions_edicions"
+
+## que version/snapshot é
 eqt_version_java = "eqt_versions_java"
+## a que versión pertence a snapshot
+eqt_snapshot_version_java = "eqt_snapshots_versions_java"
+## dia dos inocentes |
 eqt_version_especial_java = "eqt_versions_especiais_java"
+
+## que version/snapshot é
 eqt_version_bedrock = "eqt_versions_bedrock"
+## a que versión pertence a snapshot
+eqt_snapshot_version_bedrock = "eqt_snapshots_versions_bedrock"
+## dia dos inocentes |
 eqt_version_especial_bedrock = "eqt_versions_especiais_bedrock"
+#   #
 
 # creadores
+## nome creador
 eqt_creador= "eqt_creadores"
+## se xoga en java e/ou bedrock
 eqt_creador_edicion = "eqt_creadores_edicions"
+## en que linguas fai os vídeos
 eqt_creador_lingua = "eqt_creadores_linguas"
+## a que nación pertence
 eqt_creador_nacion = "eqt_creadores_nacions"
+#   #

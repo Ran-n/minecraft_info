@@ -1,5 +1,5 @@
 ---
-title: "22w13 oneBlockAtATime"
+title: "22w11a"
 date: 2022-04-03T14:07:32+02:00
 #draft: true
 author: Ran#
@@ -7,9 +7,9 @@ author: Ran#
 toc: true
 collapsible_toc: true
 
-weight: -20220401
-bookcase_cover_src: 'fotos_content/cabeceira.webp'
-bookcase_cover_src_dark: 'fotos_content/cabeceira.webp'
+weight: -20220316
+bookcase_cover_src: 'fotos_content/mobs/ra/ra1.webp'
+bookcase_cover_src_dark: 'fotos_content/mobs/ra/ra1.webp'
 
 type: 'bookcase'
 bookcase_list_pages: true
@@ -20,11 +20,11 @@ eqt_versions_edicions: [
 ]
 
 eqt_versions_java: [
-    '22w13',
+    '22w11a',
 ]
 
-eqt_versions_especiais_java: [
-    'dia dos inocentes',
+eqt_snapshots_versions_java: [
+    '1.19',
 ]
 
 ---

@@ -7,13 +7,15 @@ toc: true
 
 
 weight: 1
-bookcase_cover_src: 'monochrome/cover/coding.png'
-bookcase_cover_src_dark: 'monochrome/cover/coding_dark.png'
+bookcase_cover_src: 'fotos_content/cabeceira.webp'
+bookcase_cover_src_dark: 'fotos_content/cabeceira.webp'
 
 ---
 
 # 22w13oneBlockAtATime
 <img src="/fotos_content/cabeceira.webp" />
+
+---
 
 ## Introdución
 
@@ -41,7 +43,7 @@ bookcase_cover_src_dark: 'monochrome/cover/coding_dark.png'
 - Modificado o combate ~~porque é difícil~~ para crear unha experiencia de xogo máis inmersiva.
 - Bloque furtivo? Que bloque furtivo?
 
-## Obtención
+## Obtención da *snapshot*
 
 As *snapshots* están dispoñibles para Minecraft: Edición Java.
 Para instalala, abre o lanzador de Minecraft e habilita as *snapshots* na pestana de "Instalacións".

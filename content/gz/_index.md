@@ -10,7 +10,7 @@ type: 'bookcase'
 
 ---
 
-Benvido á páxina de información máis completa sobre minecraft.
+Benvido á páxina de información máis completa sobre [minecraft](https://www.minecraft.net/).
 
 ## Doazóns
 
