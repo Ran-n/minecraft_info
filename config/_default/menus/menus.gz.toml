@@ -61,7 +61,7 @@
         parent = 'granxas'
         identifier = "granxas_bedrock"
         name = "Bedrock"
-        url = "/granxas/granxas/bedrock/"
+        url = "/granxas/bedrock/"
         weight = 2
 
 [[navbar]]
@@ -69,29 +69,77 @@
     name = "Ferramentas"
     url = "/ferramentas/"
     weight = 3
+    [[navbar]]
+        parent = 'ferramentas'
+        identifier = "ferramentas_java"
+        name = "Java"
+        url = "/ferramentas/java/"
+        weight = 1
+    [[navbar]]
+        parent = 'ferramentas'
+        identifier = "ferramentas_bedrock"
+        name = "Bedrock"
+        url = "/ferramentas/bedrock/"
+        weight = 2
 
 [[navbar]]
     identifier = "redstone"
     name = "Redstone"
     url = "/redstone/"
     weight = 4
+    [[navbar]]
+        parent = 'redstone'
+        identifier = "redstone_java"
+        name = "Java"
+        url = "/redstone/java/"
+        weight = 1
+    [[navbar]]
+        parent = 'redstone'
+        identifier = "redstone_bedrock"
+        name = "Bedrock"
+        url = "/redstone/bedrock/"
+        weight = 2
 
 [[navbar]]
     identifier = "mods"
     name = "Mods"
     url = "/mods/"
     weight = 5
-
-[[navbar]]
-    identifier = "creadores"
-    name = "Creadores"
-    url = "/creadores/"
-    weight = 6
+    [[navbar]]
+        parent = 'mods'
+        identifier = "mods_java"
+        name = "Java"
+        url = "/mods/java/"
+        weight = 1
+    [[navbar]]
+        parent = 'mods'
+        identifier = "mods_bedrock"
+        name = "Bedrock"
+        url = "/mods/bedrock/"
+        weight = 2
 
 [[navbar]]
     identifier = "servidores"
     name = "Servidores"
     url = "/servidores/"
+    weight = 6
+    [[navbar]]
+        parent = 'servidores'
+        identifier = "servidores_java"
+        name = "Java"
+        url = "/servidores/java/"
+        weight = 1
+    [[navbar]]
+        parent = 'servidores'
+        identifier = "servidores_bedrock"
+        name = "Bedrock"
+        url = "/servidores/bedrock/"
+        weight = 2
+
+[[navbar]]
+    identifier = "creadores"
+    name = "Creadores"
+    url = "/creadores/"
     weight = 7
 
 [[navbar]]

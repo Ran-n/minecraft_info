@@ -14,4 +14,8 @@ weight: 3
 bookcase_cover_src: 'fotos_content/ferramentas/ferramentas.jpg'
 bookcase_cover_src_dark: 'fotos_content/ferramentas/ferramentas.jpg'
 
+type: 'bookcase'
+bookcase_list_pages: false
+bookcase_list_sections: true
+
 ---

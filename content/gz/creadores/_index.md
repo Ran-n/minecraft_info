@@ -7,7 +7,7 @@ author: "Ran#"
 slug: 'creadores'
 aliases: ['/creadores']
 
-weight: 6
+weight: 7
 bookcase_cover_src: 'fotos_content/creadores/social-media.png'
 bookcase_cover_src_dark: 'fotos_content/creadores/social-media.png'
 
