@@ -3,21 +3,26 @@ title: "Breogann"
 # eliminando a date ordarase por nome
 #date: 2022-03-26T16:53:56+01:00
 #draft: false
+author: 'Ran#'
+
+toc: true
 collapsible_toc: false
 
 weight: 1
 bookcase_cover_src: 'fotos_content/creadores/breogann.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/breogann.svg'
 
-slug: 'breogan'
-aliases: [
-    '/creadores/breogann'
-]
+#slug: '/breogan/'
+#aliases: ['/creadores/breogann/']
 
-etiquetas_linguas: [
+eqt_creadores_linguas: [
     'galego',
     'inglés',
     'castelán',
+]
+
+eqt_creadores_edicions: [
+    'java',
 ]
 
 ---

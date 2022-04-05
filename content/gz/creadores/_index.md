@@ -17,7 +17,7 @@ bookcase_list_sections: false
 
 ---
 
-{{< terms-cloud terms="etiquetas_linguas" >}}
+{{< terms-cloud terms="eqt_creadores_linguas" >}}
 
 Listado alfabético da páxina de información de tódolos creadores de contido de Minecraft.
 Dentro de cada un especifícase a linguaxe que usan no seu contido.
