@@ -30,4 +30,4 @@ Dentro de cada un especifícase a linguaxe e edición que usan no seu contido.
 {{< terms-cloud terms="eqt_creadores_linguas" >}}
 
 #### Por nación
-{{< terms-cloud terms="eqt_creadores_nacións" >}}
+{{< terms-cloud terms="eqt_creadores_nacions" >}}
