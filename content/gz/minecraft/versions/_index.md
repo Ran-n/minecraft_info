@@ -5,6 +5,7 @@ date: 2022-04-03T13:43:42+02:00
 author: "Ran#"
 
 toc: true
+collapsible_toc: false
 
 #slug: '/minecraft/versións'
 #aliases: ['/minecrat/versions']
