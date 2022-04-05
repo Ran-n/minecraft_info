@@ -4,6 +4,9 @@ date: 2022-03-26T16:43:10+01:00
 author: "Ran#"
 #draft: true
 
+toc: true
+collapsible_toc: false
+
 slug: 'creadores'
 aliases: ['/creadores']
 
@@ -17,9 +20,11 @@ bookcase_list_sections: false
 
 ---
 
-{{< terms-cloud terms="eqt_creadores_linguas" >}}
-
 Listado alfabético da páxina de información de tódolos creadores de contido de Minecraft.
-Dentro de cada un especifícase a linguaxe que usan no seu contido.
+Dentro de cada un especifícase a linguaxe e edición que usan no seu contido.
 
-De querer listar soamente ós de certo idioma, usar a selección arriba exposta.
+#### Por edición
+{{< terms-cloud terms="eqt_creadores_edicions" >}}
+
+#### Por idioma
+{{< terms-cloud terms="eqt_creadores_linguas" >}}
