@@ -8,8 +8,8 @@ slug: 'sobre'
 aliases: ['/sobre']
 
 weight: 8
-bookcase_cover_src: 'monochrome/pottery.jpg'
-bookcase_cover_src_dark: 'monochrome/pottery.jpg'
+bookcase_cover_src: 'fotos_content/paisaxes/paisaxe1.jpg'
+bookcase_cover_src_dark: 'fotos_content/paisaxes/paisaxe1.jpg'
 
 ---
 
