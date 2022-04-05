@@ -18,6 +18,7 @@
       "h3",
       "h4",
       "h5",
+      "h6",
       "head",
       "header",
       "hr",
@@ -42,6 +43,7 @@
       "summary",
       "svg",
       "title",
+      "u",
       "ul"
     ],
     "classes": [
@@ -109,6 +111,8 @@
       "toolbox-btn"
     ],
     "ids": [
+      "2022-03-16",
+      "2022-04-01",
       "22w11a",
       "22w13oneblockatatime",
       "88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D_dir",
@@ -170,6 +174,7 @@
       "sidebar_canvas_overlay",
       "theme_tool",
       "translation_tool",
+      "u2022-04-01u",
       "youtube"
     ]
   }
