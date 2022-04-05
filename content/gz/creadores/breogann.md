@@ -25,6 +25,10 @@ eqt_creadores_edicions: [
     'java',
 ]
 
+eqt_creadores_nacions: [
+    'galiza',
+]
+
 ---
 
 <svg width="28px" height="17px">

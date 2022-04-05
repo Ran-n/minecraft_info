@@ -18,6 +18,10 @@ eqt_creadores_edicions: [
     'java',
 ]
 
+eqt_creadores_nacions: [
+    'alemaña',
+]
+
 keywords:
 - docm77
 - docm

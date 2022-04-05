@@ -16,6 +16,10 @@ eqt_creadores_edicions: [
     'java',
 ]
 
+eqt_creadores_nacions: [
+    'canadá',
+]
+
 keywords:
 - etho
 - ethoslab
