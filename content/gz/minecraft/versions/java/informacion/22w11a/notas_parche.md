@@ -7,9 +7,16 @@ author: 'Ran#'
 toc: true
 collapsible_toc: true
 
-weight: -20220316
-bookcase_cover_src: 'fotos_content/mobs/ra/ra1.webp'
-bookcase_cover_src_dark: 'fotos_content/mobs/ra/ra1.webp'
+slug: 'notas'
+aliases: [
+    'notas_version',
+    'patch_notes',
+    'notes',
+]
+
+weight: 1
+bookcase_cover_src: 'monochrome/cover/list.png'
+bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 ---
 

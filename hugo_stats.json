@@ -18,7 +18,6 @@
       "h3",
       "h4",
       "h5",
-      "h6",
       "head",
       "header",
       "hr",
@@ -43,7 +42,6 @@
       "summary",
       "svg",
       "title",
-      "u",
       "ul"
     ],
     "classes": [
@@ -111,8 +109,6 @@
       "toolbox-btn"
     ],
     "ids": [
-      "2022-03-16",
-      "2022-04-01",
       "22w11a",
       "22w13oneblockatatime",
       "88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D_dir",
@@ -143,7 +139,10 @@
       "e",
       "ethoslab",
       "follas-e-brotes-de-mangleiro",
+      "heading",
+      "heading-1",
       "horario",
+      "i-built-a-starter-house-in-minecrafts-april-fools-update--minecraft-one-block-at-a-time-ep1",
       "ilmango",
       "introdución",
       "ladrillos-de-lama",
@@ -153,13 +152,19 @@
       "lista-de-creadores-de-contido-en-inglés",
       "menu_icon",
       "mesturado-de-texturas",
+      "minecraft-119-snapshot-22w11a---part-2---the-copper-horns-secret",
+      "minecraft-119-snapshot-22w11a-frogs-tadpoles-froglights--more",
+      "minecraft-119-snapshot-22w13oneblockatatime---inventory-fixed-forever",
+      "minecraft-april-fools--astonishing-update",
+      "minecraft-april-fools-snapshot-reaction--one-block-at-a-time-w-ulraf-cubfan135--brunodanuy",
+      "minecraft-one-block-at-a-time-update--minecraft-snapshot-22w13oneblockatatime",
       "navbar",
       "novas-características",
-      "obtención",
       "obtención-da-snapshot",
       "odysee",
       "oscuridade-profunda",
       "paquete-de-filtros",
+      "pixlriffs",
       "por-edición",
       "por-idioma",
       "por-nación",
@@ -174,7 +179,9 @@
       "sidebar_canvas_overlay",
       "theme_tool",
       "translation_tool",
-      "u2022-04-01u",
+      "wattles",
+      "we-broke-minecrafts-april-fools",
+      "xisumavoid",
       "youtube"
     ]
   }

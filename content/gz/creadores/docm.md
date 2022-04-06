@@ -22,6 +22,10 @@ eqt_creadores_nacions: [
     'alemaña',
 ]
 
+eqt_creadores: [
+    'docm77',
+]
+
 keywords:
 - docm77
 - docm
