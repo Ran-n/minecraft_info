@@ -1,0 +1,9 @@
+{{ $codigo := .Get "codigo" }}
+{{ $titulo := .Get "titulo" }}
+
+
+{{ if and $codigo $titulo }}
+<a href="https://bugs.mojang.com/browse/{{ $codigo }}" target="_blank">{{ $codigo }}</a>  - {{ $titulo }}.
+{{ else if $codigo }}
+<a href="https://bugs.mojang.com/browse/{{ $codigo }}">{{ $codigo }}</a>
+{{ end }}
