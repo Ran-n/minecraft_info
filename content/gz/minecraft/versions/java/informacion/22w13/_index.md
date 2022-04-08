@@ -13,7 +13,7 @@ bookcase_cover_src_dark: 'fotos_content/cabeceira.webp'
 
 type: 'bookcase'
 bookcase_list_pages: true
-bookcase_list_sections: false
+bookcase_list_sections: true
 
 eqt_versions_edicions: [
     'java',

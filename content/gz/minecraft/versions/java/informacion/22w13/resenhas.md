@@ -68,7 +68,3 @@ eqt_version_especial_java: [
 ### Minecraft April Fools Snapshot Reaction! ▫ One Block At A Time w/ Ulraf, Cubfan135 & BrunoDanUy
 
 {{< youtube QJQMWfflBAo >}}
-
-### I Built A Starter House in Minecraft's April Fools Update ▫ Minecraft: One Block At A Time [Ep.1]
-
-{{< youtube 0qYN-vVFZ2M >}}
