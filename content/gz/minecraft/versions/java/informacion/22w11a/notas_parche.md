@@ -95,6 +95,30 @@ Cava ata as profundiades do subsolo para descubrir o bioma máis escuro en minec
 
 ## Bugs arranxados
 
+- {{< mc-bug codigo="MC-67308" titulo="Door top and side textures flip illogically when opened and closed" >}}
+- {{< mc-bug codigo="MC-95103" titulo="Shield item rendering not adjusted to the center" >}}
+- {{< mc-bug codigo="MC-99930" titulo="Brewing stand extends arms and inverts its texture when bottles are placed" >}}
+- {{< mc-bug codigo="MC-106510" titulo="Long structure names (over 64 characters) do not fit in the Structure Block GUI" >}}
+- {{< mc-bug codigo="MC-109055" titulo="Large Cocoa Pod texture is inconsistent" >}}
+- {{< mc-bug codigo="MC-127885" titulo="The textures on the spider models aren’t mirrored properly" >}}
+- {{< mc-bug codigo="MC-158668" titulo="Vex continue to attack their target after it has been killed" >}}
+- {{< mc-bug codigo="MC-165036" titulo="Boss bars with the notched style are rendered incorrectly if more than one boss bar is active" >}}
+- {{< mc-bug codigo="MC-165990" titulo="Crafting bamboo into scaffolding gives you 8 times the furnace fuel for free" >}}
+- {{< mc-bug codigo="MC-183309" titulo="Player reach is different for client and server when crawling" >}}
+- {{< mc-bug codigo="MC-195717" titulo="Custom Dimensions JSON Requires Seed" >}}
+- {{< mc-bug codigo="MC-201150" titulo="Unused pixels in end rod texture" >}}
+- {{< mc-bug codigo="MC-202580" titulo="Transition between end stone texture and end portal frame is not as seamless as it previously was" >}}
+- {{< mc-bug codigo="MC-219843" titulo="Mycelium’s side texture differs from other dirt-based blocks" >}}
+- {{< mc-bug codigo="MC-219852" titulo="Corner in smoker_bottom texture is still rotated incorrectly" >}}
+- {{< mc-bug codigo="MC-219875" titulo="You can cause a desync when repeatably picking up liquids" >}}
+- {{< mc-bug codigo="MC-221639" titulo="Light Block isn’t Dragon or Wither Immune" >}}
+- {{< mc-bug codigo="MC-225837" titulo="The word “Recipe” is spelled as “Reciple” within the “narration.recipe” string" >}}
+- {{< mc-bug codigo="MC-230603" titulo="Wolf ears and legs aren’t mirrored" >}}
+- {{< mc-bug codigo="MC-235964" titulo="Crash on “Saving world” when F3+L profiling is active - java.lang.NullPointerException: Cannot read field “f” because “this.D” is null" >}}
+- {{< mc-bug codigo="MC-238070" titulo="Brewing stand arms do not connect with their bases" >}}
+- {{< mc-bug codigo="MC-238807" titulo="“Out of memory!” message is untranslatable" >}}
+- {{< mc-bug codigo="MC-248936" titulo="Minecraft icon on MacOS is not showing correct icon" >}}
+
 ## Obtención da *snapshot*
 
 As *snapshots* están dispoñibles para Minecraft: Edición Java.
