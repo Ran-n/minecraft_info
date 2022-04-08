@@ -25,32 +25,32 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 ---
 
-Mangleiras! Ras temperadas! Bloques de lama! Máis mangleiras!
+Mangleiros! Ras temperadas! Bloques de lama! Máis mangleiros!
 Hoxe, estamos estusiasmados de traervos a *snapshot* máis a-lama-da ata a data!
 
-Tamén é certo que é a nosa única *snapshot* a-lama-da ata o día de hoxe, pero o importante é que o noso novo bioma, o pantano de mangleira, está dispoñible para probar; xunto con outras características secundarias como a brúxula de recuperación e moitos máis beliscos técnicos.
+Tamén é certo que é a nosa única *snapshot* a-lama-da ata o día de hoxe, pero o importante é que o noso novo bioma, o pantano de mangleiro, está dispoñible para probar; xunto con outras características secundarias como a brúxula de recuperación e moitos máis beliscos técnicos.
 
 Disfrutade!
 
 ## Novas características na 22w14a
 
 - Engadida a renovación da arxila.
-- Engadidas as mangleiras.
-- Engadido o bioma do pantano de mangleiras.
-- Engadido o fragmento de eco e a brúxula de recuperación.
+- Engadidos as mangleiros.
+- Engadido o bioma do pantano de mangleiros.
+- Engadido o fragmento de eco e a compás de recuperación.
 
 ## Renovación da arxila
 
 Colocar unha estalactita dun bloque de lonxitude baixo un bloque de lama provocará que este se acabe convirtindo nun bloque de arxila.
 
-## Mangleiras
+## Mangleiros
 
 Introducido un novo tipo de árbore adaptada á auga que se crea apoiandose nas súas raíces:
 
 - Teñen probabilidade de xerar unha colmea.
-- Medran a partir de propágulos de mangleira.
+- Medran a partir de propágulos de mangleiro.
 
-## Brúxula de recuperación
+## Compás de recuperación
 
 Un novo obxecto que pode ser elaborado (*crafteado*) a partir de fragmentos de eco.
 Os cales soamente se poden atopar nos cofres de cidades antigas.
@@ -59,9 +59,9 @@ Os cales soamente se poden atopar nos cofres de cidades antigas.
 - Se non te atopas na dimensión da morte, ou inda non morriches, moverase aleatoriamente.
 - Pode ser elaborada a partir dunha brúxula inicial rodeada por 8 fragmentos de eco.
 
-## Cambios na 22w14a
+## Cambios
 
-O gardián (*warden*) agora enfadase con calquer *mob* que se choque contra el, non soamente os xogadores.
+O Gardián (*Warden*) agora enfadase con calquer *mob* que se choque contra el, non soamente os xogadores.
 
 ### Cambios técnicos
 
