@@ -2,6 +2,7 @@
 #title: "Índice"
 date: 2022-03-24T18:29:00+01:00
 #draft: true
+author: 'Ran#'
 
 toc: true
 collapsible_toc: true
@@ -12,9 +13,11 @@ type: 'bookcase'
 
 Benvido á páxina de información máis completa sobre [minecraft](https://www.minecraft.net/).
 
-## Doazóns
+## Novidades!
 
-<!-- <img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/divisas/bitcoin/bitcoin_0.svg" width="10" alt="bitcoin logo" title="Bitcoin"> -->
+{{< tweet user="Cubehamster" id="1511969869721391107" >}}
+
+## Doazóns
 
 {{< moeda moeda="monero" dir="88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D" cor="si" ancho="24px" alto="24px" >}}
 <br>

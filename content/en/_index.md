@@ -1,10 +1,30 @@
 ---
-#title: "Index"
+#title: "Índice"
 date: 2022-03-24T18:29:00+01:00
-draft: false
-list_posts: false
-group_by_year: false
+#draft: true
+author: 'Ran#'
+
+toc: true
+collapsible_toc: true
+
+type: 'bookcase'
 
 ---
 
-Probando o indice
+Benvido á páxina de información máis completa sobre [minecraft](https://www.minecraft.net/).
+
+## Novidades!
+
+{{< tweet user="Cubehamster" id="1511969869721391107" >}}
+
+## Doazóns
+
+{{< moeda moeda="monero" dir="88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D" cor="si" ancho="24px" alto="24px" >}}
+<br>
+<br>
+{{< moeda moeda="bitcoin" dir="bc1q79vja8jzr27dxaf3ylu7e49ady8zq0jsm5qfk6" cor="si" ancho="24px" alto="24px">}}
+<br>
+<br>
+{{< moeda moeda="wownero" dir="WW2RheTNrq8goAi42Dz5AKUj1qLSaTSSgiH7sHR2qRqojg238EXP3MM3xuUgswriET7UrpkEoYaCkecBhnU49oxM1dZyYoSmm" cor="si" ancho="24px" alto="24px" >}}
+
+## Contidos

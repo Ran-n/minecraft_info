@@ -1,0 +1,30 @@
+---
+title: "22w13 oneBlockAtATime"
+date: 2022-04-03T14:07:32+02:00
+#draft: true
+author: Ran#
+
+toc: true
+collapsible_toc: true
+
+weight: -20220401
+bookcase_cover_src: 'fotos_content/cabeceira.webp'
+bookcase_cover_src_dark: 'fotos_content/cabeceira.webp'
+
+type: 'bookcase'
+bookcase_list_pages: true
+bookcase_list_sections: true
+
+eqt_versions_edicions: [
+    'java',
+]
+
+eqt_versions_java: [
+    '22w13',
+]
+
+eqt_versions_especiais_java: [
+    'dia dos inocentes',
+]
+
+---

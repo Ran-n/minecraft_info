@@ -1,5 +1,149 @@
 [[navbar]]
-    identifier = "granxas"
-    name = "Farms"
-    url = "/en/farms/"
+    identifier = "minecraft"
+    name = "Minecraft"
+    url = "/minecraft/"
     weight = 1
+    [[navbar]]
+        parent = 'minecraft'
+        identifier = "versions"
+        name = "Versións"
+        url = "/minecraft/versions/"
+        weight = 1
+        [[navbar]]
+            parent = 'versions'
+            identifier = "versions_java"
+            name = "Java"
+            url = "/minecraft/versions/java/"
+            weight = 1
+            [[navbar]]
+                parent = 'versions_java'
+                identifier = "cronoloxia"
+                name = "Cronoloxía"
+                url = "/minecraft/versions/java/cronoloxia"
+                weight = 1
+            [[navbar]]
+                parent = 'versions_java'
+                identifier = "informacion"
+                name = "Información"
+                url = "/minecraft/versions/java/informacion"
+                weight = 2
+        [[navbar]]
+            parent = 'versions'
+            identifier = "versions_bedrock"
+            name = "Bedrock"
+            url = "/minecraft/versions/bedrock/"
+            weight = 2
+
+[[navbar]]
+    identifier = "granxas"
+    name = "Granxas"
+    url = "/granxas/"
+    weight = 2
+    [[navbar]]
+        parent = 'granxas'
+        identifier = "granxas_java"
+        name = "Java"
+        url = "/granxas/java/"
+        weight = 1
+        [[navbar]]
+            parent = "granxas_java"
+            identifier = "ferro"
+            name = "Ferro"
+            url = "/granxas/java/ferro/"
+            weight = 1
+        [[navbar]]
+            parent = "granxas_java"
+            identifier = "lama"
+            name = "Lama"
+            url = "/granxas/java/lama/"
+            weight = 2
+    [[navbar]]
+        parent = 'granxas'
+        identifier = "granxas_bedrock"
+        name = "Bedrock"
+        url = "/granxas/bedrock/"
+        weight = 2
+
+[[navbar]]
+    identifier = "ferramentas"
+    name = "Ferramentas"
+    url = "/ferramentas/"
+    weight = 3
+    [[navbar]]
+        parent = 'ferramentas'
+        identifier = "ferramentas_java"
+        name = "Java"
+        url = "/ferramentas/java/"
+        weight = 1
+    [[navbar]]
+        parent = 'ferramentas'
+        identifier = "ferramentas_bedrock"
+        name = "Bedrock"
+        url = "/ferramentas/bedrock/"
+        weight = 2
+
+[[navbar]]
+    identifier = "redstone"
+    name = "Redstone"
+    url = "/redstone/"
+    weight = 4
+    [[navbar]]
+        parent = 'redstone'
+        identifier = "redstone_java"
+        name = "Java"
+        url = "/redstone/java/"
+        weight = 1
+    [[navbar]]
+        parent = 'redstone'
+        identifier = "redstone_bedrock"
+        name = "Bedrock"
+        url = "/redstone/bedrock/"
+        weight = 2
+
+[[navbar]]
+    identifier = "mods"
+    name = "Mods"
+    url = "/mods/"
+    weight = 5
+    [[navbar]]
+        parent = 'mods'
+        identifier = "mods_java"
+        name = "Java"
+        url = "/mods/java/"
+        weight = 1
+    [[navbar]]
+        parent = 'mods'
+        identifier = "mods_bedrock"
+        name = "Bedrock"
+        url = "/mods/bedrock/"
+        weight = 2
+
+[[navbar]]
+    identifier = "servidores"
+    name = "Servidores"
+    url = "/servidores/"
+    weight = 6
+    [[navbar]]
+        parent = 'servidores'
+        identifier = "servidores_java"
+        name = "Java"
+        url = "/servidores/java/"
+        weight = 1
+    [[navbar]]
+        parent = 'servidores'
+        identifier = "servidores_bedrock"
+        name = "Bedrock"
+        url = "/servidores/bedrock/"
+        weight = 2
+
+[[navbar]]
+    identifier = "creadores"
+    name = "Creadores"
+    url = "/creadores/"
+    weight = 7
+
+[[navbar]]
+    identifier = "sobre"
+    name = "Sobre"
+    url = "/sobre/"
+    weight = 8
