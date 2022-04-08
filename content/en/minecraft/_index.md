@@ -10,4 +10,4 @@ bookcase_cover_src_dark: 'fotos_content/minecraft/minecraft_cover.png'
 
 ---
 
-[Páxina oficial](https://www.minecraft.net/)
+[Official webpage](https://www.minecraft.net/)
