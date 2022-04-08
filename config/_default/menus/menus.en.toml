@@ -6,7 +6,7 @@
     [[navbar]]
         parent = 'minecraft'
         identifier = "versions"
-        name = "Versións"
+        name = "Versions"
         url = "/minecraft/versions/"
         weight = 1
         [[navbar]]
@@ -18,14 +18,14 @@
             [[navbar]]
                 parent = 'versions_java'
                 identifier = "cronoloxia"
-                name = "Cronoloxía"
-                url = "/minecraft/versions/java/cronoloxia"
+                name = "Chronology"
+                url = "/minecraft/versions/java/chronology"
                 weight = 1
             [[navbar]]
                 parent = 'versions_java'
                 identifier = "informacion"
-                name = "Información"
-                url = "/minecraft/versions/java/informacion"
+                name = "Information"
+                url = "/minecraft/versions/java/information"
                 weight = 2
         [[navbar]]
             parent = 'versions'
@@ -36,50 +36,50 @@
 
 [[navbar]]
     identifier = "granxas"
-    name = "Granxas"
-    url = "/granxas/"
+    name = "Farms"
+    url = "/farms/"
     weight = 2
     [[navbar]]
         parent = 'granxas'
         identifier = "granxas_java"
         name = "Java"
-        url = "/granxas/java/"
+        url = "/farms/java/"
         weight = 1
         [[navbar]]
             parent = "granxas_java"
             identifier = "ferro"
-            name = "Ferro"
-            url = "/granxas/java/ferro/"
+            name = "Iron"
+            url = "/farms/java/iron/"
             weight = 1
         [[navbar]]
             parent = "granxas_java"
             identifier = "lama"
-            name = "Lama"
-            url = "/granxas/java/lama/"
+            name = "Mud"
+            url = "/farms/java/mud/"
             weight = 2
     [[navbar]]
         parent = 'granxas'
         identifier = "granxas_bedrock"
         name = "Bedrock"
-        url = "/granxas/bedrock/"
+        url = "/farms/bedrock/"
         weight = 2
 
 [[navbar]]
     identifier = "ferramentas"
-    name = "Ferramentas"
-    url = "/ferramentas/"
+    name = "Tools"
+    url = "/tools/"
     weight = 3
     [[navbar]]
         parent = 'ferramentas'
         identifier = "ferramentas_java"
         name = "Java"
-        url = "/ferramentas/java/"
+        url = "/tools/java/"
         weight = 1
     [[navbar]]
         parent = 'ferramentas'
         identifier = "ferramentas_bedrock"
         name = "Bedrock"
-        url = "/ferramentas/bedrock/"
+        url = "/tools/bedrock/"
         weight = 2
 
 [[navbar]]
@@ -120,30 +120,30 @@
 
 [[navbar]]
     identifier = "servidores"
-    name = "Servidores"
-    url = "/servidores/"
+    name = "Servers"
+    url = "/servers/"
     weight = 6
     [[navbar]]
         parent = 'servidores'
         identifier = "servidores_java"
         name = "Java"
-        url = "/servidores/java/"
+        url = "/servers/java/"
         weight = 1
     [[navbar]]
         parent = 'servidores'
         identifier = "servidores_bedrock"
         name = "Bedrock"
-        url = "/servidores/bedrock/"
+        url = "/servers/bedrock/"
         weight = 2
 
 [[navbar]]
     identifier = "creadores"
-    name = "Creadores"
-    url = "/creadores/"
+    name = "Creators"
+    url = "/creators/"
     weight = 7
 
 [[navbar]]
     identifier = "sobre"
-    name = "Sobre"
-    url = "/sobre/"
+    name = "About"
+    url = "/about/"
     weight = 8
