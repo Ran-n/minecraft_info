@@ -1,5 +1,5 @@
 ---
-title: "Servidores"
+title: "Servers"
 date: 2022-04-05T18:52:21+02:00
 #draft: true
 author: 'Ran#'
@@ -7,8 +7,11 @@ author: 'Ran#'
 toc: false
 collapsible_toc: false
 
-#slug: '/servidores/'
-#aliases : ['/servidores/']
+url: '/en/servers/'
+slug: 'servers'
+aliases : [
+    'servidores'
+]
 
 weight: 5
 bookcase_cover_src: 'fotos_content/servidores/servidores.jpg'

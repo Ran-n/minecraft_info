@@ -1,5 +1,5 @@
 ---
-title: "Granxas"
+title: "Farms"
 date: 2022-03-26T20:43:35+01:00
 #draft: true
 author: 'Ran#'
@@ -7,6 +7,7 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
+url: '/en/farms/'
 #slug: 'granxas'
 #aliases: ['granxas']
 

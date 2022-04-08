@@ -1,5 +1,5 @@
 ---
-title: "Ferro"
+title: "Iron"
 date: 2022-03-27T21:54:51+02:00
 #draft: true
 author: 'Ran#'
@@ -7,6 +7,7 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
+url: '/en/farms/java/iron/'
 #slug: 'granxas/java/ferro'
 #aliases: ['granxas/java/ferro']
 

@@ -1,5 +1,5 @@
 ---
-title: "Ferramentas"
+title: "Tools"
 date: 2022-04-04T22:49:12+02:00
 #draft: true
 author: 'Ran#'
@@ -7,7 +7,8 @@ author: 'Ran#'
 toc: false
 collapsible_toc: false
 
-slug: 'ferramentas'
+url: '/en/tools/'
+slug: 'tools'
 #aliases : ['ferramentas']
 
 weight: 3

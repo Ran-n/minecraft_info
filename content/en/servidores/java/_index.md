@@ -7,8 +7,9 @@ author: "Ran#"
 toc: true
 collapsible_toc: false
 
-#slug: '/servidores/java/'
-#aliases: ['/servidores/java/']
+url: '/en/servers/java'
+slug: 'java'
+#aliases: ['java']
 
 weight: 1
 bookcase_cover_src: 'fotos_content/java-bedrock/java.png'

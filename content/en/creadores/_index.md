@@ -1,5 +1,5 @@
 ---
-title: "Creadores"
+title: "Creators"
 date: 2022-03-26T16:43:10+01:00
 author: "Ran#"
 #draft: true
@@ -7,8 +7,11 @@ author: "Ran#"
 toc: true
 collapsible_toc: false
 
-slug: 'creadores'
-aliases: ['/creadores']
+url : '/en/creators'
+slug: 'creators'
+aliases: [
+    'creadores',
+]
 
 weight: 7
 bookcase_cover_src: 'fotos_content/creadores/social-media.png'

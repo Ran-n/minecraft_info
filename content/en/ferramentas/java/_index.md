@@ -1,5 +1,5 @@
 ---
-title: "Ferramentas Java"
+title: "Java Tools"
 date: 2022-04-03T13:43:42+02:00
 #draft: true
 author: "Ran#"
@@ -7,6 +7,7 @@ author: "Ran#"
 toc: true
 collapsible_toc: false
 
+url: '/en/tools/java/'
 #slug: '/ferramentas/java'
 #aliases: ['/ferramentas/java']
 

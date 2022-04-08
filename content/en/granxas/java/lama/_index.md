@@ -1,5 +1,5 @@
 ---
-title: "Lama"
+title: "Mud"
 date: 2022-03-27T21:54:04+02:00
 #draft: true
 author: 'Ran#'
@@ -7,6 +7,7 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
+url: '/en/farms/java/mud/'
 #slug: 'granxas/java/lama'
 #aliases: ['granxas/java/lama']
 
