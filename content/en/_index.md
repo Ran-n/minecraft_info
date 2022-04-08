@@ -11,13 +11,13 @@ type: 'bookcase'
 
 ---
 
-Benvido á páxina de información máis completa sobre [minecraft](https://www.minecraft.net/).
+Welcome to the most complete webpage about [minecraft](https://www.minecraft.net/) information.
 
-## Novidades!
+## News!
 
 {{< tweet user="Cubehamster" id="1511969869721391107" >}}
 
-## Doazóns
+## Donations
 
 {{< moeda moeda="monero" dir="88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D" cor="si" ancho="24px" alto="24px" >}}
 <br>
@@ -27,4 +27,4 @@ Benvido á páxina de información máis completa sobre [minecraft](https://www.
 <br>
 {{< moeda moeda="wownero" dir="WW2RheTNrq8goAi42Dz5AKUj1qLSaTSSgiH7sHR2qRqojg238EXP3MM3xuUgswriET7UrpkEoYaCkecBhnU49oxM1dZyYoSmm" cor="si" ancho="24px" alto="24px" >}}
 
-## Contidos
+## Contents

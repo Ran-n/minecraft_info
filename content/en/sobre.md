@@ -4,8 +4,10 @@ date: 2022-03-28T19:56:28+02:00
 #draft: true
 author: 'Ran#'
 
-slug: 'sobre'
-aliases: ['/sobre']
+slug: 'about'
+aliases: [
+    'sobre',
+]
 
 weight: 8
 bookcase_cover_src: 'fotos_content/paisaxes/paisaxe1.jpg'
@@ -18,15 +20,15 @@ bookcase_cover_src_dark: 'fotos_content/paisaxes/paisaxe1.jpg'
 {{< icon name="" link="https://stackexchange.com/users/22323027/ran?tab=accounts" >}}
 {{< icon name="" link="https://pypi.org/user/ran-n/" >}}
 
-Páxina web feita por Ran#.
+Made by Ran#.
 
-## Contacto
+## Contact
 
 {{< icon name="mail" link="mailto:ran-n@tutanota.com" >}}
 
-Para consultas de negocios mandar correo a: ran-n@tutanota.com
+For business inquiries use this email: ran-n@tutanota.com
 
-## Doazóns
+## Donations
 
 {{< moeda moeda="monero" dir="88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D" cor="si" ancho="24px" alto="24px" >}}
 <br>
