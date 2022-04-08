@@ -17,6 +17,15 @@ Benvido á páxina de información máis completa sobre [minecraft](https://www.
 
 {{< tweet user="Cubehamster" id="1511969869721391107" >}}
 
+Tradución:\
+"
+Na 22w13a Mojang fixo un cambio polo que soamente os bloques de lá enriba dos bloques de notas serían capaces de prever o seu son.
+Os bloques de notas son moi usados na *redstone*.
+Vota para que este problema colla tracción, doutro xeito toda a *redstone* se volverá ruidosa
+"\
+@Cubehamster
+
+
 ## Doazóns
 
 {{< moeda moeda="monero" dir="88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D" cor="si" ancho="24px" alto="24px" >}}
