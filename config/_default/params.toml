@@ -16,7 +16,7 @@ enable_twitter_cards = true
 [params.list_layout]
 enable_group_by_year = false
 enable_show_date = false
-enable_pagination = true
+enable_pagination = false
 
 [param.syntax_highlight]
 lig = "builtin"
