@@ -1,10 +1,11 @@
 ---
-title: "Información"
+title: "Information"
 date: 2022-04-03T13:43:42+02:00
 #draft: true
 author: "Ran#"
 
-#slug: informacion
+url: '/en/minecraft/versions/java/information/'
+slug: 'information'
 #aliases: ['información']
 
 weight: 2

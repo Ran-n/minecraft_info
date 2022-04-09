@@ -1,5 +1,5 @@
 ---
-title: "Reseñas"
+title: "Reviews"
 date: 2022-04-06T20:01:17+02:00
 #draft: true
 author: 'Ran#'
@@ -7,11 +7,12 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
-slug: '/resenhas/'
-aliases: [
-    'reviews',
-    'reseñas',
-]
+url: '/en/minecraft/versions/java/information/22w14a/reviews/'
+#slug: '/resenhas/'
+#aliases: [
+#    'reviews',
+#    'reseñas',
+#]
 
 weight: 2
 bookcase_cover_src: 'monochrome/cover/picture.png'

@@ -1,5 +1,5 @@
 ---
-title: "Reseñas"
+title: "Reviews"
 date: 2022-04-06T20:01:17+02:00
 #draft: true
 author: 'Ran#'
@@ -7,9 +7,9 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
-slug: '/resenhas/'
+url: '/en/minecraft/versions/java/information/22w11a/reviews/'
+slug: 'reviews'
 aliases: [
-    'reviews',
     'reseñas',
 ]
 

@@ -7,6 +7,8 @@ author: Ran#
 toc: true
 collapsible_toc: true
 
+url: '/en/minecraft/versions/java/information/22w11a'
+
 weight: -20220316
 bookcase_cover_src: 'fotos_content/mobs/ra/ra1.webp'
 bookcase_cover_src_dark: 'fotos_content/mobs/ra/ra1.webp'
@@ -28,3 +30,4 @@ eqt_snapshots_versions_java: [
 ]
 
 ---
+<img title="22w11a" alt="22w11a" src="/fotos_content/mobs/ra/ra1.webp">

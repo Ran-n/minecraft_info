@@ -1,11 +1,12 @@
 ---
-title: "Reseñas"
+title: "Reviews"
 date: 2022-04-06T23:17:42+02:00
 #draft: true
 
 toc: true
 collapsible_toc: false
 
+url: '/en/minecraft/versions/java/information/22w13/reviews/'
 slug: 'resenhas'
 aliases: [
     'reseñas',

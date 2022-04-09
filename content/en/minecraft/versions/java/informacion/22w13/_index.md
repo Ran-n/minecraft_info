@@ -7,6 +7,8 @@ author: Ran#
 toc: true
 collapsible_toc: true
 
+url: '/en/minecraft/versions/java/information/22w13/'
+
 weight: -20220401
 bookcase_cover_src: 'fotos_content/cabeceira.webp'
 bookcase_cover_src_dark: 'fotos_content/cabeceira.webp'
@@ -28,3 +30,4 @@ eqt_versions_especiais_java: [
 ]
 
 ---
+<img title="22w13" alt="22w13" src="/fotos_content/cabeceira.webp">

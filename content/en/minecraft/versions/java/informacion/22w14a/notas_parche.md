@@ -1,5 +1,5 @@
 ---
-title: "Notas de versión"
+title: "Patch Notes"
 date: 2022-04-05T21:55:25+02:00
 #draft: true
 author: 'Ran#'
@@ -7,12 +7,13 @@ author: 'Ran#'
 toc: true
 collapsible_toc: true
 
-slug: 'notas'
-aliases: [
-    'notas_version',
-    'patch_notes',
-    'notes',
-]
+url: '/en/minecraft/versions/java/information/22w14a/notes/'
+#slug: 'notas'
+#aliases: [
+#    'notas_version',
+#    'patch_notes',
+#    'notes',
+#]
 
 weight: 1
 bookcase_cover_src: 'monochrome/cover/list.png'

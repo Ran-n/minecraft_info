@@ -1,5 +1,5 @@
 ---
-title: "Series especiais nesta versión"
+title: "Special series during this version"
 date: 2022-04-08T15:36:00+02:00
 #draft: true
 author: 'Ran#'
@@ -7,6 +7,7 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
+url: '/en/minecraft/versions/java/information/22w13/series/'
 slug: 'series'
 #aliases: []
 

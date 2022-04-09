@@ -1,11 +1,13 @@
 ---
-title: "Notas de versión"
+title: "Patch Notes"
 date: 2022-04-03T14:07:32+02:00
 #draft: true
 author: 'Ran#'
 
 toc: true
 collapsible_toc: false
+
+url: '/en/minecraft/versions/java/information/22w13/notes/'
 
 weight: 1
 bookcase_cover_src: 'monochrome/cover/list.png'

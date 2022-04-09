@@ -28,3 +28,4 @@ eqt_snapshots_versions_java: [
 ]
 
 ---
+<img title="22w13a" alt="22w13a" src="/fotos_content/mobs/allay/allay1.webp">

@@ -28,3 +28,4 @@ eqt_versions_especiais_java: [
 ]
 
 ---
+<img title="22w13" alt="22w13" src="/fotos_content/cabeceira.webp">

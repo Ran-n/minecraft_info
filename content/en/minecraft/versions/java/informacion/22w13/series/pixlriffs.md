@@ -7,6 +7,8 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
+url: '/en/minecraft/versions/java/information/22w13/series/pixlriffs/'
+
 weight: 1
 bookcase_cover_src: 'fotos_content/creadores/Pixlriffs.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/Pixlriffs.svg'

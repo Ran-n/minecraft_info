@@ -1,9 +1,10 @@
 ---
-title: "Cronoloxía"
+title: "Chronology"
 date: 2022-04-03T13:43:42+02:00
 #draft: true
 author: "Ran#"
 
+url: '/en/minecraft/versions/java/chronology/'
 #slug: 'cronoloxia'
 #aliases: ['cronoloxía']
 

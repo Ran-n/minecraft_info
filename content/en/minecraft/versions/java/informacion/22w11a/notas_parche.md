@@ -1,5 +1,5 @@
 ---
-title: "Notas de versión"
+title: "Version Notes"
 date: 2022-04-05T21:55:25+02:00
 #draft: true
 author: 'Ran#'
@@ -7,6 +7,7 @@ author: 'Ran#'
 toc: true
 collapsible_toc: true
 
+url: '/en/minecraft/versions/java/information/22w11a/notas/'
 slug: 'notas'
 aliases: [
     'notas_version',

@@ -7,6 +7,8 @@ author: Ran#
 toc: true
 collapsible_toc: true
 
+url: '/en/minecraft/versions/java/information/22w14a/'
+
 weight: -20220406
 bookcase_cover_src: 'fotos_content/paisaxes/paisaxe2.jpg'
 bookcase_cover_src_dark: 'fotos_content/paisaxes/paisaxe2.jpg'
@@ -28,3 +30,4 @@ eqt_snapshots_versions_java: [
 ]
 
 ---
+<img title="22w14a" alt="22w14a" src="/fotos_content/paisaxes/paisaxe2.jpg">

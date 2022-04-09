@@ -10,15 +10,15 @@ weight: -20220401
 
 2022 04 01
 
-- Eliminados todos os problemas de inventario por medio da eliminación do mesmo.
-- Convirtido o mundo enteiro en espazo de inventorio do xogador.
-- Cerca de 14 quintillóns de espazos de inventorio.
-- Tamén eliminada a experiencia e os encantamentos, xa que estamos á faena.
-- Reparado MC-4 facendo que non haxa obxectos no chan.
+- Fixed all inventory issues by removing the inventory
+- Made the whole world into a player inventory space
+- Up to 14 quintillion inventory slots
+- Also removed experience and enchanting, while we’re at it
+- Fixed MC-4 by having no items on the ground
 - Dropper drops. Droppier drops?
-- Mellorado o factor de emoción dos cofres >:)
-- Engadida a habilidade de lanzar cousas. YEET!
-- O cristal é un 50% máis realista ó ser lanzado.
-- Engadidos movementos de loitador como alternativa ás correas.
-- Modificado o combate ~~porque é difícil~~ para crear unha experiencia de xogo máis inmersiva.
-- Bloque furtivo? Que bloque furtivo?
+- Improved chest excitement factor >:)
+- Added the ability to throw stuff. YEET!
+- Glass is 50% more realistic when thrown
+- Added wrestling moves as an alternative to leashes
+- Reworked combat ~~because it’s haaaard~~ to create a more immersive gameplay experience
+- Sneaky block? What sneaky block?
