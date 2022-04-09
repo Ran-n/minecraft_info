@@ -28,4 +28,4 @@ eqt_snapshots_versions_java: [
 ]
 
 ---
-<img title="22w11a" alt="22w11a" src="/static/fotos_content/mobs/ra/ra1.webp">
+<img title="22w11a" alt="22w11a" src="/fotos_content/mobs/ra/ra1.webp">
