@@ -45,18 +45,6 @@
         name = "Java"
         url = "/en/farms/java/"
         weight = 1
-        [[navbar]]
-            parent = "granxas_java"
-            identifier = "ferro"
-            name = "Iron"
-            url = "/en/farms/java/iron/"
-            weight = 1
-        [[navbar]]
-            parent = "granxas_java"
-            identifier = "lama"
-            name = "Mud"
-            url = "/en/farms/java/mud/"
-            weight = 2
     [[navbar]]
         parent = 'granxas'
         identifier = "granxas_bedrock"

@@ -45,18 +45,6 @@
         name = "Java"
         url = "/granxas/java/"
         weight = 1
-        [[navbar]]
-            parent = "granxas_java"
-            identifier = "ferro"
-            name = "Ferro"
-            url = "/granxas/java/ferro/"
-            weight = 1
-        [[navbar]]
-            parent = "granxas_java"
-            identifier = "lama"
-            name = "Lama"
-            url = "/granxas/java/lama/"
-            weight = 2
     [[navbar]]
         parent = 'granxas'
         identifier = "granxas_bedrock"

@@ -7,11 +7,13 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
-#slug: 'granxas/java/ferro'
-#aliases: ['granxas/java/ferro']
+slug: 'ferro'
+#aliases: []
 
 weight: 1
-bookcase_cover_src: 'fotos_content/granxas/pixelart_sandia.jpg'
+bookcase_cover_src: 'fotos_content/mobs/iron_golem/iron_golem_ofrecendo_flor2.png'
 bookcase_cover_src_dark: 'fotos_content/mobs/iron_golem/iron_golem_ofrecendo_flor2.png'
 
 ---
+
+{{< terms-cloud terms="eqt_granxa_iron_versions" >}}
