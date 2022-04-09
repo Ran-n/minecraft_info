@@ -21,6 +21,7 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 ---
 
 # 22w11a
+
 <img title="22w11a" alt="22w11a" src="/fotos_content/mobs/ra/ra1.webp">
 
 ---
