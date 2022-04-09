@@ -1,21 +1,24 @@
-navbarTitle = "Minecraft Information"
+navbar_title = "Minecraft Information"
 footer = "Minecraft ❤️"
-
-enableZoomingJS = true
-enableTOC = true
-enableSiteSearch = true
-enableMathJax = false
-
-# Codeblock
-usePrismJs = false
-enablePrismJsLineNo = true
-enableCodeCopy = true
-
-#SEO
-enableOpenGraph = true
-enableTwitterCards = true
 author = "Ran#"
 
-# Collapsible Menu
-enableCollapsibleTOC = true
-enableCollapsibleChangelogs= true
+enable_toc = true
+enable_collapsible_toc = true
+enable_collapsible_changelogs = true
+
+enable_site_search = true
+enable_math = true
+enable_zooming_js = false
+
+enable_open_graph = true
+enable_twitter_cards = true
+
+[params.list_layout]
+enable_group_by_year = false
+enable_show_date = false
+enable_pagination = false
+
+[param.syntax_highlight]
+lig = "builtin"
+    [param.syntax_highlight.builtin]
+    enable_code_copy = true
