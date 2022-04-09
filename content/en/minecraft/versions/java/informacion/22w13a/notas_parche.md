@@ -8,12 +8,12 @@ toc: true
 collapsible_toc: true
 
 url: '/en/minecraft/versions/java/information/22w13a/notes/'
-slug: 'notas'
-aliases: [
-    'notas_version',
-    'patch_notes',
-    'notes',
-]
+slug: 'notes'
+#aliases: [
+#    'notas_version',
+#    'patch_notes',
+#    'notes',
+#]
 
 weight: 1
 bookcase_cover_src: 'monochrome/cover/list.png'

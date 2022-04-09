@@ -7,13 +7,12 @@ author: 'Ran#'
 toc: true
 collapsible_toc: true
 
-url: '/en/minecraft/versions/java/information/22w11a/notas/'
-slug: 'notas'
-aliases: [
-    'notas_version',
-    'patch_notes',
-    'notes',
-]
+url: '/en/minecraft/versions/java/information/22w11a/notes/'
+slug: 'notes'
+#aliases: [
+#    'notas_version',
+#    'patch_notes',
+#]
 
 weight: 1
 bookcase_cover_src: 'monochrome/cover/list.png'

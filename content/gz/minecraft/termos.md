@@ -25,11 +25,16 @@ Aclarar que esta se recompilou coa axuda das traducións oficiais atopadas en [c
 
 ## Lista de traducións
 ### C
-Compass = Compás\
-Craftear = Fabricar
+Compass = [Compás](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5219179)\
+Craft = [Fabricar](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#q=crafting)
 
 ### M
-Mangrove = Mangleiro
+Mangrove = [Mangleiro](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#q=mangrove%20log)\
+Mob = [Criatura](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5220723)
+
+### S
+Sculk = [Merodeador](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5287884)\
+Sculk Shrieker = [Berrador de Merodeador](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5287888)
 
 ### W
-Warden = Gardián
+Warden = [Gardián](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5295296)
