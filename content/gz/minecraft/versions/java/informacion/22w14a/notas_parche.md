@@ -21,6 +21,7 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 ---
 
 # 22w14a
+
 <img src="/fotos_content/paisaxes/paisaxe2.jpg" />
 
 ---

@@ -16,6 +16,7 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 ---
 
 # 22w13oneBlockAtATime
+
 <img src="/fotos_content/cabeceira.webp" />
 
 ---

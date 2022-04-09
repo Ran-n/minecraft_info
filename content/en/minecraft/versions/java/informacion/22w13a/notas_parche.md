@@ -22,6 +22,7 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 ---
 
 # 22w13a
+
 <img src="/fotos_content/mobs/allay/allay1.webp" />
 
 ---
