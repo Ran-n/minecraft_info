@@ -14,6 +14,13 @@ weight: 1
 bookcase_cover_src: 'fotos_content/mobs/iron_golem/iron_golem_ofrecendo_flor2.png'
 bookcase_cover_src_dark: 'fotos_content/mobs/iron_golem/iron_golem_ofrecendo_flor2.png'
 
+type: blank
+
 ---
 
+[info](./info)
+
+## Escolle a versión
+
 {{< terms-cloud terms="eqt_granxa_iron_versions" >}}
+
