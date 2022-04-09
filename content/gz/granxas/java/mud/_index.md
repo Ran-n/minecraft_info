@@ -7,11 +7,20 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
-#slug: 'granxas/java/lama'
-#aliases: ['granxas/java/lama']
+url: '/granxas/java/lama/'
+slug: 'lama'
+aliases: [
+    '/gz/granxas/java/lama/'
+]
 
 weight: 2
 bookcase_cover_src: 'fotos_content/obxectos/lama1.jpg'
 bookcase_cover_src_dark: 'fotos_content/obxectos/lama1.jpg'
 
+type: 'blank'
+
 ---
+
+## Escolle a versión
+
+{{< terms-cloud terms="eqt-j-granxa-mud-versions" >}}
