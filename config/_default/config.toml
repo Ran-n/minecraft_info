@@ -7,7 +7,7 @@ enableEmoji = true
 #contentDir = 'content'
 custom_js = ["js/custom.js"]
 relativeURLs = true
-#canonifyURLs = true
+canonifyURLs = true
 
 [build]
 writeStats = true
