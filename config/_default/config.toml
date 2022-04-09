@@ -6,7 +6,7 @@ defaultContentLanguage = "gz"
 enableEmoji = true
 #contentDir = 'content'
 custom_js = ["js/custom.js"]
-#relativeURLs = true
+relativeURLs = true
 #canonifyURLs = true
 
 [build]
