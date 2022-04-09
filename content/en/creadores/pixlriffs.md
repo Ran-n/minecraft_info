@@ -6,11 +6,13 @@ title: "Pixlriffs"
 toc: true
 collapsible_toc: false
 
+url: '/en/creators/pixlriffs/'
+
 bookcase_cover_src: 'fotos_content/creadores/Pixlriffs.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/Pixlriffs.svg'
 
 eqt_creadores_linguas: [
-    'inglés',
+    'english',
 ]
 
 eqt_creadores_edicions: [
@@ -18,7 +20,7 @@ eqt_creadores_edicions: [
 ]
 
 eqt_creadores_nacions: [
-    'inglaterra',
+    'england',
 ]
 
 eqt_creadores: [

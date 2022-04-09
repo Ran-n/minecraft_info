@@ -7,11 +7,13 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
+url: '/en/creators/docm/'
+
 bookcase_cover_src: 'fotos_content/creadores/docm.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/docm.svg'
 
 eqt_creadores_linguas: [
-    'inglés',
+    'english',
 ]
 
 eqt_creadores_edicions: [
@@ -19,7 +21,7 @@ eqt_creadores_edicions: [
 ]
 
 eqt_creadores_nacions: [
-    'alemaña',
+    'germany',
 ]
 
 eqt_creadores: [

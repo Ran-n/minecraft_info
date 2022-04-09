@@ -7,12 +7,14 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
+url: '/en/creators/ilmango/'
+
 #weight: 0
 bookcase_cover_src: 'fotos_content/creadores/ilmango.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/ilmango.svg'
 
 eqt_creadores_linguas: [
-    'inglés',
+    'english',
 ]
 
 eqt_creadores_edicions: [
@@ -20,7 +22,7 @@ eqt_creadores_edicions: [
 ]
 
 eqt_creadores_nacions: [
-    'alemaña',
+    'germany',
 ]
 
 keywords:

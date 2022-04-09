@@ -2,14 +2,17 @@
 title: "EthosLab"
 #date: 2022-03-26T22:59:56+01:00
 #draft: true
+
 toc: true
 collapsible_toc: false
+
+url: '/en/creators/etho/'
 
 bookcase_cover_src: 'fotos_content/creadores/etho.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/etho.svg'
 
 eqt_creadores_linguas: [
-    'inglés',
+    'english',
 ]
 
 eqt_creadores_edicions: [
@@ -17,7 +20,7 @@ eqt_creadores_edicions: [
 ]
 
 eqt_creadores_nacions: [
-    'canadá',
+    'canada',
 ]
 
 keywords:

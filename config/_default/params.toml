@@ -8,7 +8,7 @@ enable_collapsible_changelogs = true
 
 enable_site_search = true
 enable_math = true
-enable_zooming_js = false
+enable_zooming_js = true
 
 enable_open_graph = true
 enable_twitter_cards = true

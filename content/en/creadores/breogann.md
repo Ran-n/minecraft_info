@@ -8,6 +8,8 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
+url: '/en/creators/breogann/'
+
 weight: 1
 bookcase_cover_src: 'fotos_content/creadores/breogann.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/breogann.svg'
@@ -16,9 +18,9 @@ bookcase_cover_src_dark: 'fotos_content/creadores/breogann.svg'
 #aliases: ['/creadores/breogann/']
 
 eqt_creadores_linguas: [
-    'galego',
-    'inglés',
-    'castelán',
+    'galician',
+    'english',
+    'spanish',
 ]
 
 eqt_creadores_edicions: [
