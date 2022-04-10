@@ -24,10 +24,10 @@ Listado alfabético da páxina de información de tódolos creadores de contido 
 Dentro de cada un especifícase a linguaxe e edición que usan no seu contido.
 
 #### Por edición
-{{< terms-cloud terms="eqt_creadores_edicions" >}}
+{{< terms-cloud terms="eqt-creadores-edicions" >}}
 
 #### Por idioma
-{{< terms-cloud terms="eqt_creadores_linguas" >}}
+{{< terms-cloud terms="eqt-creadores-linguas" >}}
 
 #### Por nación
-{{< terms-cloud terms="eqt_creadores_nacions" >}}
+{{< terms-cloud terms="eqt-creadores-nacions" >}}
