@@ -11,15 +11,15 @@ url: '/en/creators/etho/'
 bookcase_cover_src: 'fotos_content/creadores/etho.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/etho.svg'
 
-eqt_creadores_linguas: [
+eqt-creadores-linguas: [
     'english',
 ]
 
-eqt_creadores_edicions: [
+eqt-creadores-edicions: [
     'java',
 ]
 
-eqt_creadores_nacions: [
+eqt-creadores-nacions: [
     'canada',
 ]
 

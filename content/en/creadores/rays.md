@@ -13,15 +13,15 @@ url: '/en/creators/rays/'
 bookcase_cover_src: 'fotos_content/creadores/rays.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/rays.svg'
 
-eqt_creadores_linguas: [
+eqt-creadores-linguas: [
     'english',
 ]
 
-eqt_creadores_edicions: [
+eqt-creadores-edicions: [
     'java',
 ]
 
-eqt_creadores_nacions: [
+eqt-creadores-nacions: [
     'united states',
 ]
 

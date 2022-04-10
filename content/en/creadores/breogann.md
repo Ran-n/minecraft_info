@@ -17,17 +17,17 @@ bookcase_cover_src_dark: 'fotos_content/creadores/breogann.svg'
 #slug: '/breogan/'
 #aliases: ['/creadores/breogann/']
 
-eqt_creadores_linguas: [
+eqt-creadores-linguas: [
     'galician',
     'english',
     'spanish',
 ]
 
-eqt_creadores_edicions: [
+eqt-creadores-edicions: [
     'java',
 ]
 
-eqt_creadores_nacions: [
+eqt-creadores-nacions: [
     'galiza',
 ]
 
