@@ -2,36 +2,37 @@ tag = "tags"
 
 # versions
 ## java | bedrock
-eqt_version_edicion = "eqt_versions_edicions"
+eqt-version-edicion = "eqt-versions-edicions"
 
 ## que version/snapshot é
-eqt_version_java = "eqt_versions_java"
+eqt-version-java = "eqt-versions-java"
 ## a que versión pertence a snapshot
-eqt_snapshot_version_java = "eqt_snapshots_versions_java"
+eqt-snapshot-version-java = "eqt-snapshots-versions-java"
 ## dia dos inocentes |
-eqt_version_especial_java = "eqt_versions_especiais_java"
+eqt-version-especial-java = "eqt-versions-especiais-java"
 
 ## que version/snapshot é
-eqt_version_bedrock = "eqt_versions_bedrock"
+eqt-version-bedrock = "eqt-versions-bedrock"
 ## a que versión pertence a snapshot
-eqt_snapshot_version_bedrock = "eqt_snapshots_versions_bedrock"
+eqt-snapshot-version-bedrock = "eqt-snapshots-versions-bedrock"
 ## dia dos inocentes |
-eqt_version_especial_bedrock = "eqt_versions_especiais_bedrock"
+eqt-version-especial-bedrock = "eqt-versions-especiais-bedrock"
 #   #
 
 # creadores
 ## nome creador
-eqt_creador= "eqt_creadores"
+eqt-creador= "eqt-creadores"
 ## se xoga en java e/ou bedrock
-eqt_creador_edicion = "eqt_creadores_edicions"
+eqt-creador-edicion = "eqt-creadores-edicions"
 ## en que linguas fai os vídeos
-eqt_creador_lingua = "eqt_creadores_linguas"
+eqt-creador-lingua = "eqt-creadores-linguas"
 ## a que nación pertence
-eqt_creador_nacion = "eqt_creadores_nacions"
+eqt-creador-nacion = "eqt-creadores-nacions"
 #   #
 
 # granxas
-eqt_j_granxa_iron_version = "eqt_j_granxa_iron_versions"
+eqt-j-granxa-iron-version = "eqt-j-granxa-iron-versions"
 eqt-j-granxa-warped-crimson-version = "eqt-j-granxa-warped-crimson-versions"
 eqt-j-granxa-mud-version = "eqt-j-granxa-mud-versions"
+eqt-j-granxa-clay-version = "eqt-j-granxa-clay-versions"
 #   #
