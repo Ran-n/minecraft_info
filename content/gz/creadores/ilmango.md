@@ -23,6 +23,10 @@ eqt-creadores-nacions: [
     'alemaña',
 ]
 
+eqt-creadores: [
+    'ilmango',
+]
+
 keywords:
 - ilmango
 - redstone
