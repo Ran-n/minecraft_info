@@ -10,7 +10,9 @@ collapsible_toc: false
 url: '/granxas/java/lama/'
 slug: 'lama'
 aliases: [
-    '/gz/granxas/java/lama/'
+    '/gz/granxas/java/lama/',
+    '/gz/granxas/java/mud/',
+    '/granxas/java/mud/',
 ]
 
 weight: 2
