@@ -41,16 +41,16 @@ Creador de contido especializado en gameplays.
 
 ## Youtube
 
+{{< rede ancho="24px" alto="24px" tipo="youtube" titulo="English" ligazon="UCSOTRwMkwL1UMrdDgEdRJMg" >}}
 {{< rede ancho="24px" alto="24px" tipo="youtube" titulo="Galego" ligazon="UCgywV9GRFh9sIDRRlH2KJ9A" >}}
 {{< rede ancho="24px" alto="24px" tipo="youtube" titulo="Castellano" ligazon="UC_qVLj3szTJ3pvFC9zofPJA" >}}
-{{< rede ancho="24px" alto="24px" tipo="youtube" titulo="English" ligazon="UCSOTRwMkwL1UMrdDgEdRJMg" >}}
 
-De forma ordeada, as canles de [galego](https://www.youtube.com/channel/UCgywV9GRFh9sIDRRlH2KJ9A), [castelán](https://www.youtube.com/channel/UC_qVLj3szTJ3pvFC9zofPJA) e [inglés](https://www.youtube.com/channel/UCSOTRwMkwL1UMrdDgEdRJMg).
+By mention order, the channels in [english](https://www.youtube.com/channel/UCSOTRwMkwL1UMrdDgEdRJMg), [galician](https://www.youtube.com/channel/UCgywV9GRFh9sIDRRlH2KJ9A) and [spanish](https://www.youtube.com/channel/UC_qVLj3szTJ3pvFC9zofPJA).
 
 ## Odysee
 
+{{< rede ancho="24px" alto="24px" tipo="odysee" titulo="English" ligazon="@Breogann_English:1" >}}
 {{< rede ancho="24px" alto="24px" tipo="odysee" titulo="Galego" ligazon="@Breogann:3" >}}
-{{< rede ancho="24px" alto="24px" tipo="odysee" titulo="Galego" ligazon="@Breogann_Castellano:6" >}}
-{{< rede ancho="24px" alto="24px" tipo="odysee" titulo="Galego" ligazon="@Breogann_English:1" >}}
+{{< rede ancho="24px" alto="24px" tipo="odysee" titulo="Castellano" ligazon="@Breogann_Castellano:6" >}}
 
-De forma ordeada, as canles de [galego](https://odysee.com/@Breogann:3), [castelán](https://odysee.com/@Breogann_Castellano:6) e [inglés](https://odysee.com/@Breogann_English:1).
+By mention order, the channels in [english](https://odysee.com/@Breogann_English:1), [galician](https://odysee.com/@Breogann:3) and [spanish](https://odysee.com/@Breogann_Castellano:6).

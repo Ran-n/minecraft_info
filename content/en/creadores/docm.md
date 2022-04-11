@@ -49,15 +49,15 @@ keywords:
 {{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="docm77" >}}
 {{< correo ancho="24px" alto="24px" titulo="Correo" dir="docm77@nevaly.com" >}}
 
-Creador de contido alemán que sube contido exclusivamente en inglés.
+German content creator that uploads only on english.
 
-Especializado en lets plays, redstone e minecraft técnico.
+Especialized in let's plays, redstone and technical minecraft.
 
-## Doazóns
+## Donations
 
 [Patreon](https://www.patreon.com/docm77)
 
-## Contacto
+## Contact
 
 ```
 docm77@nevaly.com

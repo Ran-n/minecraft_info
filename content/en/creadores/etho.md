@@ -41,6 +41,6 @@ keywords:
 {{< rede ancho="24px" alto="24px" tipo="youtube3" titulo="Youtube" ligazon="EthosLab" >}}
 {{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="EthoLP" >}}
 
-Creador de contido canadense que sube contido exclusivamente en inglés.
+Canadian content creator that only uploads on english.
 
-Especializado en granxas, redstone, gameplays e minecraft técnico.
+Specialized  in farming, redstone, gampleays/let's plays and technical minecraft.

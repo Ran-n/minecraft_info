@@ -44,15 +44,15 @@ keywords:
 {{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="RaysWorks" >}}
 {{< rede ancho="24px" alto="24px" tipo="paypal" titulo="Paypal" ligazon="RaysWorks" >}}
 
-Creador de contido ianki que sube contido exclusivamente en inglés.
+Content creator from the USA that uploads content only in english.
 
-Especializado en granxas e minecraft técnico.
+Specialized in farms and technical minecraft.
 
-## Horario
+## Schedule
 
-En [twitch](https://www.twitch.tv/raysworks) os mércores, venres, sábados e domingos ás ~14:00 EST. E con arquivado dos streams.
+On [twitch](https://www.twitch.tv/raysworks) Sun, Wed, Fri, Sat at ~2pm EST and streams are archived there if you miss the live stream.
 
-## Doazóns
+## Donations
 
 {{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="RaysWorks" >}}
 {{< rede ancho="24px" alto="24px" tipo="paypal" titulo="Paypal" ligazon="RaysWorks" >}}

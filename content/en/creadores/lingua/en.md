@@ -6,7 +6,7 @@ bookcase_cover_src = 'linguas/en_0.svg'
 bookcase_cover_src_dark = 'linguas/en_0.svg'
 +++
 
-# Lista de creadores de contido en inglés.
+# English content creators
 
 * [EthosLab]({{< ref "../etho.md" >}})
 * [docm77]({{< ref "../docm.md" >}})

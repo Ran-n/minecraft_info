@@ -35,7 +35,7 @@ eqt-creadores: [
 {{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="pixlriffs" >}}
 {{< rede ancho="24px" alto="24px" tipo="instagram" titulo="Instagram" ligazon="pixlriffs" >}}
 
-Creador de contido canadense que sube contido exclusivamente en inglés.
+Creador de contido inglés que sube contido exclusivamente en inglés.
 
 ## Contacto
 

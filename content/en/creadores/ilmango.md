@@ -42,11 +42,11 @@ keywords:
 {{< rede ancho="24px" alto="24px" tipo="twitch" titulo="Twitch" ligazon="ilmango" >}}
 {{< correo ancho="24px" alto="24px" titulo="Correo" tipo="gmail" dir="scicraftilmango" >}}
 
-Creador de contido alemán que sube contido exclusivamente en inglés.
+German content creator that only uploads in english.
 
-Especializado en granxas e minecraft técnico.
+Specialized in farms and technical minecraft.
 
-## Contacto
+## Contact
 
 ```
 scicraftilmango@gmail.com
