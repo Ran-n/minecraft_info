@@ -23,14 +23,14 @@ bookcase_list_sections: false
 
 ---
 
-Listado alfabético da páxina de información de tódolos creadores de contido de Minecraft.
-Dentro de cada un especifícase a linguaxe e edición que usan no seu contido.
+Alphabetical list of the information page for every Minecraft content creator.
+Inside each page will be specified the languages and editions used in their content.
 
-#### Por edición
+#### By Edition
 {{< terms-cloud terms="eqt-creadores-edicions" >}}
 
-#### Por idioma
+#### By Language
 {{< terms-cloud terms="eqt-creadores-linguas" >}}
 
-#### Por nación
+#### By Nation
 {{< terms-cloud terms="eqt-creadores-nacions" >}}
