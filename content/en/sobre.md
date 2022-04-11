@@ -9,7 +9,7 @@ aliases: [
     'sobre',
 ]
 
-weight: 8
+weight: 9
 bookcase_cover_src: 'fotos_content/paisaxes/paisaxe1.jpg'
 bookcase_cover_src_dark: 'fotos_content/paisaxes/paisaxe1.jpg'
 

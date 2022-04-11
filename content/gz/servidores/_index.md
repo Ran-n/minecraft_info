@@ -10,7 +10,7 @@ collapsible_toc: false
 #slug: '/servidores/'
 #aliases : ['/servidores/']
 
-weight: 5
+weight: 6
 bookcase_cover_src: 'fotos_content/servidores/servidores.jpg'
 bookcase_cover_src_dark: 'fotos_content/servidores/servidores.jpg'
 

@@ -53,10 +53,28 @@
         weight = 2
 
 [[navbar]]
+    identifier = "trucos"
+    name = "Tricks"
+    url = "/en/tricks/"
+    weight = 3
+    [[navbar]]
+        parent = 'trucos'
+        identifier = "trucos_java"
+        name = "Java"
+        url = "/en/tricks/java/"
+        weight = 1
+    [[navbar]]
+        parent = 'trucos'
+        identifier = "tricks_bedrock"
+        name = "Bedrock"
+        url = "/en/tricsk/bedrock/"
+        weight = 2
+
+[[navbar]]
     identifier = "ferramentas"
     name = "Tools"
     url = "/en/tools/"
-    weight = 3
+    weight = 4
     [[navbar]]
         parent = 'ferramentas'
         identifier = "ferramentas_java"
@@ -74,7 +92,7 @@
     identifier = "redstone"
     name = "Redstone"
     url = "/en/redstone/"
-    weight = 4
+    weight = 5
     [[navbar]]
         parent = 'redstone'
         identifier = "redstone_java"
@@ -92,7 +110,7 @@
     identifier = "mods"
     name = "Mods"
     url = "/en/mods/"
-    weight = 5
+    weight = 6
     [[navbar]]
         parent = 'mods'
         identifier = "mods_java"
@@ -110,7 +128,7 @@
     identifier = "servidores"
     name = "Servers"
     url = "/en/servers/"
-    weight = 6
+    weight = 7
     [[navbar]]
         parent = 'servidores'
         identifier = "servidores_java"
@@ -128,10 +146,10 @@
     identifier = "creadores"
     name = "Creators"
     url = "/en/creators/"
-    weight = 7
+    weight = 8
 
 [[navbar]]
     identifier = "sobre"
     name = "About"
     url = "/en/about/"
-    weight = 8
+    weight = 9

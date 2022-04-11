@@ -13,7 +13,7 @@ aliases: [
     'creadores',
 ]
 
-weight: 7
+weight: 8
 bookcase_cover_src: 'fotos_content/creadores/social-media.png'
 bookcase_cover_src_dark: 'fotos_content/creadores/social-media.png'
 

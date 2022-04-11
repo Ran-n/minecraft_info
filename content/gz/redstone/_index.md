@@ -10,7 +10,7 @@ collapsible_toc: false
 #slug: 'redstone'
 #aliases : ['redstone']
 
-weight: 4
+weight: 5
 bookcase_cover_src: 'fotos_content/redstone/redstone.png'
 bookcase_cover_src_dark: 'fotos_content/redstone/redstone.png'
 

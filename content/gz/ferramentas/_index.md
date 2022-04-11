@@ -10,7 +10,7 @@ collapsible_toc: false
 slug: 'ferramentas'
 #aliases : ['ferramentas']
 
-weight: 3
+weight: 4
 bookcase_cover_src: 'fotos_content/ferramentas/ferramentas.jpg'
 bookcase_cover_src_dark: 'fotos_content/ferramentas/ferramentas.jpg'
 
