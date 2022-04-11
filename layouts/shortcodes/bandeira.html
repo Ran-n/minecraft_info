@@ -1,0 +1,38 @@
+{{ $nome := .Get "nome" }}
+<!--
+    lingua
+    estado
+-->
+{{ $tipo := .Get "tipo" }}
+{{ $titulo := .Get "titulo" }}
+{{ $ancho := .Get "ancho" }}
+{{ $alto := .Get "alto" }}
+
+{{ if and $nome $tipo $ancho $alto }}
+<svg style="padding:2px" width="{{ $ancho }}" height="{{ $alto }}">
+{{ if (eq $tipo "lingua") }}
+    {{ if and (eq $nome "gz") (eq $tipo "lingua")}}
+        {{ if $titulo }}
+        <title>{{ $titulo }}</title>
+        {{ else }}
+        <title>Galego</title>
+        {{ end }}
+        <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" src="linguas/gz_0.svg" width="100%" height="100%"/>
+    {{ else if and (eq $nome "en") (eq $tipo "lingua")}}
+        {{ if $titulo }}
+        <title>{{ $titulo }}</title>
+        {{ else }}
+        <title>English</title>
+        {{ end }}
+        <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" src="linguas/en_0.svg" width="100%" height="100%"/>
+    {{ else if and (eq $nome "cas") (eq $tipo "lingua")}}
+        {{ if $titulo }}
+        <title>{{ $titulo }}</title>
+        {{ else }}
+        <title>Castellano</title>
+        {{ end }}
+        <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" src="linguas/cas_0.svg" width="100%" height="100%"/>
+    {{ end }}
+{{ end }}
+</svg>
+{{ end }}

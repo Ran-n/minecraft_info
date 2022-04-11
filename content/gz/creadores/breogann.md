@@ -31,18 +31,9 @@ eqt-creadores-nacions: [
 
 ---
 
-<svg width="28px" height="17px">
-    <title>Galego</title>
-    <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" src="linguas/gz_0.svg" width="100%" height="100%"/>
-</svg>
-<svg width="28px" height="17px">
-    <title>Castellano</title>
-    <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" src="linguas/cas_0.svg" width="100%" height="100%"/>
-</svg>
-<svg width="28px" height="17px">
-    <title>English</title>
-    <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" src="linguas/en_0.svg" width="100%" height="100%"/>
-</svg>
+{{< bandeira tipo="lingua" nome="gz" ancho="28px" alto="17px" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" >}}
+{{< bandeira tipo="lingua" nome="cas" ancho="28px" alto="17px" >}}
 
 # Breogann
 

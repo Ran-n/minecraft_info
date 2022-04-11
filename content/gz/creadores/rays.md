@@ -30,8 +30,7 @@ keywords:
 - minecraft
 ---
 
-<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" width="27" alt="english" title="English">
-<br>
+{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" >}}
 
 # Rays Works
 
