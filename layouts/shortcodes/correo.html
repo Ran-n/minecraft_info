@@ -1,0 +1,45 @@
+{{ $dir := .Get "dir" }}
+{{ $tipo := .Get "tipo" }}
+{{ $titulo := .Get "titulo" }}
+{{ $ancho := .Get "ancho" }}
+{{ $alto := .Get "alto" }}
+
+
+{{ if and $dir $ancho $alto }}
+{{ if not $tipo }}
+<label hidden="hidden" id="{{ $dir }}">{{ $dir }}</label>
+<a rel="noopener" target="_blank" href="mailto:{{ $dir }}" onclick="copyToClipboard('{{ $dir }}')">
+{{ else if eq $tipo "tutanota" }}
+<label hidden="hidden" id="{{ $dir }}">{{ $dir }}@tutanota.com</label>
+<a rel="noopener" target="_blank" href="mailto:{{ $dir }}@tutanota.com" onclick="copyToClipboard('{{ $dir }}')">
+{{ else if eq $tipo "gmail" }}
+<label hidden="hidden" id="{{ $dir }}">{{ $dir }}@gmail.com</label>
+<a rel="noopener" target="_blank" href="mailto:{{ $dir }}@gmail.com" onclick="copyToClipboard('{{ $dir }}')">
+{{ end }}
+    <svg style="padding:2px" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="{{ $ancho }}" height="{{ $alto }}">
+        {{ if $titulo }}
+        <title>{{ $titulo }}</title>
+        {{ else }}
+        <title>email</title>
+        {{ end }}
+        {{ if not $tipo }}
+        <path d="M20 20H4a2 2 0 0 1-2-2V5.913A2 2 0 0 1 4 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2ZM4 7.868V18h16V7.868L12 13.2L4 7.868ZM4.8 6l7.2 4.8L19.2 6H4.8Z"/>
+        {{ else if eq $tipo "tutanota" }}
+        <path d="M2.158.934C.978.934.025 1.895.023 3.08.017 9.74.005 16.413 0 23.066c.793-.297 1.67-.56 2.56-.918 6.188-2.485 11.249-4.598 11.253-6.983a1.66 1.66 0 0 0-.016-.23c-.32-2.356-5.916-3.087-5.908-4.166a.37.37 0 0 1 .05-.177c.673-1.184 3.336-1.128 4.316-1.212.982-.085 3.285-.067 3.397-.773a.44.44 0 0 0 .005-.065c.003-.656-1.584-.913-1.584-.913s1.925.29 1.92 1.042a.445.445 0 0 1-.015.114c-.207.81-1.901.962-3.021 1.017-1.06.054-2.673.175-2.679.695 0 .03.005.062.015.095.253.76 6.167 1.127 9.95 3.102 2.178 1.136 3.26 3.004 3.757 4.974V3.08A2.14 2.14 0 0 0 21.866.934H2.158Z"/>
+        {{ else if eq $tipo "gmail" }}
+        <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/>
+        {{ end }}
+    </svg>
+</a>
+{{ end }}
+<script>
+    const copyToClipboard = (elementId) => {
+        const temp = document.createElement("input");
+        const text = document.getElementById(elementId).innerHTML;
+        temp.setAttribute("value", text);
+        document.body.appendChild(temp);
+        temp.select();
+        document.execCommand("copy");
+        document.body.removeChild(temp);
+    };
+</script>
