@@ -8,7 +8,6 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
-weight: 1
 bookcase_cover_src: 'fotos_content/creadores/breogann.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/breogann.svg'
 

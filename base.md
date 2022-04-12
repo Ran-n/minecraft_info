@@ -26,4 +26,6 @@ weight: 0
 bookcase_cover_src: ''
 bookcase_cover_src_dark: ''
 
+#type: 'bookcase'
+
 ---
