@@ -1,6 +1,9 @@
 ---
 title: 'galego'
 
+bookcase_cover_src: 'linguas/gz_0.svg'
+bookcase_cover_src_dark: 'linguas/gz_0.svg'
+
 type: 'bookcase'
 
 ---
