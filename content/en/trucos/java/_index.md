@@ -7,6 +7,7 @@ author: "Ran#"
 toc: true
 collapsible_toc: false
 
+url: '/en/tricks/java/'
 #slug: '/redstone/java'
 #aliases: ['/redstone/java']
 

@@ -7,6 +7,7 @@ author: 'Ran#'
 toc: false
 collapsible_toc: false
 
+url: '/en/tricks/'
 #slug: 'redstone'
 #aliases : ['redstone']
 
