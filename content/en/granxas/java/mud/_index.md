@@ -15,4 +15,10 @@ weight: 2
 bookcase_cover_src: 'fotos_content/obxectos/lama1.jpg'
 bookcase_cover_src_dark: 'fotos_content/obxectos/lama1.jpg'
 
+type: 'blank'
+
 ---
+
+## Pick the version
+
+{{< terms-cloud terms="eqt-j-granxa-mud-versions" >}}

@@ -8,14 +8,13 @@ toc: true
 collapsible_toc: false
 
 url: '/granxas/java/lama/'
-slug: 'lama'
+#slug: 'lama'
 aliases: [
     '/gz/granxas/java/lama/',
     '/gz/granxas/java/mud/',
     '/granxas/java/mud/',
 ]
 
-weight: 2
 bookcase_cover_src: 'fotos_content/obxectos/lama1.jpg'
 bookcase_cover_src_dark: 'fotos_content/obxectos/lama1.jpg'
 
