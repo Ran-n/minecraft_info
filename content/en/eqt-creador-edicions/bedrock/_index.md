@@ -4,11 +4,11 @@ title: "Bedrock"
 #draft: true
 author: "Ran#"
 
-url: '/creador-edicions/bedrock/'
+url: '/en/creator-editions/bedrock/'
 #slug: 'bedrock'
 aliases: [
+    '/en/eqt-creador-edicions/bedrock/',
     '/eqt-creador-edicions/bedrock/',
-    '/gz/eqt-creador-edicions/bedrock/',
 ]
 
 weight: 2

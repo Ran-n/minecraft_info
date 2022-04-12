@@ -4,11 +4,11 @@ title: "Java"
 #draft: true
 author: "Ran#"
 
-url: '/creador-edicions/java/'
-#slug: 'java'
+url: '/en/creator-editions/java/'
+#slug: '/java/'
 aliases: [
+    '/en/eqt-creador-edicions/java/',
     '/eqt-creador-edicions/java/',
-    '/gz/eqt-creador-edicions/java/',
 ]
 
 weight: 1

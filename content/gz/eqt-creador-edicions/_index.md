@@ -1,5 +1,5 @@
 ---
-title: 'Linguas dos creadores'
+title: 'Edicións de minecraft usadas polos creadores'
 
 url: '/creador-edicions/'
 aliases: [
