@@ -9,8 +9,8 @@ aliases: [
     '/gz/eqt-creador-nacions/inglaterra/',
 ]
 
-bookcase_cover_src: 'linguas/en_0.svg'
-bookcase_cover_src_dark: 'linguas/en_0.svg'
+bookcase_cover_src: 'nacions/en_0.svg'
+bookcase_cover_src_dark: 'nacions/en_0.svg'
 
 type: 'bookcase'
 

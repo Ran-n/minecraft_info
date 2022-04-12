@@ -7,8 +7,8 @@ aliases: [
     '/gz/eqt-creador-nacions/castela/',
 ]
 
-bookcase_cover_src: 'linguas/cas_0.svg'
-bookcase_cover_src_dark: 'linguas/cas_0.svg'
+bookcase_cover_src: 'nacions/cas_0.svg'
+bookcase_cover_src_dark: 'nacions/cas_0.svg'
 
 type: 'bookcase'
 
