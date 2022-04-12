@@ -15,15 +15,15 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: true
 
-eqt_versions_edicions: [
+eqt-versions-edicions: [
     'java',
 ]
 
-eqt_versions_java: [
+eqt-j-versions: [
     '22w13',
 ]
 
-eqt_versions_especiais_java: [
+eqt-j-versions-especiais: [
     'dia dos inocentes',
 ]
 

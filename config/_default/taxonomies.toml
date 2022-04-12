@@ -5,18 +5,18 @@ tag = "tags"
 eqt-version-edicion = "eqt-versions-edicions"
 
 ## que version/snapshot é
-eqt-version-java = "eqt-versions-java"
+eqt-j-version= "eqt-j-versions-java"
 ## a que versión pertence a snapshot
-eqt-snapshot-version-java = "eqt-snapshots-versions-java"
+eqt-j-snapshot-version= "eqt-j-snapshots-versions"
 ## dia dos inocentes |
-eqt-version-especial-java = "eqt-versions-especiais-java"
+eqt-j-version-especial= "eqt-j-versions-especiais"
 
 ## que version/snapshot é
-eqt-version-bedrock = "eqt-versions-bedrock"
+eqt-b-version = "eqt-b-versions"
 ## a que versión pertence a snapshot
-eqt-snapshot-version-bedrock = "eqt-snapshots-versions-bedrock"
+eqt-b-snapshot-version= "eqt-b-snapshots-versions"
 ## dia dos inocentes |
-eqt-version-especial-bedrock = "eqt-versions-especiais-bedrock"
+eqt-b-version-especial= "eqt-b-versions-especiais"
 #   #
 
 # creadores

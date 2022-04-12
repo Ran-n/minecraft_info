@@ -17,15 +17,15 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
-eqt_versions_edicions: [
+eqt-versions-edicions: [
     'java',
 ]
 
-eqt_versions_java: [
+eqt-j-versions: [
     '22w14a',
 ]
 
-eqt_snapshots_versions_java: [
+eqt-j-snapshots-versions: [
     '1.19',
 ]
 
