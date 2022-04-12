@@ -10,26 +10,49 @@
 
 {{ if and $nome $tipo $ancho $alto }}
 <svg style="padding:2px" width="{{ $ancho }}" height="{{ $alto }}">
-{{ if (eq $tipo "lingua") }}
-    {{ if and (eq $nome "gz") (eq $tipo "lingua")}}
+{{ if eq $tipo "lingua" }}
+    {{ if eq $nome "gz" }}
         {{ if $titulo }}
         <title>{{ $titulo }}</title>
         {{ else }}
         <title>Galego</title>
         {{ end }}
         <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" src="linguas/gz_0.svg" width="100%" height="100%"/>
-    {{ else if and (eq $nome "en") (eq $tipo "lingua")}}
+    {{ else if eq $nome "en" }}
         {{ if $titulo }}
         <title>{{ $titulo }}</title>
         {{ else }}
         <title>English</title>
         {{ end }}
         <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" src="linguas/en_0.svg" width="100%" height="100%"/>
-    {{ else if and (eq $nome "cas") (eq $tipo "lingua")}}
+    {{ else if eq $nome "cas" }}
         {{ if $titulo }}
         <title>{{ $titulo }}</title>
         {{ else }}
         <title>Castellano</title>
+        {{ end }}
+        <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" src="linguas/cas_0.svg" width="100%" height="100%"/>
+    {{ end }}
+{{ else if (eq $tipo "nacion") }}
+    {{ if eq $nome "gz" }}
+        {{ if $titulo }}
+        <title>{{ $titulo }}</title>
+        {{ else }}
+        <title>Galicia</title>
+        {{ end }}
+        <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" src="linguas/gz_0.svg" width="100%" height="100%"/>
+    {{ else if eq $nome "en" }}
+        {{ if $titulo }}
+        <title>{{ $titulo }}</title>
+        {{ else }}
+        <title>England</title>
+        {{ end }}
+        <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" src="linguas/en_0.svg" width="100%" height="100%"/>
+    {{ else if eq $nome "cas" }}
+        {{ if $titulo }}
+        <title>{{ $titulo }}</title>
+        {{ else }}
+        <title>Castilla</title>
         {{ end }}
         <image xlink:href="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" src="linguas/cas_0.svg" width="100%" height="100%"/>
     {{ end }}
