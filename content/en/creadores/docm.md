@@ -12,20 +12,20 @@ url: '/en/creators/docm/'
 bookcase_cover_src: 'fotos_content/creadores/docm.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/docm.svg'
 
-eqt-creadores-linguas: [
+eqt-creadores: [
+    'docm77',
+]
+
+eqt-creador-linguas: [
     'english',
 ]
 
-eqt-creadores-edicions: [
+eqt-creador-edicions: [
     'java',
 ]
 
-eqt-creadores-nacions: [
+eqt-creador-nacions: [
     'germany',
-]
-
-eqt-creadores: [
-    'docm77',
 ]
 
 keywords:

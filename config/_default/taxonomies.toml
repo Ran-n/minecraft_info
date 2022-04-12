@@ -21,13 +21,13 @@ eqt-b-version-especial= "eqt-b-versions-especiais"
 
 # creadores
 ## nome creador
-eqt-creador= "eqt-creadores"
+eqt_creador = "eqt_creadores"
 ## se xoga en java e/ou bedrock
-eqt-creador-edicion = "eqt-creadores-edicions"
+eqt-creador-edicion = "eqt-creador-edicions"
 ## en que linguas fai os vídeos
-eqt-creador-lingua = "eqt-creadores-linguas"
+eqt-creador-lingua = "eqt-creador-linguas"
 ## a que nación pertence
-eqt-creador-nacion = "eqt-creadores-nacions"
+eqt-creador-nacion = "eqt-creador-nacions"
 #   #
 
 # granxas

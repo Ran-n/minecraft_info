@@ -11,20 +11,20 @@ collapsible_toc: false
 bookcase_cover_src: 'fotos_content/creadores/ilmango.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/ilmango.svg'
 
-eqt-creadores-linguas: [
+eqt-creadores: [
+    'ilmango',
+]
+
+eqt-creador-linguas: [
     'inglés',
 ]
 
-eqt-creadores-edicions: [
+eqt-creador-edicions: [
     'java',
 ]
 
-eqt-creadores-nacions: [
+eqt-creador-nacions: [
     'alemaña',
-]
-
-eqt-creadores: [
-    'ilmango',
 ]
 
 keywords:

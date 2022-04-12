@@ -9,20 +9,20 @@ collapsible_toc: false
 bookcase_cover_src: 'fotos_content/creadores/Pixlriffs.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/Pixlriffs.svg'
 
-eqt-creadores-linguas: [
+eqt-creadores: [
+    'pixlriffs',
+]
+
+eqt-creador-linguas: [
     'inglés',
 ]
 
-eqt-creadores-edicions: [
+eqt-creador-edicions: [
     'java',
 ]
 
-eqt-creadores-nacions: [
+eqt-creador-nacions: [
     'inglaterra',
-]
-
-eqt-creadores: [
-    'pixlriffs',
 ]
 
 ---

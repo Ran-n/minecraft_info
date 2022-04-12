@@ -8,15 +8,19 @@ collapsible_toc: false
 bookcase_cover_src: 'fotos_content/creadores/etho.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/etho.svg'
 
-eqt-creadores-linguas: [
+eqt-creador: [
+    'ethoslab',
+]
+
+eqt-creador-linguas: [
     'inglés',
 ]
 
-eqt-creadores-edicions: [
+eqt-creador-edicions: [
     'java',
 ]
 
-eqt-creadores-nacions: [
+eqt-creador-nacions: [
     'canadá',
 ]
 

@@ -11,20 +11,20 @@ url: '/en/creators/pixlriffs/'
 bookcase_cover_src: 'fotos_content/creadores/Pixlriffs.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/Pixlriffs.svg'
 
-eqt-creadores-linguas: [
+eqt-creadores: [
+    'pixlriffs',
+]
+
+eqt-creador-linguas: [
     'english',
 ]
 
-eqt-creadores-edicions: [
+eqt-creador-edicions: [
     'java',
 ]
 
-eqt-creadores-nacions: [
+eqt-creador-nacions: [
     'england',
-]
-
-eqt-creadores: [
-    'pixlriffs',
 ]
 
 ---

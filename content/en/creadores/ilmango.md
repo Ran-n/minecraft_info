@@ -13,15 +13,19 @@ url: '/en/creators/ilmango/'
 bookcase_cover_src: 'fotos_content/creadores/ilmango.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/ilmango.svg'
 
-eqt-creadores-linguas: [
+eqt-creadores: [
+    'ilmango',
+]
+
+eqt-creador-linguas: [
     'english',
 ]
 
-eqt-creadores-edicions: [
+eqt-creador-edicions: [
     'java',
 ]
 
-eqt-creadores-nacions: [
+eqt-creador-nacions: [
     'germany',
 ]
 

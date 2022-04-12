@@ -11,15 +11,19 @@ collapsible_toc: false
 bookcase_cover_src: 'fotos_content/creadores/rays.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/rays.svg'
 
-eqt-creadores-linguas: [
+eqt-creadores: [
+    'rays works',
+]
+
+eqt-creador-linguas: [
     'inglés',
 ]
 
-eqt-creadores-edicions: [
+eqt-creador-edicions: [
     'java',
 ]
 
-eqt-creadores-nacions: [
+eqt-creador-nacions: [
     'estados unidos',
 ]
 

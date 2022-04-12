@@ -15,17 +15,21 @@ weight: 1
 bookcase_cover_src: 'fotos_content/creadores/breogann.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/breogann.svg'
 
-eqt-creadores-linguas: [
+eqt-creadores: [
+    'breogann',
+]
+
+eqt-creador-linguas: [
     'galician',
     'english',
     'spanish',
 ]
 
-eqt-creadores-edicions: [
+eqt-creador-edicions: [
     'java',
 ]
 
-eqt-creadores-nacions: [
+eqt-creador-nacions: [
     'galiza',
 ]
 
