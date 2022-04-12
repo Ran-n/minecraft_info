@@ -1,6 +1,12 @@
 ---
 title: 'galego'
 
+url: '/creador-linguas/galego/'
+aliases: [
+    '/eqt-creador-linguas/galego/',
+    '/gz/eqt-creador-linguas/galego/',
+]
+
 bookcase_cover_src: 'linguas/gz_0.svg'
 bookcase_cover_src_dark: 'linguas/gz_0.svg'
 

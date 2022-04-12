@@ -1,6 +1,14 @@
 ---
 title: 'castelán'
 
+url: '/creador-linguas/castelan/'
+aliases: [
+    '/eqt-creador-linguas/castelán/',
+    '/eqt-creador-linguas/castelan/',
+    '/gz/eqt-creador-linguas/castelán/',
+    '/gz/eqt-creador-linguas/castelan/',
+]
+
 bookcase_cover_src: 'linguas/cas_0.svg'
 bookcase_cover_src_dark: 'linguas/cas_0.svg'
 
