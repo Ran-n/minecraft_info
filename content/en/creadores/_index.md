@@ -27,13 +27,13 @@ Alphabetical list of the information page for every Minecraft content creator.
 Inside each page will be specified the languages and editions used in their content.
 
 #### By Edition
-{{< terms-cloud terms="eqt-creadores-edicions" >}}
+{{< terms-cloud terms="eqt-creador-edicions" >}}
 
 #### By Language
-{{< terms-cloud terms="eqt-creadores-linguas" >}}
+{{< terms-cloud terms="eqt-creador-linguas" >}}
 
 #### By Nation
-{{< terms-cloud terms="eqt-creadores-nacions" >}}
+{{< terms-cloud terms="eqt-creador-nacions" >}}
 
 <br>
 <br>
