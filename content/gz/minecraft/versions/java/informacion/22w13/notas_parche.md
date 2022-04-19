@@ -65,7 +65,6 @@ Para instalala, abre o lanzador de Minecraft e habilita as *snapshots* na pestan
 
 Ficheiro jar multiplataforma:
 [jar de servidor](https://launcher.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar).
-<!--[jar de servidor](/fichs_content/minecraft/versions/22w13/22w13_server.jar).-->
 
 <img src="/fotos_content/minecraft/versions/java/22w13/aprilis_asinus5.webp" />
 
