@@ -25,8 +25,6 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 <img src="/fotos_content/mobs/warden/warden1.jpg" />
 
----
-
 Waaaaaaaaaaah! It's Wal... wait that's not it. It's the warden! The spooky, unfriendly (maybe it just wants a hug?) mob is making its way into our latest snapshot.
 
 Additionally, you'll be seeing some functionality for the sculk shriekers and some fancy new boats (they have chests).

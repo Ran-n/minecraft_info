@@ -7,6 +7,13 @@ author: 'Ran#'
 toc: true
 collapsible_toc: true
 
+slug: 'notas'
+aliases: [
+    'notas_version',
+    'patch_notes',
+    'notes',
+]
+
 weight: 1
 bookcase_cover_src: 'monochrome/cover/list.png'
 bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
@@ -16,8 +23,6 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 # 22w13oneBlockAtATime
 
 <img src="/fotos_content/cabeceira.webp" />
-
----
 
 <div style="text-align: center">
     <h1>Mojang Studios Saca unha Impresionante Nova Actualización</h1>

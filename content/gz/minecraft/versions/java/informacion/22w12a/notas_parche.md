@@ -25,9 +25,6 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 <img src="/fotos_content/mobs/warden/warden1.jpg" />
 
----
-
-
 ## Novas características
 
 - Engadidos os efectos da criatura Escuridade

@@ -5,7 +5,7 @@ date: 2022-04-19T18:32:25+02:00
 author: 'Ran#'
 
 toc: true
-collapsible_toc: false
+collapsible_toc: true
 
 slug: 'notas'
 aliases: [
@@ -23,8 +23,6 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 # 22w15a
 
 <img src="/fotos_content/mobs/warden/warden2.webp" />
-
----
 
 Deixame contarche unha pequena historia sobre a hubris.
 Bueno, non tanto unha historia como un lamento.

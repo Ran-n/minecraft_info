@@ -25,8 +25,6 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 <img src="/fotos_content/paisaxes/paisaxe2.jpg" />
 
----
-
 Mangrove trees!
 Warm frogs!
 Mud blocks!

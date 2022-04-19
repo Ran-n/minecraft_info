@@ -19,8 +19,6 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 <img src="/fotos_content/cabeceira.webp" />
 
----
-
 <div style="text-align: center">
     <h1>Mojang Studios Release New Astonishing Update</h1>
     <p>Saving Minecraft – one block at a time!</p>

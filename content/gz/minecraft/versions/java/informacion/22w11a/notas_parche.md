@@ -24,8 +24,6 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 <img title="22w11a" alt="22w11a" src="/fotos_content/mobs/ra/ra1.webp">
 
----
-
 Minecraft: Edición Java estase subindo de novo ó tren da Actualización Salvaxe!
 A primeira *snapshot* para a 1.19 xa está dispoñible.
 Esta, contén ras, a Escuridade Profunda (*Deep Dark*) e un montón de novos bloques.

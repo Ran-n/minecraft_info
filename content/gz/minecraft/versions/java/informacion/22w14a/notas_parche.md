@@ -5,7 +5,7 @@ date: 2022-04-05T21:55:25+02:00
 author: 'Ran#'
 
 toc: true
-collapsible_toc: false
+collapsible_toc: true
 
 slug: 'notas'
 aliases: [
@@ -23,8 +23,6 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 # 22w14a
 
 <img src="/fotos_content/paisaxes/paisaxe2.jpg" />
-
----
 
 Mangleiros! Ras temperadas! Bloques de lama! Máis mangleiros!
 Hoxe, estamos estusiasmados de traervos a *snapshot* máis a-lama-da ata a data!

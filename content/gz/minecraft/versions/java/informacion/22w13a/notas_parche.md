@@ -24,8 +24,6 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 <img src="/fotos_content/mobs/allay/allay1.webp" />
 
----
-
 Allay, the mob that nobody is really sure how to pronounce, is now entering the latest Minecraft: Java Edition snapshot.
 Along with our new shiny blue friend, we've added the ancient cities, which have seen some pretty drastic changes since the experimental snapshot a few weeks ago, so make sure you check them out.
 

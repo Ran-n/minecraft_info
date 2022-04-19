@@ -24,8 +24,6 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 <img src="/fotos_content/mobs/ra/ra1.webp" />
 
----
-
 Minecraft: Java Edition is jumping on the Wild Update train!
 The first snapshot for 1.19 is now available.
 It contains frogs, the Deep Dark, and a bunch of new blocks.

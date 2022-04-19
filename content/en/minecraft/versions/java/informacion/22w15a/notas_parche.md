@@ -25,8 +25,6 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 <img title="22w15a" alt="22w15a" src="/fotos_content/mobs/warden/warden2.webp">
 
----
-
 Let me tell you a little story about hubris.
 Well, not so much a story as a lament.
 Because some of you have been thinking that the warden was a little too easy.
