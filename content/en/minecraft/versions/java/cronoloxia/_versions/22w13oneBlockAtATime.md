@@ -10,6 +10,7 @@ weight: -20220401
 
 2022 04 01
 
+## Features
 - Fixed all inventory issues by removing the inventory
 - Made the whole world into a player inventory space
 - Up to 14 quintillion inventory slots

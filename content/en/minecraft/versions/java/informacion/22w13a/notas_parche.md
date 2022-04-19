@@ -32,129 +32,86 @@ Along with our new shiny blue friend, we've added the ancient cities, which have
 
 Happy mining!
 
-## Novas características
+## New Features
 
-- Engadido o Allay.
-- Engadidas as Cidades Antigas.
+- Added Allay mob
+- Added Ancient Cities
 
-## Allay
+### Allay
 
-Allays will collect all the surrounding items that match the item they are holding
+- Allays will collect all the surrounding items that match the item they are holding
+- Allays will like a player who hands them an item and will bring the items they collect to their liked player
+- If the Allay hears a noteblock play, that noteblock becomes the Allay’s favorite noteblock for 30 seconds. The Allay will stay near that noteblock for that duration and bring its collected items to the noteblock instead of to the player
+- Interacting with an Allay with an empty hand will remove the item the Allay is holding
+- Allays can be found in Pillager Outposts and Woodland Mansions
 
-Allays will like a player who hands them an item and will bring the items they collect to their liked player
-
-If the Allay hears a noteblock play, that noteblock becomes the Allay’s favorite noteblock for 30 seconds. The Allay will stay near that noteblock for that duration and bring its collected items to the noteblock instead of to the player
-
-Interacting with an Allay with an empty hand will remove the item the Allay is holding
-
-Allays can be found in Pillager Outposts and Woodland Mansions
-
-## Cidade Antiga
+### Ancient City
 
 Wander the halls of these long-abandoned structures in the Deep Dark depths to uncover some relics long forgotten.
+- Ancient City structures spawn in the Deep Dark biome
+- In chests, guarded by sculk sensors and shriekers, you can find the new Swift Sneaking enchantment
+- You can also find a new mysterious block called Reinforced Deepslate here, which cannot be obtained in Survival
+- Mobs cannot spawn in Ancient Cities
 
-Ancient City structures spawn in the Deep Dark biome
+#### Differences Compared to the Experimental Deep Dark Snapshot
 
-In chests, guarded by sculk sensors and shriekers, you can find the new Swift Sneaking enchantment
+- Many adjustments have been made to Ancient Cities, with new and tweaked structures
+- Loot tables have been adjusted for Ancient Cities, including a separate loot table for the “ice box” structures
 
-You can also find a new mysterious block called Reinforced Deepslate here, which cannot be obtained in Survival
+## Changes
 
-Mobs cannot spawn in Ancient Cities
+- The recipes for minecart with chest/furnace/tnt/hopper are now shapeless
+- When broken each minecart variant drops itself as an item, instead of splitting into two items (such as chest and minecart)
+- Only wool and wool carpets now block the sounds coming from noteblocks
 
-### Diferenzas coa *snapshot* Escuridade Profunda
+## Technical Changes
 
-Many adjustments have been made to Ancient Cities, with new and tweaked structures
+- Added `kill_mob_near_sculk_catalyst` advancement trigger
+- Sculk shrieker block state changes
+- Renamed some game events
 
-Loot tables have been adjusted for Ancient Cities, including a separate loot table for the “ice box” structures
+## Advancements
+### New Triggers
 
-## Cambios
+`KILL_MOB_NEAR_SCULK_CATALYST`
 
-The recipes for minecart with chest/furnace/tnt/hopper are now shapeless
-
-When broken each minecart variant drops itself as an item, instead of splitting into two items (such as chest and minecart)
-
-Only wool and wool carpets now block the sounds coming from noteblocks
-
-### Cambios técnicos
-
-Added kill_mob_near_sculk_catalyst advancement trigger
-
-Sculk shrieker block state changes
-
-Renamed some game events
-
-## Avances
-### Novas deteccións
-
-```
-KILL_MOB_NEAR_SCULK_CATALYST
-```
-
-Triggered when a player kills an entity next to Sculk Catalyst
-
-Conditions:
-
-player - a player for which this trigger runs
-
-entity - a predicate for the entity that was killed
-
-killing_blow - a predicate for how the entity was killed
+- Triggered when a player kills an entity next to Sculk Catalyst
+- Conditions:
+    - `player` - a player for which this trigger runs
+    - `entity` - a predicate for the entity that was killed
+    - `killing_blow` - a predicate for how the entity was killed
 
 ### Sculk Shrieker
 
-Added can_summon blockstate to the Sculk Shrieker that determines whether a Shrieker can summon a Warden or not
+- Added can_summon blockstate to the Sculk Shrieker that determines whether a Shrieker can summon a Warden or not
+- Shriekers placed via worldgen will have can_summon set to true
+- When a Shrieker is placed or generated via Sculk spread, can_summon is set to false
 
-Shriekers placed via worldgen will have can_summon set to true
-
-When a Shrieker is placed or generated via Sculk spread, can_summon is set to false
-
-### Eventos de xogo
+### Game Events
 
 Some game events have been renamed, with some of those changes to make them more gramatically consistent:
+- `drinking_finish` -> `drink`
+- `entity_killed` -> `entity_die`
+- `entity_damaged` -> `entity_damage`
+- `elytra_free_fall` -> `elytra_glide`
+- `mob_interact` -> `entity_interact`
+- `ravager_roar` -> `entity_roar`
+- `wolf_shaking` -> `entity_shake`
 
-
-
-drinking_finish -> drink
-
-entity_killed -> entity_die
-
-entity_damaged -> entity_damage
-
-elytra_free_fall -> elytra_glide
-
-mob_interact -> entity_interact
-
-ravager_roar -> entity_roar
-
-wolf_shaking -> entity_shake
-
-The following events have been collapsed into block_activate and block_deactivate:
-
-
-
-block_press
-
-block_unpress
-
-block_switch
-
-block_unswitch
+The following events have been collapsed into `block_activate` and `block_deactivate`:
+- `block_press`
+- `block_unpress`
+- `block_switch`
+- `block_unswitch`
 
 Other miscellaneous changes to game events:
+- `ring_bell` has been removed and replaced with `block_change`
+- Both `shulker_open` and `shulker_close` have been removed in favour of using `container_open` and `container_close`
+- `fishing_rod_cast` and `fishing_rod_reel_in` have been renamed to `item_interact_start` and `item_interact_finish`
+- Added `ignore_vibrations_on_occluding_block` game event tag with subsequent logic
+- `entity_interact` should be dispatched more often when interacting with various mobs
 
-
-
-ring_bell has been removed and replaced with block_change
-
-Both shulker_open and shulker_close have been removed in favour of using container_open and container_close
-
-fishing_rod_cast and fishing_rod_reel_in have been renamed to item_interact_start and item_interact_finish
-
-Added ignore_vibrations_on_occluding_block game event tag with subsequent logic
-
-entity_interact should be dispatched more often when interacting with various mobs
-
-## Bugs arranxados
+## Fixed Bugs
 
 - {{< mc-bug codigo="MC-249103" titulo="Z-fighting can be seen on the underside of frogs’ feet" >}}
 - {{< mc-bug codigo="MC-249110" titulo="Z-fighting textures inside the frog’s mouth" >}}
@@ -173,26 +130,26 @@ entity_interact should be dispatched more often when interacting with various mo
 - {{< mc-bug codigo="MC-249474" titulo="Four-legged mobs do not sit correctly in a boat with a chest" >}}
 - {{< mc-bug codigo="MC-249642" titulo="Wardens can’t pass over rails" >}}
 
-## Obtención da *snapshot*
+## Get the Snapshot
 
-As *snapshots* están dispoñibles para Minecraft: Edición Java.
-Para instalala, abre o lanzador de Minecraft e habilita as *snapshots* na pestana de "Instalacións".
+Snapshots are available for Minecraft: Java Edition.
+To install the snapshot, open up the [Minecraft Launcher](https://www.minecraft.net/en-us/download) and enable snapshots in the "Installations" tab.
 
-**As *snapshots* poden corromper o teu mundo así que, por favor, realiza unha copia de seguridade e/ou utilizaas nunha carpeta distinta da usada usualmente para os teus mundos.**
+**Snapshots can corrupt your world, so please backup and/or run them in a different folder from your main worlds.**
 
-Ficheiro jar multiplataforma:
-[jar de servidor](https://launcher.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar).
-<!--[jar de servidor](/fichs_content/minecraft/versions/22w13/22w13_server.jar).-->
+Cross-platform server jar:
+[Minecraft server jar](https://launcher.mojang.com/v1/objects/7c8afca77bb9a73d31cdc70f2f68b4119d581455/server.jar).
 
-Reporta bugs aquí: [Traqueador de problemas de Minecraft](https://bugs.mojang.com/projects/MC/issues)
+Report bugs here:
+[Minecraft issue tracker!](https://bugs.mojang.com/projects/MC/issues)
 
-Queres dar as túas opinións?\
-Dirixete á [nosa páxina web](https://aka.ms/JavaSnapshotFeedback?ref=minecraftnet) ou falanos no chat do noso [servidor de Discord oficial de Minecraft](https://discordapp.com/invite/minecraft).
+Want to give feedback?\
+Head over to our [feedback website](https://aka.ms/JavaSnapshotFeedback?ref=minecraftnet) or come chat with us about it on the [official Minecraft Discord](https://discordapp.com/invite/minecraft).
 
 ---
 
-Publicado: 2022/03/31\
-Autor: Adrian Östergård\
-Tradutor: Ran#
+Published: 2022/03/31\
+Author: Adrian Östergård\
+Adaptor: Ran#
 
-[Publicación orixinal](https://www.minecraft.net/en-us/article/minecraft-snapshot-22w13a)
+[Original Publication](https://www.minecraft.net/en-us/article/minecraft-snapshot-22w13a)
