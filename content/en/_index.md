@@ -16,7 +16,9 @@ Welcome to the most complete webpage about [minecraft](https://www.minecraft.net
 ## News!
 
 <!-- {{< tweet user="Cubehamster" id="1511969869721391107" >}} -->
+
 {{< tweet user="Cubehamster" id="1514305212063916032" >}}
+[Patch Notes 22w15a](/en/minecraft/versions/java/information/22w15a/notes/)
 
 ## Donations
 
