@@ -5,7 +5,7 @@ date: 2022-04-05T21:55:25+02:00
 author: 'Ran#'
 
 toc: true
-collapsible_toc: true
+collapsible_toc: false
 
 url: '/en/minecraft/versions/java/information/22w12a/notes/'
 slug: 'notes'
@@ -140,8 +140,7 @@ To install the snapshot, open up the [Minecraft Launcher](https://www.minecraft.
 **Snapshots can corrupt your world, so please backup and/or run them in a different folder from your main worlds.**
 
 Cross-platform server jar:
-[Minecraft server jar](https://launcher.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar).
-<!--[jar de servidor](/fichs_content/minecraft/versions/22w13/22w13_server.jar).-->
+[Minecraft server jar](https://launcher.mojang.com/v1/objects/f238cf129a0848effe5037d8aaefe3f1f350b689/server.jar).
 
 Report bugs here:
 [Minecraft issue tracker!](https://bugs.mojang.com/projects/MC/issues)
