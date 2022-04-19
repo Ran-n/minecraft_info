@@ -19,6 +19,8 @@ eqt_creadores: [
 
 ---
 
+# One Block At A Time: The Mini-Series
+
 ## I Built A Starter House in Minecraft's April Fools Update ▫ Minecraft: One Block At A Time [Ep.1]
 {{< youtube 0qYN-vVFZ2M >}}
 
@@ -30,3 +32,6 @@ eqt_creadores: [
 
 ## I Insta-Mined Ancient Debris in Minecraft's April Fools Update ▫ One Block At A Time [Ep.4]
 {{< youtube dNolAoEzvX0 >}}
+
+## I Beat Minecraft's April Fools Update ▫ One Block At A Time FINALE [Ep.5]
+{{< youtube q1aAdW2NR50 >}}

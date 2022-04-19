@@ -5,7 +5,7 @@ date: 2022-04-03T14:07:32+02:00
 author: 'Ran#'
 
 toc: true
-collapsible_toc: false
+collapsible_toc: true
 
 weight: 1
 bookcase_cover_src: 'monochrome/cover/list.png'
@@ -19,9 +19,20 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 ---
 
-## Introdución
+<div style="text-align: center">
+    <h1>Mojang Studios Saca unha Impresionante Nova Actualización</h1>
+    <p>Salvando Minecraft – un bloque a cada vez!</p>
+</div>
+
 
 *Simplicitas.*
+
+{{< youtube \_AHAbfj7OpQ >}}
+<!-- {{< youtube  >}} -->
+
+<div style="text-align: center">
+    <img title="JEB" alt="JEB" src="/fotos_content/minecraft/versions/java/22w13/comentario_jeb.png" />
+</div>
 
 <!--![proba](/fotos_content/minecraft/versions/java/22w13/aprilis_asinus3.webp)-->
 <img src="/fotos_content/minecraft/versions/java/22w13/aprilis_asinus1.webp" />
