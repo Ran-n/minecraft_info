@@ -27,65 +27,77 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 ---
 
-Mangleiras! Ras temperadas! Bloques de lama! Máis mangleiras!
-Hoxe, estamos estusiasmados de traervos a *snapshot* máis a-lama-da ata a data!
+Mangrove trees!
+Warm frogs!
+Mud blocks!
+More mangrove trees!
+Today, we’re happy to bring you the most mud-tastic Java snapshot to date!
 
-Tamén é certo que é a nosa única *snapshot* a-lama-da ata o día de hoxe, pero o importante é que o noso novo bioma, o pantano de mangleira, está dispoñible para probar; xunto con outras características secundarias como a brúxula de recuperación e moitos máis beliscos técnicos.
+Sure, it might be our only mud-tastic snapshot to date – but the important thing is that our new biome, mangrove swamp, now is available for testing, along with nitty-gritty features like the recovery compass and other, more technical tidbits.
 
-Disfrutade!
+Enjoy!
 
-## Novas características na 22w14a
+## New Features
 
-- Engadida a renovación da arxila.
-- Engadidas as mangleiras.
-- Engadido o bioma do pantano de mangleiras.
-- Engadido o fragmento de eco e a brúxula de recuperación.
+- Added Clay renewability
+- Added Mangrove Trees
+- Added Mangrove Swamp biome
+- Added Echo Shard and Recovery Compass
 
-## Renovación da arxila
+# Clay Renewability
 
-Colocar unha estalactita dun bloque de lonxitude baixo un bloque de lama provocará que este se acabe convirtindo nun bloque de arxila.
+Placing Mud above a block that has Pointed Dripstone underneath will eventually turn the Mud Block into Clay
 
-## Mangleiras
+## Mangrove Trees
 
-Introducido un novo tipo de árbore adaptada á auga que se crea apoiandose nas súas raíces:
+Introducing a new type of water-adapted tree that spawns propped up on roots
+- Have a chance of spawning a Bee Nest
+- Grows from Mangrove Propagules
 
-- Teñen probabilidade de xerar unha colmea.
-- Medran a partir de propágulos de mangleira.
+## Mangrove Swamp
 
-## Brúxula de recuperación
+Muddy! Murky! Magnificent! Welcome to the newest biome - the Mangrove Swamp
 
-Un novo obxecto que pode ser elaborado (*crafteado*) a partir de fragmentos de eco.
-Os cales soamente se poden atopar nos cofres de cidades antigas.
+- Located in warmer, more humid places where you’d normally find the Swamp biome in Minecraft
+- Here you can find Bees and Warm Frogs
+- The floor of this biome is coated with a thick layer of Mud, so be sure to pack your best boots
+- Have a nice boat ride under and around the larger-than-life roots of mangrove trees
 
-- A diferenza dunha brúxula normal, esta apunta ó lugar onde o xogador morreu por última vez.
-- Se non te atopas na dimensión da morte, ou inda non morriches, moverase aleatoriamente.
-- Pode ser elaborada a partir dunha brúxula inicial rodeada por 8 fragmentos de eco.
+## Recovery Compass
 
-## Cambios na 22w14a
+A new Recovery Compass can be crafted with Echo Shards which can only be found and are unique to Ancient City chests
 
-O gardián (*warden*) agora enfadase con calquer *mob* que se choque contra el, non soamente os xogadores.
+- Unlike a normal Compass, the Recovery Compass will point to the last place you died
+- If you are not in the dimension you last died, or you haven’t died yet in your world, it will randomly spin
+- It can be crafted with 1 Compass surrounded by 8 Echo Shards, which can be found in Ancient Cities
 
-### Cambios técnicos
+## Changes
 
-- CatType fields on enitites with type minecraft:cat have been replaced with variant, with numeric values being replaced with string ids (so, for example, 5 becomes minecraft:calico)
-- Some mutually exclusive tests in entity predicate (player, fishing_hook, lightning_bolt and catType) have been collapsed to type_specific field
-- Added item_delivered_to_player advancement trigger
-- Added allay_drop_item_on_block advancement trigger
+The Warden will now get angry at ALL living mobs that bump into it, not just players
 
-#### Predicados
+### Technical Changes
 
-##### Predicado de entidade
+- `CatType` fields on enitites with type `minecraft:cat` have been replaced with `variant`, with numeric values being replaced with string ids (so, for example, 5 becomes `minecraft:calico`)
+- Some mutually exclusive tests in entity predicate (`player`, `fishing_hook`, `lightning_bolt` and `catType`) have been collapsed to type_specific field
+- Added `item_delivered_to_player` advancement trigger
+- Added `allay_drop_item_on_block` advancement trigger
 
-- player, fishing_hook, lightning_bolt and catType fields have been replaced with type_specific
+#### Predicates
 
-- type_specific has field type (one of player, fishing_hook, lightning_bolt or cat) and same fields as removed fields
+##### Entity Predicate
 
+- `player`, `fishing_hook`, `lightning_bolt` and `catType` fields have been replaced with `type_specific`
+
+- `type_specific` has field type (one of `player`, `fishing_hook`, `lightning_bolt` or cat) and same fields as removed fields
+
+Before
 ```
 "lightning_bolt": {
     "blocks_set_on_fire": 0
 }
 ```
 
+After
 ```
 "type_specific": {
     "type": "lightning",
@@ -93,12 +105,14 @@ O gardián (*warden*) agora enfadase con calquer *mob* que se choque contra el, 
 }
 ```
 
-- catType has been wrapped to match new format and now uses new cat variant names instead of texture names:
+- `catType` has been wrapped to match new format and now uses new cat variant names instead of texture names:
 
+Before
 ```
 "catType": "minecraft:textures/entity/cat/british_shorthair.png"
 ```
 
+After
 ```
 "type_specific": {
     "type": "cat",
@@ -107,36 +121,32 @@ O gardián (*warden*) agora enfadase con calquer *mob* que se choque contra el, 
 ```
 
 
-- New type_specific options:
-    + frog has variant field matching frog variant (minecraft:warm, minecraft:temperate or minecraft:cold)
-    + slime applies for slimes and magma creams, has size field matching slime size (smallest is 1)
+- New `type_specific` options:
+    - `frog` has `variant` field matching frog variant (`minecraft:warm`, `minecraft:temperate` or `minecraft:cold`)
+    - `slime` applies for slimes and magma creams, has size field matching slime `size` (smallest is 1)
 
-## Avances
+## Advancements
 
 Removed field location from triggers location, slept_in_bed, hero_of_the_village and voluntary_exile - it was handled exactly the same as player.location.
 
-### Novas deteccións
+### new Triggers
 
-```
-ITEM_DELIVERED_TO_PLAYER
-```
+`ITEM_DELIVERED_TO_PLAYER`
 
 - Triggered when an allay delivers an item to a player.
-- Condicións:
-    + player - a player for which this trigger runs
+- Conditions:
+    - `player` - a player for which this trigger runs
 
-```
-ALLAY_DROP_ITEM_ON_BLOCK
-```
+`ALLAY_DROP_ITEM_ON_BLOCK`
 
 - Triggered when an allay drops an item on a block.
-- Condicións:
-    + player - a player for which this trigger runs
-    + location - a predicate for the block that the item was dropped on
-    + item - a predicate for the item that was dropped
+- Conditions:
+    + `player` - a player for which this trigger runs
+    + `location` - a predicate for the block that the item was dropped on
+    + `item` - a predicate for the item that was dropped
 
 
-## Bugs arranxados
+## Fixed Bugs
 
 - {{< mc-bug codigo="MC-207289" titulo="Sculk sensor wool occlusion has directional bias" >}}
 - {{< mc-bug codigo="MC-207635" titulo="Sculk sensors react differently to wool occlusion depending on the global direction" >}}
@@ -188,26 +198,28 @@ ALLAY_DROP_ITEM_ON_BLOCK
 - {{< mc-bug codigo="MC-249800" titulo="Eating doesn’t activate redstone door in the Ancient City center" >}}
 - {{< mc-bug codigo="MC-249816" titulo="Wardens hitbox doesn’t adjust when emerging and digging" >}}
 
-## Obtención da *snapshot*
+## Get the Snapshot
 
-As *snapshots* están dispoñibles para Minecraft: Edición Java.
-Para instalala, abre o lanzador de Minecraft e habilita as *snapshots* na pestana de "Instalacións".
+Snapshots are available for Minecraft: Java Edition.
+To install the snapshot, open up the [Minecraft Launcher](https://www.minecraft.net/en-us/download) and enable snapshots in the "Installations" tab.
 
-**As *snapshots* poden corromper o teu mundo así que, por favor, realiza unha copia de seguridade e/ou utilizaas nunha carpeta distinta da usada usualmente para os teus mundos.**
+**Snapshots can corrupt your world, so please backup and/or run them in a different folder from your main worlds.**
 
-Ficheiro jar multiplataforma:
-[jar de servidor](https://launcher.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar).
-<!--[jar de servidor](/fichs_content/minecraft/versions/22w13/22w13_server.jar).-->
+Cross-platform server jar:
+[Minecraft server jar](https://launcher.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar)
+|
+[Local Minecraft server jar](/fichs_content/minecraft/versions/22w13/22w13_server.jar)
 
-Reporta bugs aquí: [Traqueador de problemas de Minecraft](https://bugs.mojang.com/projects/MC/issues)
+Report bugs here:
+[Minecraft issue tracker!](https://bugs.mojang.com/projects/MC/issues)
 
-Queres dar as túas opinións?\
-Dirixete á [nosa páxina web](https://aka.ms/JavaSnapshotFeedback?ref=minecraftnet) ou falanos no chat do noso [servidor de Discord oficial de Minecraft](https://discordapp.com/invite/minecraft).
+Want to give feedback?\
+Head over to our [feedback website](https://aka.ms/JavaSnapshotFeedback?ref=minecraftnet) or come chat with us about it on the [official Minecraft Discord](https://discordapp.com/invite/minecraft).
 
 ---
 
-Publicado: 2022/04/06\
-Autor: Adrian Östergård\
-Tradutor: Ran#
+Published: 2022/04/06\
+Author: Adrian Östergård\
+Adaptor: Ran#
 
-[Publicación orixinal](https://www.minecraft.net/en-us/article/minecraft-snapshot-22w14a)
+[Original Publication](https://www.minecraft.net/en-us/article/minecraft-snapshot-22w14a)

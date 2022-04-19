@@ -157,8 +157,9 @@ To install the snapshot, open up the [Minecraft Launcher](https://www.minecraft.
 **Snapshots can corrupt your world, so please backup and/or run them in a different folder from your main worlds.**
 
 Cross-platform server jar:
-[Minecraft server jar](https://launcher.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar).
-<!--[jar de servidor](/fichs_content/minecraft/versions/22w13/22w13_server.jar).-->
+[Minecraft server jar](https://launcher.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar)
+|
+[Local Minecraft server jar](/fichs_content/minecraft/versions/22w13/22w13_server.jar)
 
 Report bugs here:
 [Minecraft issue tracker!](https://bugs.mojang.com/projects/MC/issues)
@@ -168,7 +169,7 @@ Head over to our [feedback website](https://aka.ms/JavaSnapshotFeedback?ref=mine
 
 ---
 
-Published: 2022/04/13\
+Published: 2022/04/06\
 Author: Adrian Östergård\
 Adaptor: Ran#
 
