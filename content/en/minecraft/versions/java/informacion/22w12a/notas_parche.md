@@ -5,7 +5,7 @@ date: 2022-04-05T21:55:25+02:00
 author: 'Ran#'
 
 toc: true
-collapsible_toc: false
+collapsible_toc: true
 
 url: '/en/minecraft/versions/java/information/22w12a/notes/'
 slug: 'notes'

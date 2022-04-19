@@ -95,8 +95,7 @@ Para instalala, abre o lanzador de Minecraft e habilita as *snapshots* na pestan
 **As *snapshots* poden corromper o teu mundo así que, por favor, realiza unha copia de seguridade e/ou utilizaas nunha carpeta distinta da usada usualmente para os teus mundos.**
 
 Ficheiro jar multiplataforma:
-[jar de servidor](https://launcher.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar).
-<!--[jar de servidor](/fichs_content/minecraft/versions/22w13/22w13_server.jar).-->
+[jar de servidor](https://launcher.mojang.com/v1/objects/f238cf129a0848effe5037d8aaefe3f1f350b689/server.jar).
 
 Reporta bugs aquí: [Traqueador de problemas de Minecraft](https://bugs.mojang.com/projects/MC/issues)
 
