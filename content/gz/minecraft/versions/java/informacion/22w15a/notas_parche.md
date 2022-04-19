@@ -27,6 +27,15 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 ---
 
 Deixame contarche unha pequena historia sobre a hubris.
+Bueno, non tanto unha historia como un lamento.
+Porque algúns de vos estivestes a pensar que o Gardián era demasiado fácil.
+Non direi nomes, pero sei que estades ahí.
+Por que senón estaríamos a engadir ataques a distancia a esta xa terrorífica criatura?
+Non era suficiente o olfateo?
+Cando rematará isto?
+Non hoxe, aparentemente.
+
+Disfrutade o novo terrorífico Gardián xunto con moitos avances e cambios técnicos.
 
 ## Novas características
 
@@ -36,15 +45,53 @@ Deixame contarche unha pequena historia sobre a hubris.
 
 ### Ataques a distancia do Gardián
 
+- Construir elevadamente, esconderse detrás de paredes ou estar lonxe do seu poderoso ataque corpo a corpo fará que o Gardián cambie ó modo de ataque a distancia.
+    - A súa caixa torácica abrirase para poder lanzar o grito sónico, o seu ataque a distancia que pode atravesar paredes.
+
 ## Cambios
+
+- Engadido o efecto de Escuridade ó avance de "Como chegamos ata aquí?"
+- Os Alivios tenhen unha recuperación natural de 2 de saúde por segundo
+- O fondo do menú principal agora mostra un panorama da "Actualización Salvaxe"
+- A lama xérase dende a superficie até a pedra nos pantanos de mangleiro
+- A alfombra de musgo xérase enriba das raíces do mangleiro
+- O vendedor ambulante agora ofrecerá propágulos
+- Un cambio previo polo cal soamente a lá e as alfombras de lá previnhan contra os sons dos bloques foi revertido
+- Os Gardiáns agora poden rastrexar dende máis lonxe
+- O rango vertical polo que os Gardiáns se enfadan cun obxectivo a ser rastrexado aumenta de 6 a 20 bloques
 
 ### Cambios ás vibracións
 
+- As alfombras, igual ca os bloques de lá, amortiguarán o son de seren colocadas, rotas ou tiradas como obxectos
+- As alfombras agora tamén amortiguarán as vibracións causadas por correr e saltar sobre elas
+
 ## Cambios técnicos
 
+- Eliminado o gatillo de avance `item_delivered_to_player`
+- Engadido o gatillo de avance `thrown_item_picked_up_by_player`
+- Engadido o gatillo de avance `avoid_vibration`
+- Engadida a partícula `sonic_explosion`
+
 ### Avances
+#### Novos gatillos
+
+`THROWN_ITEM_PICKED_UP_BY_PLAYER`
+- Posto en marcha cando un xogador colle un obxecto que foi tirado por unha entidade
+- Condicións:
+    - `player` - un predicado para o xogador que recolle o obxecto
+    - `entity` - un predicado para a entidade que tirou o obxecto
+    - `item` - un predicado para o obxecto
+
+`AVOID_VIBRATION`
+- Posto en marcha cando un evento de vibración é ignorado porque un xogador está presionando a tecla de agacharse
+- Condicións:
+    - `player` - un xogador para o cal este gatillo funciona
 
 ### Eventos de xogo
+
+- Etiqueta de evento de xogo renomeada de `ignore_vibrations_on_occluding_block` a `dampenable_vibrations`
+- Engadida etiqueta de bloque `dampens_vibrations` para indicar que obxectos non darán lugar a vibracións cando colocados, rotos ou pisados
+- Renomeada etiqueta de obxecto de `occludes_vibration_signals` a `dampens_vibrations`
 
 ## Bugs Arranxados
 
