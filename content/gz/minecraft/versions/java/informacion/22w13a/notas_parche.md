@@ -66,11 +66,9 @@ Loot tables have been adjusted for Ancient Cities, including a separate loot tab
 
 ## Cambios
 
-The recipes for minecart with chest/furnace/tnt/hopper are now shapeless
-
-When broken each minecart variant drops itself as an item, instead of splitting into two items (such as chest and minecart)
-
-Only wool and wool carpets now block the sounds coming from noteblocks
+- As receitas para as vagonetas con cofre/forno/tnt/funil xa non son dependentes da posición
+- Cando se rompe cada variante de vagoneta solta o obxecto en si mesmo, en lugar de partirse en dous obxectos (tal que un cofre e unha vagoneta)
+- Soamente a la e as alfombras de la poden bloquear os sons dos bloques de notas
 
 ### Cambios técnicos
 

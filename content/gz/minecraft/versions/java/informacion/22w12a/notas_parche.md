@@ -50,6 +50,9 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 ## Cambios
 
+- O bioma de escuridade profunda agora está menos inundada que as áreas circundantes
+- As follas agora son encharcables
+- Eliminado o ciclo de teclas rápidas de depuración da distancia de renderización
 
 ## Bugs arranxados
 
