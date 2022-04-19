@@ -15,6 +15,7 @@ Benvido á páxina de información máis completa sobre [minecraft](https://www.
 
 ## Novidades!
 
+<!--
 {{< tweet user="Cubehamster" id="1511969869721391107" >}}
 
 Tradución:\
@@ -24,7 +25,13 @@ Os bloques de notas son moi usados na *redstone*.
 Vota para que este problema colla tracción, doutro xeito toda a *redstone* se volverá ruidosa
 "\
 @Cubehamster
-
+-->
+{{< tweet user="Cubehamster" id="1514305212063916032" >}}
+Tradución:\
+"
+Os cambios nos bloques de notas foron revertidos na *snapshot* 22w15a.
+"\
+@Cubehamster
 
 ## Doazóns
 

@@ -15,7 +15,8 @@ Welcome to the most complete webpage about [minecraft](https://www.minecraft.net
 
 ## News!
 
-{{< tweet user="Cubehamster" id="1511969869721391107" >}}
+<!-- {{< tweet user="Cubehamster" id="1511969869721391107" >}} -->
+{{< tweet user="Cubehamster" id="1514305212063916032" >}}
 
 ## Donations
 
