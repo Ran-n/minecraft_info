@@ -9,6 +9,8 @@ custom_js = ["js/custom.js"]
 #relativeURLs = true
 canonifyURLs = true
 
+googleAnalytics = "G-EDFGMBGH74"
+
 [build]
 writeStats = true
 
