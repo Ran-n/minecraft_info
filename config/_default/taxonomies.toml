@@ -31,8 +31,18 @@ eqt-creador-nacion = "eqt-creador-nacions"
 #   #
 
 # granxas
+eqt-j-granxa-creador = "eqt-j-granxa-creadores"
+eqt-b-granxa-creador = "eqt-b-granxa-creadores"
+
 eqt-j-granxa-iron-version = "eqt-j-granxa-iron-versions"
 eqt-j-granxa-warped-crimson-version = "eqt-j-granxa-warped-crimson-versions"
 eqt-j-granxa-mud-version = "eqt-j-granxa-mud-versions"
 eqt-j-granxa-clay-version = "eqt-j-granxa-clay-versions"
+#   #
+
+# redstone
+eqt-j-redstone-creador = "eqt-j-redstone-creadores"
+eqt-b-redstone-creador = "eqt-b-redstone-creadores"
+
+eqt-b-redstone-brewer-version = "eqt-b-redstone-brewer-versions"
 #   #
