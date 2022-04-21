@@ -1,10 +1,10 @@
 ---
 title: '1.18'
 
-url: '/redstone-bedrock-destilador/1.18/'
+url: '/redstone-bedrock-brewer/1.18/'
 aliases: [
-    '/eqt-b-redstone-destilador-versions/1.18/',
-    '/gz/eqt-b-redstone-destilador-versions/1.18/',
+    '/eqt-b-redstone-brewer-versions/1.18/',
+    '/en/eqt-b-redstone-brewer-versions/1.18/',
 ]
 
 type: 'bookcase'

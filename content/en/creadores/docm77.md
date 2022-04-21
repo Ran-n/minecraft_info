@@ -7,7 +7,11 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
-url: '/en/creators/docm/'
+url: '/en/creators/docm77/'
+aliases: [
+    '/creators/docm77/',
+    '/en/creators/docm77/',
+]
 
 bookcase_cover_src: 'fotos_content/creadores/docm.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/docm.svg'
@@ -55,9 +59,15 @@ Especialized in let's plays, redstone and technical minecraft.
 
 ## Donations
 
+{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="docm77" >}}
+
+|
 [Patreon](https://www.patreon.com/docm77)
+|
 
 ## Contact
+
+{{< correo ancho="24px" alto="24px" titulo="Correo" dir="docm77@nevaly.com" >}}
 
 ```
 docm77@nevaly.com

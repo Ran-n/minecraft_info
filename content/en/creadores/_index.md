@@ -11,6 +11,9 @@ url : '/en/creators'
 slug: 'creators'
 aliases: [
     'creadores',
+    'creators',
+    '/en/creadores',
+    '/en/creators',
 ]
 
 weight: 8

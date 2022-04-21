@@ -15,5 +15,7 @@ weight: 2
 bookcase_cover_src: 'fotos_content/java-bedrock/bedrock.png'
 bookcase_cover_src_dark: 'fotos_content/java-bedrock/bedrock.png'
 
+type: 'bookcase'
+
 ---
 
