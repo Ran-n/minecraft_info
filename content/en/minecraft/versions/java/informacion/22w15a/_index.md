@@ -22,7 +22,7 @@ eqt-versions-edicions: [
 ]
 
 eqt-j-versions: [
-    '22w14a',
+    '22w15a',
 ]
 
 eqt-j-snapshots-versions: [

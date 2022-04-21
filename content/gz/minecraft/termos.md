@@ -24,17 +24,28 @@ A continuación, pois, preséntase unha lista destes termos para unha maior clar
 Aclarar que esta se recompilou coa axuda das traducións oficiais atopadas en [crowdin](https://crowdin.com/project/minecraft).
 
 ## Lista de traducións
+### A
+Allay = [Alivio](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5295348)
+
 ### C
 Compass = [Compás](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5219179)\
 Craft = [Fabricar](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#q=crafting)
+Crash = [Colapso](https://komputeko.net/#crash)
+
+### F
+Froglight = [Anfibrillo](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5295370)
 
 ### M
 Mangrove = [Mangleiro](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#q=mangrove%20log)\
 Mob = [Criatura](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5220723)
 
+### P
+Painting = [Cadro](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5240982)
+
 ### S
 Sculk = [Merodeador](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5287884)\
-Sculk Shrieker = [Berrador de Merodeador](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5287888)
+Sculk Shrieker = [Berrador de Merodeador](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5287888)\
+Snapshot = [Instantánea](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5227598)
 
 ### W
 Warden = [Gardián](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5295296)
