@@ -65,10 +65,28 @@ Un novo disco de música foi engadido ó xogo.
 
 ### Predictibilidade de eventos aleatorios
 
+Algúns eventos aleatorios agora son máis predicibles e xa non teñen a posibilidade de ter comportamentos extremos
+- Colocación e velocidade de cousas botadas polos Lanzadores/Dispensadores
+- Colocación e velocidade de obxectos xerados por contenedores no momento da destrucción
+- Aleatorización do compoñente `follow_range` das criaturas
+- Velocidade dos cabalos xerados nas trampas de esquelete
+- Posición aleatoria dos Ardentes e aleatorización da velocidade dos proxectís dos Ardentes
+- Aleatorización da porción de dano e velocidade das frechas
+- Aleatorización do patrón de voo dos foguetes
+- Patrón de balanceo e tempo ate que un peixe pique nunha cana
 
 ## Cambios técnicos
 
+- Libraría `LWJGL` actualizada á versión 3.3.1
+- Engadida unha métrica da asignación da memoria de pila da pantalla de depuración de F3
+- Engadida regra de xogo "doWardenSpawning" para controlar a xeración natural dos Gardiáns
+- Actualizacións ós cadros
+
 ### Cadros
+
+- Os cadros que poden ser colocados en modo supervivencia poden ser controlados coa etiqueta `painting_variant/placeable`
+- Engadidos os cadros non usados da versión de Bedrock (`earth`, `wind`, `fire`, `water`)
+    - Estes cadros non son colocables por defecto pero poden ser engadidos a través dun paquete de datos
 
 ## Bugs Arranxados
 

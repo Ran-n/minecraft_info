@@ -27,13 +27,21 @@ Aclarar que esta se recompilou coa axuda das traducións oficiais atopadas en [c
 ### A
 Allay = [Alivio](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5295348)
 
+### B
+Blaze = [Ardente](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5241798)
+
 ### C
 Compass = [Compás](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5219179)\
-Craft = [Fabricar](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#q=crafting)
+Craft = [Fabricar](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#q=crafting)\
 Crash = [Colapso](https://komputeko.net/#crash)
+
+### D
+Dispenser = [Dispensador](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5239858)\
+Dropper = [Lanzador](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5239860)
 
 ### F
 Froglight = [Anfibrillo](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5295370)
+
 
 ### M
 Mangrove = [Mangleiro](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#q=mangrove%20log)\
