@@ -9,8 +9,17 @@ collapsible_toc: false
 
 url: '/creadores/gruvaguy/'
 aliases: [
+    '/creadores/gruva/',
     '/creadores/gruvaguy/',
+    '/creadores/gruva-guy/',
+    '/creadores/gruva_guy/',
+    '/creadores/gruva guy/',
+
+    '/gz/creadores/gruva/',
     '/gz/creadores/gruvaguy/',
+    '/gz/creadores/gruva-guy/',
+    '/gz/creadores/gruva_guy/',
+    '/gz/creadores/gruva guy/',
 ]
 
 bookcase_cover_src: 'fotos_content/creadores/gruva-guy.svg'
