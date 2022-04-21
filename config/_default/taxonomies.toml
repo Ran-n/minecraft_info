@@ -21,7 +21,7 @@ eqt-b-version-especial= "eqt-b-versions-especiais"
 
 # creadores
 ## nome creador
-eqt_creador = "eqt_creadores"
+eqt-creador = "eqt-creadores"
 ## se xoga en java e/ou bedrock
 eqt-creador-edicion = "eqt-creador-edicions"
 ## en que linguas fai os vídeos
