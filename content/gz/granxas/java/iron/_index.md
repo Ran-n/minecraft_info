@@ -24,7 +24,10 @@ type: blank
 
 [info](./info)
 
-## Escolle a versión
+## Escolle a [versión](/gz/eqt-j-granxa-iron-versions/)
 
 {{< terms-cloud terms="eqt-j-granxa-iron-versions" >}}
 
+## Escolle o [creador](/gz/eqt-j-granxa-creadores/)
+
+{{< terms-cloud terms="eqt-j-granxa-creadores" >}}
