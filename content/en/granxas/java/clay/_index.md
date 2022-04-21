@@ -35,6 +35,6 @@ type: 'blank'
 
 ---
 
-## Pick the version
+## Pick the [version](/en/eqt-j-granxa-clay-versions/)
 
 {{< terms-cloud terms="eqt-j-granxa-clay-versions" >}}

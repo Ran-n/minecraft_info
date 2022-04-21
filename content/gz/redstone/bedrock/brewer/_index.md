@@ -10,9 +10,7 @@ collapsible_toc: false
 url: '/redstone/bedrock/destilador/'
 #slug: 'destilador'
 aliases: [
-    '/redstone/bedrock/brewer/',
     '/redstone/bedrock/destilador/',
-    '/gz/redstone/bedrock/brewer/',
     '/gz/redstone/bedrock/destilador/',
 ]
 
@@ -26,10 +24,11 @@ type: blank
 
 <!-- [info](./info) -->
 
-## Escolle a versión
+## Escolle a [versión](/gz/eqt-b-redstone-brewer-versions/)
 
 {{< terms-cloud terms="eqt-b-redstone-brewer-versions" >}}
 
-## Escolle o creador
+
+## Escolle o [creador](/gz/eqt-b-redstone-creadores/)
 
 {{< terms-cloud terms="eqt-b-redstone-creadores" >}}

@@ -19,6 +19,6 @@ type: 'blank'
 
 ---
 
-## Escolle a versión
+## Pick the [version](/en/eqt-j-granxa-warped-crimson-versions/)
 
 {{< terms-cloud terms="eqt-j-granxa-warped-crimson-versions" >}}

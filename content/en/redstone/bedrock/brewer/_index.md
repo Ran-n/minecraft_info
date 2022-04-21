@@ -7,7 +7,7 @@ author: 'Ran#'
 toc: true
 collapsible_toc: false
 
-url: '/redstone/bedrock/brewer/'
+url: '/en/redstone/bedrock/brewer/'
 #slug: 'destilador'
 aliases: [
     '/redstone/bedrock/brewer/',
@@ -24,10 +24,10 @@ type: blank
 
 <!-- [info](./info) -->
 
-## Pick the version
+## Pick the [version](/en/eqt-b-redstone-brewer-versions/)
 
 {{< terms-cloud terms="eqt-b-redstone-brewer-versions" >}}
 
-## Pick the creator
+## Pick the [creator](/en/eqt-b-redstone-creadores/)
 
 {{< terms-cloud terms="eqt-b-redstone-creadores" >}}

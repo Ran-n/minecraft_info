@@ -19,6 +19,6 @@ type: 'blank'
 
 ---
 
-## Pick the version
+## Pick the [version](/en/eqt-j-granxa-mud-versions/)
 
 {{< terms-cloud terms="eqt-j-granxa-mud-versions" >}}

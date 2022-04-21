@@ -34,6 +34,6 @@ type: 'blank'
 
 ---
 
-## Escolle a versión
+## Escolle a [versión](/gz/eqt-j-granxa-clay-versions/)
 
 {{< terms-cloud terms="eqt-j-granxa-clay-versions" >}}
