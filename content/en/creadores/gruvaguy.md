@@ -9,14 +9,23 @@ collapsible_toc: false
 
 url: '/en/creators/gruvaguy/'
 aliases: [
+    '/creators/gruva/',
     '/creators/gruvaguy/',
+    '/creators/gruva-guy/',
+    '/creators/gruva_guy/',
+    '/creators/gruva guy/',
+
+    '/en/creators/gruva/',
     '/en/creators/gruvaguy/',
+    '/en/creators/gruva-guy/',
+    '/en/creators/gruva_guy/',
+    '/en/creators/gruva guy/',
 ]
 
-bookcase_cover_src: 'fotos_content/creadores/gruva-guy.svg'
-bookcase_cover_src_dark: 'fotos_content/creadores/gruva-guy.svg'
+bookcase_cover_src: 'fotos_content/creators/gruva-guy.svg'
+bookcase_cover_src_dark: 'fotos_content/creators/gruva-guy.svg'
 
-eqt-creadores: [
+eqt-creators: [
     'gruva guy',
 ]
 
