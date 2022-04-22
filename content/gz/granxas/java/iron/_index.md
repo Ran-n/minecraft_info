@@ -8,10 +8,21 @@ toc: true
 collapsible_toc: false
 
 url: '/granxas/java/ferro/'
-#slug: 'ferro'
+slug: 'ferro'
 aliases: [
-    '/granxas/java/iron/',
+    '/gz/granxas/java/ferro/',
+    '/gz/farms/java/ferro/',
     '/gz/granxas/java/iron/',
+    '/gz/farms/java/iron/',
+    '/gz/granxa/java/ferro/',
+    '/gz/farm/java/ferro/',
+    '/gz/granxa/java/iron/',
+    '/gz/farm/java/iron/',
+
+    '/granxas/java/iron/',
+    '/granxas/java/ferro/',
+    '/granxa/java/iron/',
+    '/granxa/java/ferro/',
 ]
 
 weight: 1
