@@ -3,7 +3,8 @@ title: 'Versións das Granxas de Ferro'
 
 url: '/java-granxas-ferro/'
 aliases: [
-    '/gz/eqt-j-granxa-iron-versions',
+    '/gz/eqt-j-granxa-iron-versions/',
+    '/eqt-j-granxa-iron-versions/',
 
     '/gz/java-granxas-ferro/',
     '/gz/java-granxa-ferro/',
@@ -22,8 +23,13 @@ aliases: [
 
     '/gz/java-farms-iron/',
     '/gz/java-farm-iron/',
-    '/java-farms-iron/',
-    '/java-farms-iron/',
+#    '/java-farms-iron/',
+#    '/java-farm-iron/',
+
+    '/gz/java-farms-ferro/',
+    '/gz/java-farm-ferro/',
+    '/java-farms-ferro/',
+    '/java-farm-ferro/',
 ]
 
 type: 'bookcase'

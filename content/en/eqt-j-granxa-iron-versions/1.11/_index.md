@@ -1,12 +1,38 @@
 ---
 title: '1.11'
 
-url: '/java-granxas-ferro/1.11/'
+url: '/en/java-farm-iron/1.11/'
 aliases: [
-    '/eqt-j-granxa-ferro-versions/1.11/',
-    '/gz/eqt-j-granxa-1.9-versions/1.11/',
-    '/java-granxas-ferro/1.11/',
-    '/gz/java-granxas-ferro/1.11/',
+    '/en/eqt-j-granxa-iron-versions/1.11/',
+#    '/eqt-j-granxa-iron-versions/1.11/',
+
+    '/en/eqt-j-farm-iron-versions/1.11/',
+    '/eqt-j-farm-iron-versions/1.11/',
+
+    '/en/java-granxas-ferro/1.11/',
+    '/en/java-granxa-ferro/1.11/',
+#    '/java-granxas-ferro/1.11/',
+#    '/java-granxa-ferro/1.11/',
+
+    '/en/java-granxas-iron/1.11/',
+    '/en/java-granxa-iron/1.11/',
+#    '/java-granxas-iron/1.11/',
+#    '/java-granxa-iron/1.11/',
+
+    '/en/java-farms-ferro/1.11/',
+    '/en/java-farm-ferro/1.11/',
+#    '/java-farms-ferro/1.11/',
+#    '/java-farm-ferro/1.11/',
+
+    '/en/java-farms-iron/1.11/',
+    '/en/java-farm-iron/1.11/',
+#    '/java-farms-iron/1.11/',
+#    '/java-farm-iron/1.11/',
+
+    '/en/java-farms-ferro/1.11/',
+    '/en/java-farm-ferro/1.11/',
+#    '/java-farms-ferro/1.11/',
+#    '/java-farm-ferro/1.11/',
 ]
 
 weight: 11100
