@@ -22,8 +22,8 @@ aliases: [
     '/en/creators/gruva guy/',
 ]
 
-bookcase_cover_src: 'fotos_content/creators/gruva-guy.svg'
-bookcase_cover_src_dark: 'fotos_content/creators/gruva-guy.svg'
+bookcase_cover_src: 'fotos_content/creadores/gruva-guy.svg'
+bookcase_cover_src_dark: 'fotos_content/creadores/gruva-guy.svg'
 
 eqt-creators: [
     'gruva guy',

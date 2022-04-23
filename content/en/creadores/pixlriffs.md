@@ -8,8 +8,8 @@ collapsible_toc: false
 
 url: '/en/creators/pixlriffs/'
 
-bookcase_cover_src: 'fotos_content/creadores/Pixlriffs.svg'
-bookcase_cover_src_dark: 'fotos_content/creadores/Pixlriffs.svg'
+bookcase_cover_src: 'fotos_content/creadores/pixlriffs.svg'
+bookcase_cover_src_dark: 'fotos_content/creadores/pixlriffs.svg'
 
 eqt-creadores: [
     'pixlriffs',
@@ -39,7 +39,7 @@ eqt-creador-nacions: [
 
 English content creator that only uploads in english.
 
-## Contacto
+## Contact
 
 ```
 business@pixlriffs.com

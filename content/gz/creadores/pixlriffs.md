@@ -6,8 +6,8 @@ title: "Pixlriffs"
 toc: true
 collapsible_toc: false
 
-bookcase_cover_src: 'fotos_content/creadores/Pixlriffs.svg'
-bookcase_cover_src_dark: 'fotos_content/creadores/Pixlriffs.svg'
+bookcase_cover_src: 'fotos_content/creadores/pixlriffs.svg'
+bookcase_cover_src_dark: 'fotos_content/creadores/pixlriffs.svg'
 
 eqt-creadores: [
     'pixlriffs',
