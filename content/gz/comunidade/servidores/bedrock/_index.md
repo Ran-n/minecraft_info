@@ -7,9 +7,11 @@ author: "Ran#"
 toc: true
 collapsible_toc: false
 
-url: '/en/servers/bedrock/'
-#slug: '/servidores/bedrock/'
-#aliases: ['/servidores/bedrock/']
+slug: 'bedrock'
+aliases: [
+    '/gz/servidores/bedrock/',
+    '/servidores/bedrock/',
+]
 
 weight: 2
 bookcase_cover_src: 'fotos_content/java-bedrock/bedrock.png'

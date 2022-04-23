@@ -125,31 +125,38 @@
         weight = 2
 
 [[navbar]]
-    identifier = "servidores"
-    name = "Servidores"
-    url = "/servidores/"
+    identifier = "comunidade"
+    name = "Comunidade"
+    url = "/comunidade/"
     weight = 7
     [[navbar]]
-        parent = 'servidores'
-        identifier = "servidores_java"
-        name = "Java"
-        url = "/servidores/java/"
+        parent = 'comunidade'
+        identifier = "servidores"
+        name = "Servidores"
+        url = "/comunidade/servidores/"
         weight = 1
-    [[navbar]]
-        parent = 'servidores'
-        identifier = "servidores_bedrock"
-        name = "Bedrock"
-        url = "/servidores/bedrock/"
-        weight = 2
+        [[navbar]]
+            parent = 'servidores'
+            identifier = "servidores_java"
+            name = "Java"
+            url = "/comunidade/servidores/java/"
+            weight = 1
+        [[navbar]]
+            parent = 'servidores'
+            identifier = "servidores_bedrock"
+            name = "Bedrock"
+            url = "/comunidade/servidores/bedrock/"
+            weight = 2
 
-[[navbar]]
-    identifier = "creadores"
-    name = "Creadores"
-    url = "/creadores/"
-    weight = 8
+    [[navbar]]
+        parent = 'comunidade'
+        identifier = "creadores"
+        name = "Creadores"
+        url = "/comunidade/creadores/"
+        weight = 2
 
 [[navbar]]
     identifier = "sobre"
     name = "Sobre"
     url = "/sobre/"
-    weight = 9
+    weight = 8

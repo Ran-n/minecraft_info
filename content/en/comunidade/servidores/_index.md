@@ -7,10 +7,18 @@ author: 'Ran#'
 toc: false
 collapsible_toc: false
 
-url: '/en/servers/'
+url: '/en/community/servers/'
 slug: 'servers'
 aliases : [
-    'servidores'
+    '/en/community/servers/',
+    '/en/community/servidores/',
+    '/en/comunidade/servers/',
+    '/en/comunidade/servidores/',
+
+    '/en/servers/',
+    '/en/servidores/',
+
+    '/servers/',
 ]
 
 weight: 6

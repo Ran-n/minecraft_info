@@ -7,13 +7,18 @@ author: "Ran#"
 toc: true
 collapsible_toc: false
 
-url : '/en/creators'
+url : '/en/community/creators/'
 slug: 'creators'
 aliases: [
-    'creadores',
-    'creators',
-    '/en/creadores',
-    '/en/creators',
+    '/en/community/creators/',
+    '/en/community/creadores/',
+    '/en/comunidade/creators/',
+    '/en/comunidade/creadores/',
+
+    '/en/creadores/',
+    '/en/creators/',
+
+    '/creators/',
 ]
 
 weight: 8

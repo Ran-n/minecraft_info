@@ -7,8 +7,19 @@ author: "Ran#"
 toc: true
 collapsible_toc: false
 
+url: '/comunidade/creadores/'
 slug: 'creadores'
-aliases: ['/creadores']
+aliases: [
+    '/gz/comunidade/creadores/',
+    '/gz/community/creadores/',
+    '/gz/community/creators/',
+    '/gz/comunidade/creators/',
+
+    '/comunidade/creadores/',
+    '/comunidade/creators/',
+    '/community/creadores/',
+#    '/community/creators/',
+]
 
 weight: 8
 bookcase_cover_src: 'fotos_content/creadores/social-media.png'
