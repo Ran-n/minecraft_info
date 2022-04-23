@@ -3,11 +3,11 @@
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/eo_0.svg" width="25" alt="esperanto" title="Esperanto">](readme_eo.md)
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" width="28" alt="castellano" title="Castellano">](readme_cas.md)
 <br />
-# Información de Minecraft
+# Informoj pri Minecraft
 
-Un lugar donde puedes encontrar toda la información relativa a minecraft.
+Loko kie vi povas trovi ĉiujn informojn rilate al minecraft.
 
-## [Donaciones 🙇🙇](https://github.com/Ran-n/doc/blob/main/doaz%C3%B3ns.md)
+## [Donacoj 🙇🙇](https://github.com/Ran-n/doc/blob/main/doaz%C3%B3ns.md)
 
 **Bitcoin** <img src="https://raw.githubusercontent.com/Ran-n/svgs/main/divisas/bitcoin/bitcoin_0.svg" width="20" alt="bitcoin logo" title="Bitcoin">
 bc1q79vja8jzr27dxaf3ylu7e49ady8zq0jsm5qfk6

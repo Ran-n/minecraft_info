@@ -3,7 +3,7 @@
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/eo_0.svg" width="25" alt="esperanto" title="Esperanto">](readme_eo.md)
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" width="28" alt="castellano" title="Castellano">](readme_cas.md)
 <br />
-# Minecraft Information
+# Información de Minecraft
 
 Un lugar onde podes atopar toda a información relativa a minecraft.
 
