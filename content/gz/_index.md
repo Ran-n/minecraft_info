@@ -11,7 +11,7 @@ type: 'bookcase'
 
 ---
 
-Benvido á páxina de información máis completa sobre [minecraft](https://www.minecraft.net/).
+Benvido á páxina de información máis completa sobre <a href="https://www.minecraft.net/" target="_blank">minecraft</a>.
 
 ## Novidades!
 

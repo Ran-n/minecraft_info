@@ -11,7 +11,7 @@ type: 'bookcase'
 
 ---
 
-Welcome to the most complete webpage about [minecraft](https://www.minecraft.net/) information.
+Welcome to the most complete webpage about <a href="https://www.minecraft.net/" target="_blank">minecraft</a> information.
 
 ## News!
 
