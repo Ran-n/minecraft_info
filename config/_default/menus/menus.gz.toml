@@ -131,10 +131,16 @@
     weight = 7
     [[navbar]]
         parent = 'comunidade'
+        identifier = "creadores"
+        name = "Creadores"
+        url = "/comunidade/creadores/"
+        weight = 1
+    [[navbar]]
+        parent = 'comunidade'
         identifier = "servidores"
         name = "Servidores"
         url = "/comunidade/servidores/"
-        weight = 1
+        weight = 2
         [[navbar]]
             parent = 'servidores'
             identifier = "servidores_java"
@@ -147,13 +153,6 @@
             name = "Bedrock"
             url = "/comunidade/servidores/bedrock/"
             weight = 2
-
-    [[navbar]]
-        parent = 'comunidade'
-        identifier = "creadores"
-        name = "Creadores"
-        url = "/comunidade/creadores/"
-        weight = 2
 
 [[navbar]]
     identifier = "sobre"

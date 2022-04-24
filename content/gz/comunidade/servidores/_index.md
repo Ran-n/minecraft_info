@@ -25,7 +25,7 @@ aliases : [
 #    '/servers/',
 ]
 
-weight: 6
+weight: 2
 bookcase_cover_src: 'fotos_content/servidores/servidores.jpg'
 bookcase_cover_src_dark: 'fotos_content/servidores/servidores.jpg'
 

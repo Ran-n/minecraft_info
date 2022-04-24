@@ -21,7 +21,7 @@ aliases: [
 #    '/community/creators/',
 ]
 
-weight: 8
+weight: 1
 bookcase_cover_src: 'fotos_content/creadores/social-media.png'
 bookcase_cover_src_dark: 'fotos_content/creadores/social-media.png'
 
