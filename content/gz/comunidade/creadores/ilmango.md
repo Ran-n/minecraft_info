@@ -39,7 +39,7 @@ keywords:
 
 # ilmango
 
-{{< rede ancho="24px" alto="24px" tipo="youtube" titulo="Youtube" ligazon="UCgywV9GRFh9sIDRRlH2KJ9A" >}}
+{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Youtube" ligazon="ilmango" >}}
 {{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="ilmango1" >}}
 {{< rede ancho="24px" alto="24px" tipo="twitch" titulo="Twitch" ligazon="ilmango" >}}
 {{< correo ancho="24px" alto="24px" titulo="Correo" tipo="gmail" dir="scicraftilmango" >}}

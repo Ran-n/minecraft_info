@@ -6,7 +6,8 @@ title: "Grian"
 toc: true
 collapsible_toc: false
 
-url: '/en/creators/grian/'
+url: '/en/creators/grain/'
+slug: 'grain'
 aliases: [
     '/en/creadores/grian/',
     '/en/creators/grian/',
@@ -48,7 +49,11 @@ eqt-creador-nacions: [
 {{< rede ancho="24px" alto="24px" tipo="facebook" titulo="Facebook" ligazon="Grian" >}}
 {{< correo ancho="24px" alto="24px" tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
 
+## Descriptions
+
 English content creator that only uploads in english and is specialized in building.
+
+### Youtube
 
 This channel focuses on gaming (specifically minecraft) content aimed at a general audience.
 I build minecraft houses and make minecraft house tutorials along with everything else minecraft.

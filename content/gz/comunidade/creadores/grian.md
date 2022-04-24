@@ -6,8 +6,8 @@ title: "Grian"
 toc: true
 collapsible_toc: false
 
-url: '/creadores/grian/'
-slug: 'grian'
+url: '/creadores/grain/'
+slug: 'grain'
 aliases: [
     '/gz/creadores/grian/',
     '/gz/creators/grian/',
@@ -49,8 +49,12 @@ eqt-creador-nacions: [
 {{< rede ancho="24px" alto="24px" tipo="facebook" titulo="Facebook" ligazon="Grian" >}}
 {{< correo ancho="24px" alto="24px" tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
 
+## Descricións
+
 Creador de contido de orixe inglés que sube vídeos exclusivamente en inglés.
 Especializado en construcción e decoración.
+
+### Descrición
 
 Esta canle céntrase en contido de xogos (especialmente minecraft) dirixidos a unha audiencia xeral.
 Fago casas en minecraft, tutoriais delas e tamén máis cousas en minecraft.
