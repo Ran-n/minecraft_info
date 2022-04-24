@@ -22,8 +22,8 @@ aliases: [
 ]
 
 weight: 1
-bookcase_cover_src: 'fotos_content/creadores/social-media.png'
-bookcase_cover_src_dark: 'fotos_content/creadores/social-media.png'
+bookcase_cover_src: 'fotos_content/obxectos/crafting-table3.png'
+bookcase_cover_src_dark: 'fotos_content/obxectos/crafting-table3.png'
 
 type: 'bookcase'
 bookcase_list_pages: true

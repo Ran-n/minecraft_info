@@ -137,10 +137,16 @@
         weight = 1
     [[navbar]]
         parent = 'community'
+        identifier = "series_en"
+        name = "Series"
+        url = "/en/community/series/"
+        weight = 3
+    [[navbar]]
+        parent = 'community'
         identifier = "servidores"
         name = "Servers"
         url = "/en/community/servers/"
-        weight = 2
+        weight = 3
         [[navbar]]
             parent = 'servidores'
             identifier = "servidores_java"

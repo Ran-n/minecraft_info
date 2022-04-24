@@ -1,29 +1,29 @@
 ---
-title: "Creators"
-date: 2022-03-26T16:43:10+01:00
-author: "Ran#"
+title: "Series"
+date: 2022-03-24T13:59:00+02:00
 #draft: true
+author: "Ran#"
 
 toc: true
 collapsible_toc: false
 
-url : '/en/community/creators/'
-slug: 'creators'
+url : '/en/community/series/'
+slug: 'series'
 aliases: [
-    '/en/community/creators/',
-    '/en/community/creadores/',
-    '/en/comunidade/creators/',
-    '/en/comunidade/creadores/',
+    '/en/community/series/',
+    '/en/community/series/',
+    '/en/comunidade/series/',
+    '/en/comunidade/series/',
+    '/comunity/series/',
 
-    '/en/creadores/',
-    '/en/creators/',
-
-    '/creators/',
+    '/en/series/',
+    '/en/series/',
+#    '/series/',
 ]
 
-weight: 1
-bookcase_cover_src: 'fotos_content/obxectos/crafting-table3.png'
-bookcase_cover_src_dark: 'fotos_content/obxectos/crafting-table3.png'
+weight: 2
+bookcase_cover_src: 'fotos_content/series/series2.jpg'
+bookcase_cover_src_dark: 'fotos_content/series/series2.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true
@@ -31,6 +31,7 @@ bookcase_list_sections: false
 
 ---
 
+<!--
 Alphabetical list of the information page for every Minecraft content creator.
 Inside each page will be specified the languages and editions used in their content.
 
@@ -42,6 +43,7 @@ Inside each page will be specified the languages and editions used in their cont
 
 #### By Nation
 {{< terms-cloud terms="eqt-creador-nacions" >}}
+-->
 
 <br>
 <br>
