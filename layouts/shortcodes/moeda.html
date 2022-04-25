@@ -4,7 +4,7 @@
 {{ $ancho := .Get "ancho" }}
 {{ $alto := .Get "alto" }}
 
-<div class="icon" style="display: inline; word-break: break-all">
+<div class="icon" fill="currentColor" style="display: inline; word-break: break-all; padding: 2px; color: var(--color-text)">
     {{ if $dir }}
     <a rel="noopener" target="_blank" onclick="copyToClipboard('{{ $dir }}')">
     {{ end }}

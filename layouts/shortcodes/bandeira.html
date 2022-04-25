@@ -9,7 +9,7 @@
 {{ $alto := .Get "alto" }}
 
 {{ if and $nome $tipo $ancho $alto }}
-<svg style="padding:2px" width="{{ $ancho }}" height="{{ $alto }}">
+<svg style="border:1px solid currentColor; padding:1px" width="{{ $ancho }}" height="{{ $alto }}">
 {{ if eq $tipo "lingua" }}
     {{ if eq $nome "gz" }}
         {{ if $titulo }}
