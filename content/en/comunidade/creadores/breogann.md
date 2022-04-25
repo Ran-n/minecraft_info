@@ -35,7 +35,7 @@ eqt-creador-nacions: [
 
 ---
 
-{{< bandeira tipo="lingua" nome="gz" ancho="28px" alto="17px" >}}
+{{< bandeira tipo="lingua" nome="gz" ancho="28px" alto="17px" ligazon="/en/eqt-creadores/galego/" >}}
 {{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" >}}
 {{< bandeira tipo="lingua" nome="cas" ancho="28px" alto="17px" >}}
 

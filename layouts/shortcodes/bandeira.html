@@ -5,11 +5,15 @@
 -->
 {{ $tipo := .Get "tipo" }}
 {{ $titulo := .Get "titulo" }}
+{{ $ligazon := .Get "ligazon" }}
 {{ $ancho := .Get "ancho" }}
 {{ $alto := .Get "alto" }}
 
+{{ if $ligazon }}
+<a rel="noopener" target="_self" href="{{ $ligazon }}">
+{{ end }}
 {{ if and $nome $tipo $ancho $alto }}
-<svg style="border:1px solid currentColor; padding:1px" width="{{ $ancho }}" height="{{ $alto }}">
+<svg style="color: var(--color-text); border:1px solid currentColor; padding:1px" width="{{ $ancho }}" height="{{ $alto }}">
 {{ if eq $tipo "lingua" }}
     {{ if eq $nome "gz" }}
         {{ if $titulo }}
@@ -79,4 +83,7 @@
     {{ end }}
 {{ end }}
 </svg>
+{{ end }}
+{{ if $ligazon }}
+</a>
 {{ end }}
