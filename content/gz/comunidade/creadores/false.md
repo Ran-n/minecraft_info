@@ -72,46 +72,42 @@ Especializada en construcción e decoración.
 
 {{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="FalseSymmetry" ligazon="FalseSymmetry" >}}
 
-```
-Welcome to my small piece of the internet!
+Benvidos ó meu pequeno pedazo de internet!
 
 \-\-\-\
-Twitch Streamer: 5pm BST Wed, Fri & Sat.\
-Livestreams are archived on my second channel, [FalseLive](https://www.youtube.com/channel/UCpArlUtSgiPGBklMDzwrr2g)! (see side bar for link)\
+Facendo directos en Twitch: 5pm BST Mércores, Venres e Sábado.\
+Os directos arquívanse na minha canle secundaria, [FalseLive](https://www.youtube.com/channel/UCpArlUtSgiPGBklMDzwrr2g)! (mirar a barra do lado para ligazón)\
 \-\-\-\
-New Videos uploaded at 5:30pm BST!
+Novos vídeos subidos ása 5.30pm BST!
 
 Twitter: https://twitter.com/falsesymmetry\
 Instagram: https://www.instagram.com/falsesymmetry/\
 Twitch: https://www.twitch.tv/falsesymmetry
 
-Business Inquiry?
-Feel free to contact me on: falsesymmetry@outlook.com
+Preguntas de negocios?
+Síntete libre de contactarme en: falsesymmetry@outlook.com
 
-If you like what you see, make sure to subscribe!\
-Thanks for the support!\
+Se che gusta o que ves, asegurate de subscribirte!\
+Grazas polo apoio!\
 ✌ ☯ ☮
-```
 
 ### Canle de Youtube de Directos
 
 {{< rede ancho="24px" alto="24px" tipo="youtube" titulo="FalseLive" ligazon="UCpArlUtSgiPGBklMDzwrr2g" >}}
 
-```
-Welcome to my livestreaming archive channel!
+Benvidos á minha canle de arquivo de directos!
 
-Here you will find some of my BEST past livestreams.
-The majority of Minecraft will be uploaded in full - although other games may be uploaded in bite size chunks or highlights.
-I will no longer be uploading all of them since I stream daily - only those that I think are worth a watch back :)
+Aquí atoparedes algúns dos meus MELLORES directos pasados.
+A maioría de Minecraft será subida integramente, inda que outros xogos poden ser subidos en formato de clip ou de mellores momentos.
+Xa non vou estar subido todos posto que fago directos diariamente, soamente aqueles que penso que son merecedores de seren vistos de novo :)
 
-Wanna watch my streams live?
-Catch them here:\
+Queres ver os meus directos en vivo?
+Míraos aquí:\
 http://www.twitch.tv/falsesymmetry
 
-Be sure to check out my main channel for DAILY content here: http://youtube.com/falsesymmetry
+Asegurate de ver a minha canle principal para contido DIARIO na seguinte ligazón: http://youtube.com/falsesymmetry
 
-Daily Livestreams on Twitch from 6pm Weekdays, 4pm Weekends!! (BST/UK Timezone)
-```
+Directos diarios en Twitch dende as 6pm entre semana, 4pm fins de semana (Zona horaria BST/UK)
 
 ## Horario
 
