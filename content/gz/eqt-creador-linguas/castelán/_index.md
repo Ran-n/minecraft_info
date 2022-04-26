@@ -115,4 +115,4 @@ bookcase_cover_src_dark: 'linguas/cas_0.svg'
 type: 'bookcase'
 
 ---
-{{< bandeira ancho="28px" alto="17px" tipo="lingua" nome="cas" titulo="Creadores en lingua castelá" >}}
+{{< bandeira ancho="28px" alto="17px" tipo="lingua" nome="cas" titulo="Creadores en lingua castelá" ligazon="/gz/eqt-creador-linguas/cas/" >}}

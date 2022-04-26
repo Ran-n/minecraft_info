@@ -8,7 +8,7 @@ toc: false
 collapsible_toc: false
 
 url: '/en/community/minecrafter/'
-slug: 'servers'
+slug: 'minecrafter'
 aliases : [
     '/en/community/minecrafter/',
     '/en/comunidade/minecrafter/',

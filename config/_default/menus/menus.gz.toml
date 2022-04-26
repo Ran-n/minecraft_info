@@ -159,6 +159,12 @@
             name = "Bedrock"
             url = "/comunidade/servidores/bedrock/"
             weight = 2
+     [[navbar]]
+        parent = 'comunidade'
+        identifier = "minecrafter"
+        name = "Minecrafter"
+        url = "/comunidade/minecrafter/"
+        weight = 4
 
 [[navbar]]
     identifier = "sobre"

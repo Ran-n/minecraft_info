@@ -34,9 +34,9 @@ eqt-creador-nacions: [
 
 ---
 
-{{< bandeira tipo="lingua" nome="gz" ancho="28px" alto="17px" >}}
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" >}}
-{{< bandeira tipo="lingua" nome="cas" ancho="28px" alto="17px" >}}
+{{< bandeira tipo="lingua" nome="gz" ancho="28px" alto="17px" ligazon="/gz/eqt-creador-linguas/gz/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/gz/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="cas" ancho="28px" alto="17px" ligazon="/gz/eqt-creador-linguas/cas/" >}}
 
 # Breogann
 

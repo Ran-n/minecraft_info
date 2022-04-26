@@ -48,6 +48,11 @@ aliases: [
     '/eqt-creator-languages/inglés/',
     '/eqt-creator-languages/ingles/',
     '/eqt-creator-languages/en/',
+
+    '/creator-languages/english/',
+    '/creator-languages/inglés/',
+    '/creator-languages/ingles/',
+    '/creator-languages/en/',
 ]
 
 bookcase_cover_src: 'linguas/en_0.svg'

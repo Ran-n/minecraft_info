@@ -37,7 +37,7 @@ Dentro de cada un especifícase a linguaxe e edición que usan no seu contido.
 #### Por edición
 {{< terms-cloud terms="eqt-creador-edicions" >}}
 
-#### Por idioma
+#### Por [lingua](/gz/eqt-creador-linguas/)
 {{< terms-cloud terms="eqt-creador-linguas" >}}
 
 #### Por nación
