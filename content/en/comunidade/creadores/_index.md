@@ -34,13 +34,13 @@ bookcase_list_sections: false
 Alphabetical list of the information page for every Minecraft content creator.
 Inside each page will be specified the languages and editions used in their content.
 
-#### By Edition
+#### By [Edition](/en/eqt-creador-edicions/)
 {{< terms-cloud terms="eqt-creador-edicions" >}}
 
-#### By Language
+#### By [Language](/en/eqt-creador-linguas/)
 {{< terms-cloud terms="eqt-creador-linguas" >}}
 
-#### By Nation
+#### By [Nation](/en/eqt-creador-nacions/)
 {{< terms-cloud terms="eqt-creador-nacions" >}}
 
 <br>

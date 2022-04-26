@@ -36,7 +36,7 @@ keywords:
 - minecraft
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # Rays Works
 

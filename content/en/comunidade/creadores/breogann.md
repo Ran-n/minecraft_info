@@ -8,7 +8,7 @@ toc: true
 collapsible_toc: false
 
 url: '/en/creators/breogann/'
-#slug: '/breogan/'
+slug: 'breogann'
 #aliases: ['/creadores/breogann/']
 
 weight: 1
@@ -35,9 +35,9 @@ eqt-creador-nacions: [
 
 ---
 
-{{< bandeira tipo="lingua" nome="gz" ancho="28px" alto="17px" ligazon="/en/eqt-creadores/galego/" >}}
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" >}}
-{{< bandeira tipo="lingua" nome="cas" ancho="28px" alto="17px" >}}
+{{< bandeira tipo="lingua" nome="gz" ancho="28px" alto="17px" ligazon="/en/eqt-creador-linguas/gz/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/en/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="cas" ancho="28px" alto="17px" ligazon="/en/eqt-creador-linguas/cas/" >}}
 
 # Breogann
 

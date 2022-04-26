@@ -17,7 +17,6 @@
       "figure",
       "footer",
       "g",
-      "g/",
       "h1",
       "h2",
       "h3",
@@ -48,6 +47,7 @@
       "summary",
       "svg",
       "title",
+      "title/",
       "ul"
     ],
     "classes": [
@@ -154,9 +154,9 @@
       "boat-with-chest",
       "breogann",
       "bugs-arranxados",
-      "by-edition",
-      "by-language",
-      "by-nation",
+      "by-editioneneqt-creador-edicions",
+      "by-languageeneqt-creador-linguas",
+      "by-nationeneqt-creador-nacions",
       "c",
       "cadros",
       "cambios",

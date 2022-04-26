@@ -37,7 +37,7 @@ type: blank
 
 ---
 
-[info](./info)
+{{< icona tipo="info" ancho="24px" alto="24px" ligazon="./info/" >}}
 
 ## Pick the [version](/en/eqt-j-granxa-iron-versions/)
 

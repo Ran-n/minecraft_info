@@ -8,18 +8,25 @@ toc: true
 collapsible_toc: false
 
 url: '/en/creators/tangotek/'
+slug: 'tangotek'
 aliases: [
-    '/creators/tango/',
-    '/creators/tangotek/',
-    '/creators/tango-tek/',
-    '/creators/tango_tek/',
-    '/creators/tango tek/',
-
     '/en/creators/tango/',
     '/en/creators/tangotek/',
     '/en/creators/tango-tek/',
     '/en/creators/tango_tek/',
     '/en/creators/tango tek/',
+
+    '/en/creadores/tango/',
+    '/en/creadores/tangotek/',
+    '/en/creadores/tango-tek/',
+    '/en/creadores/tango_tek/',
+    '/en/creadores/tango tek/',
+
+    '/creators/tango/',
+    '/creators/tangotek/',
+    '/creators/tango-tek/',
+    '/creators/tango_tek/',
+    '/creators/tango tek/',
 ]
 
 bookcase_cover_src: 'fotos_content/creadores/tango-tek.svg'
@@ -43,7 +50,7 @@ eqt-creador-nacions: [
 
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # Tango Tek
 

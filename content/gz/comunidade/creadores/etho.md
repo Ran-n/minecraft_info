@@ -35,7 +35,7 @@ keywords:
 - gameplay
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
 # EthosLab
 

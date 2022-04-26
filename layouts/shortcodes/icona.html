@@ -1,0 +1,28 @@
+{{ $ligazon := .Get "ligazon" }}
+{{ $tipo := .Get "tipo" }}
+{{ $titulo := .Get "titulo" }}
+{{ $ancho := .Get "ancho" }}
+{{ $alto := .Get "alto" }}
+
+<!--
+{{ $trazo := .Get "trazo" }}
+{{ $trazo_ancho := .Get "trazo-ancho" }}
+{{ $trazo_remate := .Get "trazo-remate" }}
+{{ $recheo := .Get "recheo" }}
+-->
+
+{{ if and $tipo $ligazon $ancho $alto }}
+<a rel="noopener" target="_blank" href="{{ $ligazon }}">
+    <svg stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" style="padding: 2px; color: var(--color-text)" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="{{ $ancho }}" height="{{ $alto }}">
+        {{ if $titulo }}
+        <title>{{ $titulo }}</title>
+        {{ else }}
+        <title></title>
+        {{ end }}
+        {{ if eq $tipo "info" }}
+        <circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line>
+        <!--g stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></g-->
+        {{ end }}
+    </svg>
+</a>
+{{ end }}
