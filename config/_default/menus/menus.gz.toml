@@ -161,10 +161,17 @@
             weight = 2
      [[navbar]]
         parent = 'comunidade'
+        identifier = "mundos"
+        name = "Mundos"
+        url = "/comunidade/mundos/"
+        weight = 4
+    [[navbar]]
+        parent = 'comunidade'
         identifier = "minecrafter"
         name = "Minecrafter"
         url = "/comunidade/minecrafter/"
-        weight = 4
+        weight = 5
+
 
 [[navbar]]
     identifier = "sobre"
