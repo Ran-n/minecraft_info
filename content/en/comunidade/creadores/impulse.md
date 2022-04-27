@@ -1,5 +1,5 @@
 ---
-title: "impulse"
+title: "impulseSV"
 #date: 2022-04-25T19:59:00+02:00
 #draft: true
 author: 'Ran#'
@@ -121,6 +121,8 @@ This is my second channel for uploading live streams and additional content
 ● Twitter:  https://twitter.com/impulseSV
 
 ### Twitch
+
+{{< rede ancho="24px" alto="24px" tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
 
 Impulse is a member of Hermitcraft playing mostly Minecraft and makes videos for YouTube.
 Check the social links for details!

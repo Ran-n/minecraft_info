@@ -11,10 +11,16 @@ collapsible_toc: false
 bookcase_cover_src: 'fotos_content/creadores/breogann.svg'
 bookcase_cover_src_dark: 'fotos_content/creadores/breogann.svg'
 
-#slug: '/breogan/'
-#aliases: ['/creadores/breogann/']
+url: '/creadores/breogann/'
+slug: 'breogann'
+aliases: [
+    '/gz/creadores/breogann/',
+    '/gz/creators/breogann/',
 
-eqt_creadores: [
+    '/creadores/breogann/',
+]
+
+eqt-creadores: [
     'breogann',
 ]
 

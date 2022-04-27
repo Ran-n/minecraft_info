@@ -16,7 +16,7 @@ aliases : [
     '/en/minecrafter/',
 ]
 
-weight: 4
+weight: 5
 bookcase_cover_src: 'fotos_content/obxectos/wooden-pickaxe1.png'
 bookcase_cover_src_dark: 'fotos_content/obxectos/wooden-pickaxe1.png'
 
