@@ -13,13 +13,6 @@ type: 'bookcase'
 
 Welcome to the most complete webpage about <a href="https://www.minecraft.net/" target="_blank">minecraft</a> information.
 
-## News!
-
-<!-- {{< tweet user="Cubehamster" id="1511969869721391107" >}} -->
-
-{{< tweet user="Cubehamster" id="1514305212063916032" >}}
-[Patch Notes 22w15a](/en/minecraft/versions/java/information/22w15a/notes/)
-
 ## Donations
 
 {{< moeda moeda="monero" dir="88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D" cor="si" ancho="24px" alto="24px" >}}
