@@ -8,6 +8,8 @@ toc: true
 collapsible_toc: true
 
 type: 'bookcase'
+bookcase_list_pages: true
+bookcase_list_sections: true
 
 ---
 
