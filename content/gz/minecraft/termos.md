@@ -48,7 +48,8 @@ Mangrove = [Mangleiro](https://crowdin.com/translate/minecraft/all/enus-gl?filte
 Mob = [Criatura](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5220723)
 
 ### P
-Painting = [Cadro](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5240982)
+Painting = [Cadro](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5240982)\
+Pillager = [Saqueador](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5241914)
 
 ### S
 Sculk = [Merodeador](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5287884)\

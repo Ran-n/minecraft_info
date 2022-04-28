@@ -1,5 +1,5 @@
 ---
-title: "Patch Notes"
+title: "Notas de Versión"
 date: 2022-04-28T18:10:00+02:00
 #draft: true
 author: 'Ran#'
@@ -7,10 +7,11 @@ author: 'Ran#'
 toc: true
 collapsible_toc: true
 
-url: '/en/minecraft/versions/java/information/22w17a/notes/'
-slug: 'notes'
+url: '/minecraft/versions/java/informacion/22w17a/notas/'
+slug: 'notas'
 aliases: [
-    '/en/minecraft/versions/java/information/22w17a/notes/',
+    '/gz/minecraft/versions/java/informacion/22w17a/notas/',
+    '/gz/minecraft/versions/java/information/22w17a/notes/',
 ]
 
 weight: 1
@@ -23,65 +24,64 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 <img title="22w17a" alt="22w17a" src="/fotos_content/mobs/allay/allay2.webp">
 
-Prepare to drop some sick bleats in the latest Minecraft: Java Edition snapshot!
-We're bringing in the sweet sounds of the goat horn.
-There are also some changes to the warden and the allay.
+Prepárate para facer unhos balidos épicos coa última instantánea de Minecraft: Edición Java
+Traémosvos os doces sons do corno de cabra.
+Tamén hai algúns cambios ó Gardián e o Alivio.
 
-If the technical aspects of chatting is where it's at for you, make sure to check out the changes to chat signing.
+Se os aspectos técnicos do chateo é o teu tema, asegurate de revisar os cambios feitos ó chat asinado.
 
-Enjoy!
+Disfrutade!
 
+## Novidades
 
-## New Features
+- Engadido o corno de cabra!
 
-- Added Goat Horn!
+### Corno de Cabra
 
-### Goat Horn
+- Un corno de cabra sóltase cando unha cabra bate contra unha árbore ou calquer outro bloque duro que aparece de forma natural onde as cabras aparecen (Troncos, Pedra, Xeo Empacado, Mineral de Ferro, Mineral de Cobre, ou Mineral de Esmeralda)
+    - Outros bloques sólidos son extranhos para a cabra, polo que non os embestirá
+- Usa un corno para producir un son que pode ser escoitado dende lonxe
+- Cada corno ten o seu propio son baseado na cabra do que orixina
+- Hai 8 variantes de corno, 4 deles exclusivos para as cabras berradoras
+- Os cornos de cabra poden ser atopados en postos avanzados dos Saqueadores
 
-- A Goat Horn drops when a Goat rams a tree or any other hard block that occurs naturally where Goats spawn (Logs, Stone, Packed Ice, Iron Ore, Copper Ore, or Emerald Ore)
-    - Other solid blocks are unfamiliar to the Goat, so it won’t ram them
-- Use the horn to play a loud sound that can be heard from afar
-- Each horn has its own sound based on the Goat it originated from
-- There are 8 Goat Horn variants, 4 of them exclusive to screaming Goats
-- Goat Horns can sometimes be found in Pillager Outposts
+## Cambios
 
-## Changes
+- A conexión do Alivio cos bloques de notas agora visualizase mellor coa particula de vibración
+- A conexión do Alivio cos bloques de notas pode ser de novo bloqueada con bloques de la
+- Reemplazado o sutil marcador de selección do mundo de realms por unha clara marca de verificación verde
+- Actualizadas as UVs da base do destilador para equiparar os axustes gráficos ós feitos na edición de Bedrock
+- Explosións causadas por TNT acendida por xogadores agora fan que certos bloques solten experiencia (tales que minerais e sculk)
+    - Manteremonos pendientes das opinións sobre este cambio, pode ser modificado no futuro
+- Os bloques de merodeador agora teñen unha resistencia a explosións moi baixa
+- Balanceo do Gardián
 
-- The Allay connecting with Note Blocks is now better visualized by the vibration particle
-- The Allay connecting with Note Blocks can now be blocked by Wool Blocks again
-- Replaced realms subtle selected world highlight with a clear green checkmark
-- Updated the Brewing Stand’s base UVs and texture to match a graphical fix in Bedrock Edition
-- Explosions caused by player-ignited TNT now cause experience to drop from broken blocks (such as ore blocks and sculk)
-    - We will be keeping an eye on feedback for this change, it might change in a future update
-- Sculk blocks now have very low blast resistance
-- Warden balancing
+### Gardián
 
-### Warden
+- Os seus ataques a distancia agora:
+    - Circunvalarán escudos e armadura
+    - Darán un dano de 10 en lugar de 30, e o tempo de refresco foi reducido de 5 a 3 segundos
+    - Mostrará unha mensaxe de morte personalizada
+- Agora soltan un único Catalizador de Merodeador ó morrer
 
-- Their ranged attack will now:
-    - Bypass shields and armor
-    - Deal 10 damage instead of 30 damage, and the cooldown has been reduced from 5 seconds to 2 seconds
-    - Display a custom death message
-- Wardens now drop a single Sculk Catalyst upon death
+## Cambios técnicos
 
-## Technical Changes
+- Chat asinado
+- Eliminado a etiqueta de evento de xogo `dampenable_vibrations`
 
-- Signed Chat
-- Removed `dampenable_vibrations` game event tag
+### Asinado Seguro de Chat Multixogador
 
-### Multiplayer Secure Chat Signing
+Este é o primeiro paso nun proceso para proporcionar unha maior seguridade no chat dentro do xogo.
+Encantaríanos escoitar as vosas opinións, pero tede en conta que moitas características tales que o control do estilo dos mensaxes do chat por parte do servidor aínda quedan por ser implementadas.
 
-This is the first step in a process to provide more security and player safety features for in-game chat.
-We'd love to hear your thoughts, but keep in mind that many features such as server-driven styling of chat messages are still missing.
+- Os mensaxes do chat entre xogadores están firmados criptográficamente
+- Os xogadores son proporcionados por Mojang con un par de chaves ó iniciar
+- Os servidores poden requirir ós xogadores ter unha chave pública asinada por Mojang mediante o comando `enforce-secure-profile=true` no `server.properties`
+    - Obrigando o uso de perfís seguros previrá que os xogadores sen unha chave pública asinada por Mojang se poidan conectar
+    - Por defecto esta opción está posta a `false` (falso), permitindo que os xogadores se conecten sen unha chave pública asinada por Mojang
+- O estilo do chat agora é controlado polo servidor vía paquetes de recursos coa chave de tradución `chat.type.text`
 
-- Chat messages between players are now cryptographically signed
-- Players are given a Mojang provided key-pair on startup
-- Servers can require players to have a Mojang-signed public key by setting `enforce-secure-profile=true` in `server.properties`
-    - Enforcing secure profiles will prevent players without a Mojang-signed public key from connecting
-    - By default this is set to `false`, allowing players to connect without a Mojang-signed public key
-- Chat styling is now handled via server resource packs with the translation key `chat.type.text`
-
-## Fixed Bugs
+## Bugs Arranxados
 
 - {{< mc-bug codigo="MC-13103" titulo="Texture Z-Fighting at Wolf/Dog/Cat snout" >}}
 - {{< mc-bug codigo="MC-53312" titulo="Illager/(zombie) villager/witch robes don’t render the last two rows of pixels" >}}
@@ -124,26 +124,25 @@ We'd love to hear your thoughts, but keep in mind that many features such as ser
 - {{< mc-bug codigo="MC-250429" titulo="Narrator improperly narrates chat" >}}
 - {{< mc-bug codigo="MC-250460" titulo="The rendering of players is delayed for others" >}}
 
-## Get the Snapshot
+## Obtención da instantánea
 
-Snapshots are available for Minecraft: Java Edition.
-To install the snapshot, open up the [Minecraft Launcher](https://www.minecraft.net/en-us/download) and enable snapshots in the "Installations" tab.
+As instantáneas están dispoñibles para Minecraft: Edición Java.
+Para instalala, abre o lanzador de Minecraft e habilita as instantáneas na pestana de "Instalacións".
 
-**Snapshots can corrupt your world, so please backup and/or run them in a different folder from your main worlds.**
+**As instantáneas poden corromper o teu mundo así que, por favor, realiza unha copia de seguridade e/ou utilizaas nunha carpeta distinta da usada usualmente para os teus mundos.**
 
-Cross-platform server jar:
-[Minecraft server jar](https://launcher.mojang.com/v1/objects/9b4d5a87b48d7c3784fdfc9d6982543e8d9296df/server.jar).
+Ficheiro jar multiplataforma:
+[jar de servidor](https://launcher.mojang.com/v1/objects/9b4d5a87b48d7c3784fdfc9d6982543e8d9296df/server.jar).
 
-Report bugs here:
-[Minecraft issue tracker!](https://bugs.mojang.com/projects/MC/issues)
+Reporta bugs aquí: [Traqueador de problemas de Minecraft](https://bugs.mojang.com/projects/MC/issues)
 
-Want to give feedback?\
-Head over to our [feedback website](https://aka.ms/JavaSnapshotFeedback?ref=minecraftnet) or come chat with us about it on the [official Minecraft Discord](https://discordapp.com/invite/minecraft).
+Queres dar as túas opinións?\
+Dirixete á [nosa páxina web](https://aka.ms/JavaSnapshotFeedback?ref=minecraftnet) ou falanos no chat do noso [servidor de Discord oficial de Minecraft](https://discordapp.com/invite/minecraft).
 
 ---
 
-Published: 2022/04/27\
-Author: Adrian Östergård\
-Adaptor: Ran#
+Publicado: 2022/04/27\
+Autor: Adrian Östergård\
+Tradutor: Ran#
 
-[Original Publication](https://www.minecraft.net/en-us/article/minecraft-snapshot-22w17a)
+[Publicación orixinal](https://www.minecraft.net/en-us/article/minecraft-snapshot-22w17a)
