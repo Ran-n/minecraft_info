@@ -6,7 +6,11 @@ author: "Ran#"
 
 url: '/en/minecraft/versions/java/information/'
 slug: 'information'
-#aliases: ['información']
+aliases: [
+    '/en/minecraft/versions/java/information/',
+    '/en/minecraft/versions/java/informacion/',
+    '...',
+]
 
 weight: 2
 bookcase_cover_src: 'monochrome/cover/bookcase.png'
