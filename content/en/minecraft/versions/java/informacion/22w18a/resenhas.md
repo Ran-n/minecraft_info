@@ -4,8 +4,8 @@ date: 2022-05-05T19:11:00+02:00
 #draft: true
 author: 'Ran#'
 
-#navbar_title: ""
-#footer: ""
+#navbar_title: ''
+#footer: ''
 
 toc: true
 collapsible_toc: false
