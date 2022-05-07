@@ -24,6 +24,20 @@
         <!--g stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></g-->
         {{ else if eq $tipo "frecha-esquerda-redondeada" }}
         <circle cx="12" cy="12" r="10"></circle><polyline points="12 8 8 12 12 16"></polyline><line x1="16" y1="12" x2="8" y2="12"></line>
+        {{ else if eq $tipo "frecha-esquerda" }}
+        <line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline>
+        {{ else if eq $tipo "frecha-dereita-redondeada" }}
+        <circle cx="12" cy="12" r="10"></circle><polyline points="12 16 16 12 12 8"></polyline><line x1="8" y1="12" x2="16" y2="12"></line>
+        {{ else if eq $tipo "frecha-dereita" }}
+        <line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline>
+        {{ else if eq $tipo "menor" }}
+        <polyline points="15 18 9 12 15 6"></polyline>
+        {{ else if eq $tipo "maior" }}
+        <polyline points="9 18 15 12 9 6"></polyline>
+        {{ else if eq $tipo "triangulo-esquerda" }}
+        <polygon points="15 18 9 12 15 6"/>
+        {{ else if eq $tipo "triangulo-dereita" }}
+        <polygon points="9 18 15 12 9 6" />
         {{ end }}
     </svg>
 </a>
