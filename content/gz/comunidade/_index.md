@@ -2,18 +2,30 @@
 title: "Comunidade"
 date: 2022-04-23T21:23:00+02:00
 #draft: true
-author: "Ran#"
+author: 'Ran#'
 
 toc: true
-collapsible_toc: false
+collapsible_toc: true
+collapsible_changelogs: true
 
-url: '/comunidade/'
-slug: 'comunidade'
+search_hidden: false
+math: false
+zooming_js: true
+
+ga: true
+disqus: true
+
+twitter_cards: false
+code_copy: false
+open_graph: false
+
+url: '/comunidades/'
+slug: 'comunidades'
 aliases: [
+    '/gz/comunidades/',
     '/gz/comunidade/',
+    '/gz/communitys/',
     '/gz/community/',
-
-    '/comunidade/',
 ]
 
 weight: 7

@@ -4,11 +4,29 @@ date: 2022-04-04T22:49:12+02:00
 #draft: true
 author: 'Ran#'
 
-toc: false
-collapsible_toc: false
+toc: true
+collapsible_toc: true
+collapsible_changelogs: true
 
+search_hidden: false
+math: false
+zooming_js: true
+
+ga: true
+disqus: true
+
+twitter_cards: false
+code_copy: false
+open_graph: false
+
+url: '/ferramentas/'
 slug: 'ferramentas'
-#aliases : ['ferramentas']
+aliases: [
+    '/gz/ferramentas/',
+    '/gz/ferramenta/',
+    '/gz/tools/',
+    '/gz/tool/',
+]
 
 weight: 4
 bookcase_cover_src: 'fotos_content/ferramentas/ferramentas.jpg'
