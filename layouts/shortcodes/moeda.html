@@ -1,8 +1,23 @@
+{{ $dimenbase := "24" }}
+
 {{ $moeda := .Get "moeda" }}
 {{ $dir := .Get "dir" }}
 {{ $cor := .Get "cor" }}
+
 {{ $ancho := .Get "ancho" }}
 {{ $alto := .Get "alto" }}
+
+{{ if not $ancho }}
+    {{ if $alto }}
+        {{ $ancho = $alto }}
+    {{ else }}
+        {{ $ancho = $dimenbase }}
+    {{ end }}
+{{ end }}
+
+{{ if not $alto }}
+    {{ $alto = $ancho }}
+{{ end }}
 
 <div class="icon" fill="currentColor" style="display: inline; word-break: break-all; padding: 2px; color: var(--color-text)">
     {{ if $dir }}

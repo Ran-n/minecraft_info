@@ -39,21 +39,23 @@ eqt-creador-nacions: [
 
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/en/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # Grian
 
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Youtube" ligazon="Grian" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="GrianMC" >}}
-{{< rede ancho="24px" alto="24px" tipo="instagram" titulo="Instagram" ligazon="grianmc" >}}
-{{< rede ancho="24px" alto="24px" tipo="facebook" titulo="Facebook" ligazon="Grian" >}}
-{{< correo ancho="24px" alto="24px" tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
+{{< rede alto="24" tipo="youtube" subtipo="channel" titulo="Youtube" ligazon="Grian" >}}
+{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="GrianMC" >}}
+{{< rede alto="24" tipo="instagram" titulo="Instagram" ligazon="grianmc" >}}
+{{< rede alto="24" tipo="facebook" titulo="Facebook" ligazon="Grian" >}}
+{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
 
 ## Descriptions
 
 English content creator that only uploads in english and is specialized in building.
 
 ### Youtube
+
+{{< rede alto="24" tipo="youtube" subtipo="channel" titulo="Youtube" ligazon="Grian" >}}
 
 This channel focuses on gaming (specifically minecraft) content aimed at a general audience.
 I build minecraft houses and make minecraft house tutorials along with everything else minecraft.
@@ -72,7 +74,7 @@ I don't use alt accounts, I only use my main, linked accounts.
 
 ## Contact
 
-{{< correo ancho="24px" alto="24px" tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
+{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
 
 ```
 GrianBusiness@gmail.com

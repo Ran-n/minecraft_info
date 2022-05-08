@@ -1,3 +1,5 @@
+{{ $dimenbase := "24" }}
+
 {{ $nome := .Get "nome" }}
 <!--
     lingua
@@ -6,8 +8,21 @@
 {{ $tipo := .Get "tipo" }}
 {{ $titulo := .Get "titulo" }}
 {{ $ligazon := .Get "ligazon" }}
+
 {{ $ancho := .Get "ancho" }}
 {{ $alto := .Get "alto" }}
+
+{{ if not $ancho }}
+    {{ if $alto }}
+        {{ $ancho = $alto }}
+    {{ else }}
+        {{ $ancho = $dimenbase }}
+    {{ end }}
+{{ end }}
+
+{{ if not $alto }}
+    {{ $alto = $ancho }}
+{{ end }}
 
 {{ if $ligazon }}
 <a rel="noopener" target="_self" href="{{ $ligazon }}">

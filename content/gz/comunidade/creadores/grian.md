@@ -39,22 +39,24 @@ eqt-creador-nacions: [
 
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/gz/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
 # Grian
 
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Youtube" ligazon="Grian" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="GrianMC" >}}
-{{< rede ancho="24px" alto="24px" tipo="instagram" titulo="Instagram" ligazon="grianmc" >}}
-{{< rede ancho="24px" alto="24px" tipo="facebook" titulo="Facebook" ligazon="Grian" >}}
-{{< correo ancho="24px" alto="24px" tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Youtube" ligazon="Grian" >}}
+{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="GrianMC" >}}
+{{< rede alto="24" tipo="instagram" titulo="Instagram" ligazon="grianmc" >}}
+{{< rede alto="24" tipo="facebook" titulo="Facebook" ligazon="Grian" >}}
+{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
 
 ## Descricións
 
 Creador de contido de orixe inglés que sube vídeos exclusivamente en inglés.
 Especializado en construcción e decoración.
 
-### Descrición
+### Youtube
+
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Youtube" ligazon="Grian" >}}
 
 Esta canle céntrase en contido de xogos (especialmente minecraft) dirixidos a unha audiencia xeral.
 Fago casas en minecraft, tutoriais delas e tamén máis cousas en minecraft.
@@ -73,7 +75,7 @@ Non uso contas secundarias, soamente uso a minha principal e contas ligadas.
 
 ## Contacto
 
-{{< correo ancho="24px" alto="24px" tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
+{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
 
 ```
 GrianBusiness@gmail.com

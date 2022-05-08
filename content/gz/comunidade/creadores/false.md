@@ -51,17 +51,17 @@ eqt-creador-nacions: [
 
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/gz/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
 # FalseSymmetry
 
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Canle de Youtube Principal" ligazon="FalseSymmetry" >}}
-{{< rede ancho="24px" alto="24px" tipo="youtube" titulo="Canle de Youtube de Directos" ligazon="UCpArlUtSgiPGBklMDzwrr2g" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="falsesymmetry" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitch" titulo="Twitch" ligazon="falsesymmetry" >}}
-{{< rede ancho="24px" alto="24px" tipo="instagram" titulo="Instagram" ligazon="falsesymmetry" >}}
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="falsesymmetry" >}}
-{{< correo ancho="24px" alto="24px" tipo="outlook" titulo="Correo" dir="falsesymmetry@outlook.com" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Canle de Youtube Principal" ligazon="FalseSymmetry" >}}
+{{< rede alto="24" tipo="youtube" subtipo="channel" titulo="Canle de Youtube de Directos" ligazon="UCpArlUtSgiPGBklMDzwrr2g" >}}
+{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="falsesymmetry" >}}
+{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="falsesymmetry" >}}
+{{< rede alto="24" tipo="instagram" titulo="Instagram" ligazon="falsesymmetry" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="falsesymmetry" >}}
+{{< correo alto="24" tipo="outlook" titulo="Correo" dir="falsesymmetry@outlook.com" >}}
 
 ## Descricións
 
@@ -70,7 +70,7 @@ Especializada en construcción e decoración.
 
 ### Canle de Youtube principal
 
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="FalseSymmetry" ligazon="FalseSymmetry" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="FalseSymmetry" ligazon="FalseSymmetry" >}}
 
 Benvidos ó meu pequeno pedazo de internet!
 
@@ -93,7 +93,7 @@ Grazas polo apoio!\
 
 ### Canle de Youtube de Directos
 
-{{< rede ancho="24px" alto="24px" tipo="youtube" titulo="FalseLive" ligazon="UCpArlUtSgiPGBklMDzwrr2g" >}}
+{{< rede alto="24" tipo="youtube" subtipo="channel" titulo="FalseLive" ligazon="UCpArlUtSgiPGBklMDzwrr2g" >}}
 
 Benvidos á minha canle de arquivo de directos!
 
@@ -125,7 +125,7 @@ Novos vídeos as 5:30pm BST
 
 ## Doazóns
 
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="falsesymmetry" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="falsesymmetry" >}}
 
 Por ser mecenas en Patreon consegues acceso exclusivo ó seu servidor de minecraft.
 
@@ -135,7 +135,7 @@ Por ser mecenas en Patreon consegues acceso exclusivo ó seu servidor de minecra
 
 ## Contacto
 
-{{< correo ancho="24px" alto="24px" tipo="outlook" titulo="Correo" dir="falsesymmetry@outlook.com" >}}
+{{< correo alto="24" tipo="outlook" titulo="Correo" dir="falsesymmetry@outlook.com" >}}
 
 ```
 falsesymmetry@outlook.com

@@ -68,21 +68,21 @@ eqt-creador-nacions: [
 
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/en/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # impulseSV
 
-{{< rede ancho="24px" alto="24px" tipo="web" titulo="web" ligazon="https://www.impulsesv.com/" >}}
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Main Youtube Channel" ligazon="impulseSV" >}}
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Secondary Youtube Channel" ligazon="impulsesv2" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="impulseSV" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
-{{< rede ancho="24px" alto="24px" tipo="instagram" titulo="Instagram" ligazon="impulsesv_yt" >}}
-{{< rede ancho="24px" alto="24px" tipo="facebook" titulo="Facebook" ligazon="impulseSV" >}}
-{{< rede ancho="24px" alto="24px" tipo="tiktok" titulo="TikTok" ligazon="impulsesv_yt" >}}
-{{< correo ancho="24px" alto="24px" titulo="Main YT Channel Email" dir="impulsesv@pbnj.gg" >}}
-{{< correo ancho="24px" alto="24px" titulo="Secondary YT Channel Email" dir="biz@impulsesv.com" >}}
+{{< rede alto="24" tipo="web" titulo="web" ligazon="https://www.impulsesv.com/" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Main Youtube Channel" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Secondary Youtube Channel" ligazon="impulsesv2" >}}
+{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="instagram" titulo="Instagram" ligazon="impulsesv_yt" >}}
+{{< rede alto="24" tipo="facebook" titulo="Facebook" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="tiktok" titulo="TikTok" ligazon="impulsesv_yt" >}}
+{{< correo alto="24" titulo="Main YT Channel Email" dir="impulsesv@pbnj.gg" >}}
+{{< correo alto="24" titulo="Secondary YT Channel Email" dir="biz@impulsesv.com" >}}
 
 ## Description
 
@@ -91,7 +91,7 @@ Specialized in farms and technical minecraft.
 
 ### Main Youtube Channel
 
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Main Youtube Channel" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Main Youtube Channel" ligazon="impulseSV" >}}
 
 Impulse is all about taking Survival Minecraft to the next level through automation.
 In the channel you will find showcases, tutorials, and a Let's Play series on the Hermitcraft server.
@@ -111,7 +111,7 @@ Mouse:  Logitech G402
 
 ### Secondary Youtube Channel
 
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Secondary Youtube Channel" ligazon="impulsesv2" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Secondary Youtube Channel" ligazon="impulsesv2" >}}
 
 This is my second channel for uploading live streams and additional content
 
@@ -122,7 +122,7 @@ This is my second channel for uploading live streams and additional content
 
 ### Twitch
 
-{{< rede ancho="24px" alto="24px" tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
 
 Impulse is a member of Hermitcraft playing mostly Minecraft and makes videos for YouTube.
 Check the social links for details!
@@ -142,7 +142,7 @@ Mouse:  Logitech G402
 
 ## Donations
 
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
 
 |
 [Patreon](https://www.patreon.com/impulseSV)
@@ -150,8 +150,8 @@ Mouse:  Logitech G402
 
 ## Contact
 
-{{< correo ancho="24px" alto="24px" titulo="Main YT Channel Email" dir="impulsesv@pbnj.gg" >}}
-{{< correo ancho="24px" alto="24px" titulo="Secondary YT Channel Email" dir="biz@impulsesv.com" >}}
+{{< correo alto="24" titulo="Main YT Channel Email" dir="impulsesv@pbnj.gg" >}}
+{{< correo alto="24" titulo="Secondary YT Channel Email" dir="biz@impulsesv.com" >}}
 
 ```
 impulsesv@pbnj.gg

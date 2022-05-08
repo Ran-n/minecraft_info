@@ -43,15 +43,15 @@ keywords:
 - gameplay
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/en/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # docm77
 
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="YouTube" ligazon="docm77" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="docm77" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitch" titulo="Twitch" ligazon="docm77live" >}}
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="docm77" >}}
-{{< correo ancho="24px" alto="24px" titulo="Correo" dir="docm77@nevaly.com" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="YouTube" ligazon="docm77" >}}
+{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="docm77" >}}
+{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="docm77live" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="docm77" >}}
+{{< correo alto="24" titulo="Correo" dir="docm77@nevaly.com" >}}
 
 German content creator that uploads only on english.
 
@@ -59,7 +59,7 @@ Especialized in let's plays, redstone and technical minecraft.
 
 ## Donations
 
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="docm77" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="docm77" >}}
 
 |
 [Patreon](https://www.patreon.com/docm77)
@@ -67,7 +67,7 @@ Especialized in let's plays, redstone and technical minecraft.
 
 ## Contact
 
-{{< correo ancho="24px" alto="24px" titulo="Correo" dir="docm77@nevaly.com" >}}
+{{< correo alto="24" titulo="Correo" dir="docm77@nevaly.com" >}}
 
 ```
 docm77@nevaly.com

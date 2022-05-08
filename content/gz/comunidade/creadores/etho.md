@@ -35,12 +35,12 @@ keywords:
 - gameplay
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/gz/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
 # EthosLab
 
-{{< rede ancho="24px" alto="24px" tipo="youtube3" titulo="Youtube" ligazon="EthosLab" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="EthoLP" >}}
+{{< rede alto="24" tipo="youtube" subtipo="user" titulo="Youtube" ligazon="EthosLab" >}}
+{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="EthoLP" >}}
 
 Creador de contido canadense que sube contido exclusivamente en inglés.
 

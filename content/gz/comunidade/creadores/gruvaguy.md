@@ -43,16 +43,16 @@ eqt-creador-nacions: [
 
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/gz/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
 # Gruva Guy
 
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="YouTube" ligazon="GruvaGuy" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="GruvaGuy" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitch" titulo="Twitch" ligazon="gruvaguy" >}}
-{{< rede ancho="24px" alto="24px" tipo="discord" titulo="Discord" ligazon="Rtqa3je" >}}
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="gruva" >}}
-{{< correo ancho="24px" alto="24px" tipo="gmail" titulo="Gmail" dir="gruvaguy" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="YouTube" ligazon="GruvaGuy" >}}
+{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="GruvaGuy" >}}
+{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="gruvaguy" >}}
+{{< rede alto="24" tipo="discord" titulo="Discord" ligazon="Rtqa3je" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="gruva" >}}
+{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="gruvaguy" >}}
 
 Creador de contido inglés que sube contido exclusivamente en inglés.
 
@@ -60,7 +60,7 @@ Especializado en granxas e minecraft bedrock técnico.
 
 ## Doazóns
 
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="gruva" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="gruva" >}}
 
 |
 [Patreon](https://www.patreon.com/gruva)
@@ -69,7 +69,7 @@ Especializado en granxas e minecraft bedrock técnico.
 
 ## Contacto
 
-{{< correo ancho="24px" alto="24px" tipo="gmail" titulo="Gmail" dir="gruvaguy" >}}
+{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="gruvaguy" >}}
 
 ```
 gruvaguy@gmail.com

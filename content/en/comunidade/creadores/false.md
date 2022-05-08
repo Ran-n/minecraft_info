@@ -51,17 +51,17 @@ eqt-creador-nacions: [
 
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/en/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # FalseSymmetry
 
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Main Youtube Channel" ligazon="FalseSymmetry" >}}
-{{< rede ancho="24px" alto="24px" tipo="youtube" titulo="Livestream Youtube Channel" ligazon="UCpArlUtSgiPGBklMDzwrr2g" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="falsesymmetry" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitch" titulo="Twitch" ligazon="falsesymmetry" >}}
-{{< rede ancho="24px" alto="24px" tipo="instagram" titulo="Instagram" ligazon="falsesymmetry" >}}
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="falsesymmetry" >}}
-{{< correo ancho="24px" alto="24px" tipo="outlook" titulo="Email" dir="falsesymmetry@outlook.com" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Main Youtube Channel" ligazon="FalseSymmetry" >}}
+{{< rede alto="24" tipo="youtube" subtipo="channel" titulo="Livestream Youtube Channel" ligazon="UCpArlUtSgiPGBklMDzwrr2g" >}}
+{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="falsesymmetry" >}}
+{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="falsesymmetry" >}}
+{{< rede alto="24" tipo="instagram" titulo="Instagram" ligazon="falsesymmetry" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="falsesymmetry" >}}
+{{< correo alto="24" tipo="outlook" titulo="Email" dir="falsesymmetry@outlook.com" >}}
 
 ## Descriptions
 
@@ -70,7 +70,7 @@ Specialized in building and decoration.
 
 ### Main Youtube Channel
 
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="FalseSymmetry" ligazon="FalseSymmetry" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="FalseSymmetry" ligazon="FalseSymmetry" >}}
 
 Welcome to my small piece of the internet!
 
@@ -93,7 +93,7 @@ Thanks for the support!\
 
 ### LiveStream Youtube Channel
 
-{{< rede ancho="24px" alto="24px" tipo="youtube" titulo="FalseLive" ligazon="UCpArlUtSgiPGBklMDzwrr2g" >}}
+{{< rede alto="24" tipo="youtube" subtipo="channel" titulo="FalseLive" ligazon="UCpArlUtSgiPGBklMDzwrr2g" >}}
 
 Welcome to my livestreaming archive channel!
 
@@ -125,7 +125,7 @@ New videos at 5:30pm BST
 
 ## Donations
 
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="falsesymmetry" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="falsesymmetry" >}}
 
 By supporting her on patreon you get access to her exclusive minecraft server.
 
@@ -135,7 +135,7 @@ By supporting her on patreon you get access to her exclusive minecraft server.
 
 ## Contact
 
-{{< correo ancho="24px" alto="24px" tipo="outlook" titulo="Email" dir="falsesymmetry@outlook.com" >}}
+{{< correo alto="24" tipo="outlook" titulo="Email" dir="falsesymmetry@outlook.com" >}}
 
 ```
 falsesymmetry@outlook.com

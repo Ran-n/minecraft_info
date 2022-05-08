@@ -27,13 +27,13 @@ eqt-creador-nacions: [
 
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/gz/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
 # Pixlriffs
 
-{{< rede ancho="24px" alto="24px" tipo="youtube3" titulo="Youtube" ligazon="Pixlriffs" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="pixlriffs" >}}
-{{< rede ancho="24px" alto="24px" tipo="instagram" titulo="Instagram" ligazon="pixlriffs" >}}
+{{< rede alto="24" tipo="youtube" subtipo="user" titulo="Youtube" ligazon="Pixlriffs" >}}
+{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="pixlriffs" >}}
+{{< rede alto="24" tipo="instagram" titulo="Instagram" ligazon="pixlriffs" >}}
 
 Creador de contido inglés que sube contido exclusivamente en inglés.
 

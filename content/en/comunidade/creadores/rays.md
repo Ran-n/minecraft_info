@@ -36,17 +36,17 @@ keywords:
 - minecraft
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/en/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # Rays Works
 
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Youtube" ligazon="RaysWorks" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitch" titulo="Twitch" ligazon="raysworks" >}}
-{{< rede ancho="24px" alto="24px" tipo="reddit" titulo="Reddit" ligazon="Rays_Works" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="RaysWorks" >}}
-{{< rede ancho="24px" alto="24px" tipo="discord" titulo="Discord" ligazon="raysworks" >}}
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="RaysWorks" >}}
-{{< rede ancho="24px" alto="24px" tipo="paypal" titulo="Paypal" ligazon="RaysWorks" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Youtube" ligazon="RaysWorks" >}}
+{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="raysworks" >}}
+{{< rede alto="24" tipo="reddit" titulo="Reddit" ligazon="Rays_Works" >}}
+{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="RaysWorks" >}}
+{{< rede alto="24" tipo="discord" titulo="Discord" ligazon="raysworks" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="RaysWorks" >}}
+{{< rede alto="24" tipo="paypal" titulo="Paypal" ligazon="RaysWorks" >}}
 
 Content creator from the USA that uploads content only in english.
 
@@ -58,8 +58,8 @@ On [twitch](https://www.twitch.tv/raysworks) Sun, Wed, Fri, Sat at ~2pm EST and 
 
 ## Donations
 
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="RaysWorks" >}}
-{{< rede ancho="24px" alto="24px" tipo="paypal" titulo="Paypal" ligazon="RaysWorks" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="RaysWorks" >}}
+{{< rede alto="24" tipo="paypal" titulo="Paypal" ligazon="RaysWorks" >}}
 
 |
 [Patreon](https://www.patreon.com/RaysWorks)

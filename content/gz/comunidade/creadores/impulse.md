@@ -68,21 +68,21 @@ eqt-creador-nacions: [
 
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/gz/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
 # impulseSV
 
-{{< rede ancho="24px" alto="24px" tipo="web" titulo="Páxina Web" ligazon="https://www.impulsesv.com/" >}}
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Canle de Youtube Principal" ligazon="impulseSV" >}}
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Canle de Youtube Secundaria" ligazon="impulsesv2" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="impulseSV" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
-{{< rede ancho="24px" alto="24px" tipo="instagram" titulo="Instagram" ligazon="impulsesv_yt" >}}
-{{< rede ancho="24px" alto="24px" tipo="facebook" titulo="Facebook" ligazon="impulseSV" >}}
-{{< rede ancho="24px" alto="24px" tipo="tiktok" titulo="TikTok" ligazon="impulsesv_yt" >}}
-{{< correo ancho="24px" alto="24px" titulo="Correo da Canle de Youtube Principal" dir="impulsesv@pbnj.gg" >}}
-{{< correo ancho="24px" alto="24px" titulo="Correo da Canle de Youtube Secundaria" dir="biz@impulsesv.com" >}}
+{{< rede alto="24" tipo="web" titulo="Páxina Web" ligazon="https://www.impulsesv.com/" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Canle de Youtube Principal" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Canle de Youtube Secundaria" ligazon="impulsesv2" >}}
+{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="instagram" titulo="Instagram" ligazon="impulsesv_yt" >}}
+{{< rede alto="24" tipo="facebook" titulo="Facebook" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="tiktok" titulo="TikTok" ligazon="impulsesv_yt" >}}
+{{< correo alto="24" titulo="Correo da Canle de Youtube Principal" dir="impulsesv@pbnj.gg" >}}
+{{< correo alto="24" titulo="Correo da Canle de Youtube Secundaria" dir="biz@impulsesv.com" >}}
 
 ## Descricións
 
@@ -91,7 +91,7 @@ Especializado en granxas e Minecraft técnico.
 
 ### Canle de Youtube Principal
 
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Canle de Youtube Principal" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Canle de Youtube Principal" ligazon="impulseSV" >}}
 
 Impulse trátase de levar Minecraft Supervivencia ó seguinte nivel a través da automatización.
 Nesta canle atoparás demostracións, titoriais e series de supervivencia no servidor de Hermitcraft.
@@ -111,7 +111,7 @@ Rato:  Logitech G402
 
 ### Canle de Youtube Secundaria
 
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Canle de Youtube Secundaria" ligazon="impulsesv2" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Canle de Youtube Secundaria" ligazon="impulsesv2" >}}
 
 Esta é a minha segunda canle para subir directos e material adicional
 
@@ -122,7 +122,7 @@ Esta é a minha segunda canle para subir directos e material adicional
 
 ### Twitch
 
-{{< rede ancho="24px" alto="24px" tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
 
 Impulse é un membro de Hermitcraft o cal xoga maioritariamente a Minecraft e fai vídeos para YouTube.
 Mira as ligazóns ás redes sociais para máis detalles!
@@ -142,7 +142,7 @@ Rato:  Logitech G402
 
 ## Doazóns
 
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
 
 |
 [Patreon](https://www.patreon.com/impulseSV)
@@ -150,8 +150,8 @@ Rato:  Logitech G402
 
 ## Contacto
 
-{{< correo ancho="24px" alto="24px" titulo="Correo da Canle de Youtube Principal" dir="impulsesv@pbnj.gg" >}}
-{{< correo ancho="24px" alto="24px" titulo="Correo da Canle de Youtube Secundaria" dir="biz@impulsesv.com" >}}
+{{< correo alto="24" titulo="Correo da Canle de Youtube Principal" dir="impulsesv@pbnj.gg" >}}
+{{< correo alto="24" titulo="Correo da Canle de Youtube Secundaria" dir="biz@impulsesv.com" >}}
 
 ```
 impulsesv@pbnj.gg

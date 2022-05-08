@@ -50,16 +50,16 @@ eqt-creador-nacions: [
 
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/en/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # Tango Tek
 
-{{< rede ancho="24px" alto="24px" tipo="youtube3" titulo="YouTube" ligazon="TangoTekLP" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="tangoteklp" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitch" titulo="Twitch" ligazon="tangotek" >}}
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="tangotek" >}}
-{{< rede ancho="24px" alto="24px" tipo="paypal2" titulo="Paypal" ligazon="abbz-KBMKsG9khKDbzNVo-v3tXAC4zrPWI34KKWLlsbToL8q0hIV0HFAnV_5OFsb3AZG3NvytSIPJDqC" >}}
-{{< correo ancho="24px" alto="24px" tipo="gmail" titulo="Gmail" dir="tangotek1" >}}
+{{< rede alto="24" tipo="youtube" subtipo="user" titulo="YouTube" ligazon="TangoTekLP" >}}
+{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="tangoteklp" >}}
+{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="tangotek" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="tangotek" >}}
+{{< rede alto="24" tipo="paypal2" titulo="Paypal" ligazon="abbz-KBMKsG9khKDbzNVo-v3tXAC4zrPWI34KKWLlsbToL8q0hIV0HFAnV_5OFsb3AZG3NvytSIPJDqC" >}}
+{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="tangotek1" >}}
 
 Content creator from the USA that uploads content only in english.
 
@@ -67,7 +67,7 @@ Specialized in farms and technical minecraft.
 
 ## Donations
 
-{{< rede ancho="24px" alto="24px" tipo="patreon" titulo="Patreon" ligazon="tangotek" >}}
+{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="tangotek" >}}
 
 |
 [Patreon](https://www.patreon.com/tangotek)
@@ -76,7 +76,7 @@ Specialized in farms and technical minecraft.
 
 ## Contact
 
-{{< correo ancho="24px" alto="24px" tipo="gmail" titulo="Gmail" dir="tangotek1" >}}
+{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="tangotek1" >}}
 
 ```
 tangotek1@gmail.com

@@ -37,14 +37,14 @@ keywords:
 - let's play
 ---
 
-{{< bandeira tipo="lingua" nome="en" ancho="28px" alto="17px" ligazon="/en/eqt-creador-linguas/en/" >}}
+{{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # ilmango
 
-{{< rede ancho="24px" alto="24px" tipo="youtube2" titulo="Youtube" ligazon="ilmango" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitter" titulo="Twitter" ligazon="ilmango1" >}}
-{{< rede ancho="24px" alto="24px" tipo="twitch" titulo="Twitch" ligazon="ilmango" >}}
-{{< correo ancho="24px" alto="24px" titulo="Correo" tipo="gmail" dir="scicraftilmango" >}}
+{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Youtube" ligazon="ilmango" >}}
+{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="ilmango1" >}}
+{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="ilmango" >}}
+{{< correo alto="24" titulo="Correo" tipo="gmail" dir="scicraftilmango" >}}
 
 German content creator that only uploads in english.
 
