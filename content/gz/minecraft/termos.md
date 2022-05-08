@@ -6,9 +6,24 @@ author: 'Ran#'
 
 toc: true
 collapsible_toc: false
+collapsible_changelogs: true
 
+search_hidden: false
+math: false
+zooming_js: true
+
+ga: true
+disqus: true
+
+twitter_cards: false
+code_copy: false
+open_graph: false
+
+url: '/minecraft/termos/'
 slug: 'termos'
-#aliases: []
+aliases: [
+    '/gz/minecraft/termos/',
+]
 
 #weight: 10
 #bookcase_cover_src: ''

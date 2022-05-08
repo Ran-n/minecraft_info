@@ -4,12 +4,29 @@ date: 2022-03-28T19:56:28+02:00
 #draft: true
 author: 'Ran#'
 
+toc: true
+collapsible_toc: true
+collapsible_changelogs: true
+
+search_hidden: false
+math: false
+zooming_js: true
+
+ga: true
+disqus: true
+
+twitter_cards: false
+code_copy: false
+open_graph: false
+
+url: '/en/about/'
 slug: 'about'
 aliases: [
-    'sobre',
+    '/en/about/',
+    '/en/sobre/',
 ]
 
-weight: 9
+weight: 10
 bookcase_cover_src: 'fotos_content/paisaxes/paisaxe1.jpg'
 bookcase_cover_src_dark: 'fotos_content/paisaxes/paisaxe1.jpg'
 
@@ -28,17 +45,16 @@ Made by Ran#.
 
 ## Contact
 
-{{< icon name="mail" link="mailto:ran-n@tutanota.com" >}}
+{{< correo dir="ran-n@tutanota.com" >}}
 
 For business inquiries use this email: ran-n@tutanota.com
 
 ## Donations
 
-{{< moeda moeda="monero" dir="88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D" cor="si" ancho="24px" alto="24px" >}}
+{{< moeda moeda="monero" dir="88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D" cor="si" alto="24" >}}
 <br>
 <br>
-{{< moeda moeda="bitcoin" dir="bc1q79vja8jzr27dxaf3ylu7e49ady8zq0jsm5qfk6" cor="si" ancho="24px" alto="24px">}}
+{{< moeda moeda="bitcoin" dir="bc1q79vja8jzr27dxaf3ylu7e49ady8zq0jsm5qfk6" cor="si" alto="24">}}
 <br>
 <br>
-{{< moeda moeda="wownero" dir="WW2RheTNrq8goAi42Dz5AKUj1qLSaTSSgiH7sHR2qRqojg238EXP3MM3xuUgswriET7UrpkEoYaCkecBhnU49oxM1dZyYoSmm" cor="si" ancho="24px" alto="24px" >}}
-
+{{< moeda moeda="wownero" dir="WW2RheTNrq8goAi42Dz5AKUj1qLSaTSSgiH7sHR2qRqojg238EXP3MM3xuUgswriET7UrpkEoYaCkecBhnU49oxM1dZyYoSmm" cor="si" alto="24" >}}
