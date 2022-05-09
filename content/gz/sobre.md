@@ -16,8 +16,8 @@ ga: true
 disqus: true
 
 twitter_cards: false
-code_copy: false
-open_graph: false
+#code_copy: false
+#open_graph: false
 
 url: '/sobre/'
 slug: 'sobre'
