@@ -6,14 +6,75 @@ author: 'Ran#'
 
 toc: true
 collapsible_toc: false
+collapsible_changelogs: true
 
-url: '/en/creators/breogann/'
+search_hidden: false
+math: false
+zooming_js: false
+
+ga: true
+disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
+
+url: '/en/community/creators/breogann/'
 slug: 'breogann'
-#aliases: ['/creadores/breogann/']
+aliases: [
+    '/en/community/creador/Breogann',
+    '/en/community/creador/breo',
+    '/en/community/creador/breogann',
+    '/en/community/creadores/Breogann',
+    '/en/community/creadores/breo',
+    '/en/community/creadores/breogann',
+    '/en/community/creator/Breogann',
+    '/en/community/creator/breo',
+    '/en/community/creator/breogann',
+    '/en/community/creators/Breogann',
+    '/en/community/creators/breo',
+    '/en/community/creators/breogann',
+    '/en/communitys/creador/Breogann',
+    '/en/communitys/creador/breo',
+    '/en/communitys/creador/breogann',
+    '/en/communitys/creadores/Breogann',
+    '/en/communitys/creadores/breo',
+    '/en/communitys/creadores/breogann',
+    '/en/communitys/creator/Breogann',
+    '/en/communitys/creator/breo',
+    '/en/communitys/creator/breogann',
+    '/en/communitys/creators/Breogann',
+    '/en/communitys/creators/breo',
+    '/en/communitys/creators/breogann',
+    '/en/comunidade/creador/Breogann',
+    '/en/comunidade/creador/breo',
+    '/en/comunidade/creador/breogann',
+    '/en/comunidade/creadores/Breogann',
+    '/en/comunidade/creadores/breo',
+    '/en/comunidade/creadores/breogann',
+    '/en/comunidade/creator/Breogann',
+    '/en/comunidade/creator/breo',
+    '/en/comunidade/creator/breogann',
+    '/en/comunidade/creators/Breogann',
+    '/en/comunidade/creators/breo',
+    '/en/comunidade/creators/breogann',
+    '/en/comunidades/creador/Breogann',
+    '/en/comunidades/creador/breo',
+    '/en/comunidades/creador/breogann',
+    '/en/comunidades/creadores/Breogann',
+    '/en/comunidades/creadores/breo',
+    '/en/comunidades/creadores/breogann',
+    '/en/comunidades/creator/Breogann',
+    '/en/comunidades/creator/breo',
+    '/en/comunidades/creator/breogann',
+    '/en/comunidades/creators/Breogann',
+    '/en/comunidades/creators/breo',
+    '/en/comunidades/creators/breogann',
+]
 
-weight: 1
-bookcase_cover_src: 'fotos_content/creadores/breogann.svg'
-bookcase_cover_src_dark: 'fotos_content/creadores/breogann.svg'
+#weight: 1
+bookcase_cover_src: '/creadores/breogann.svg/'
+bookcase_cover_src_dark: '/creadores/breogann.svg/'
 
 eqt-creadores: [
     'breogann',
@@ -35,7 +96,7 @@ eqt-creador-nacions: [
 
 ---
 
-{{< bandeira tipo="lingua" nome="gz" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/gz/" >}}
+{{< bandeira tipo="lingua" nome="gz" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 {{< bandeira tipo="lingua" nome="cas" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/cas/" >}}
 

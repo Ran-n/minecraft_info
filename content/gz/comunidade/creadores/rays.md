@@ -249,8 +249,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: 'fotos_content/creadores/rays.svg'
-bookcase_cover_src_dark: 'fotos_content/creadores/rays.svg'
+bookcase_cover_src: '/creadores/rays.svg/'
+bookcase_cover_src_dark: '/creadores/rays.svg/'
 
 eqt-creadores: [
     'rays works',

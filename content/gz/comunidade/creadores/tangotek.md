@@ -184,8 +184,9 @@ aliases: [
     '/gz/comunidades/creators/tangotek',
 ]
 
-bookcase_cover_src: 'fotos_content/creadores/tango-tek.svg'
-bookcase_cover_src_dark: 'fotos_content/creadores/tango-tek.svg'
+#weight: 1
+bookcase_cover_src: '/creadores/tango-tek.svg/'
+bookcase_cover_src_dark: '/creadores/tango-tek.svg/'
 
 eqt-creadores: [
     'tango tek',

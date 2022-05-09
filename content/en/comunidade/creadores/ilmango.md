@@ -6,12 +6,59 @@ author: 'Ran#'
 
 toc: true
 collapsible_toc: false
+collapsible_changelogs: true
 
-url: '/en/creators/ilmango/'
+search_hidden: false
+math: false
+zooming_js: false
 
-#weight: 0
-bookcase_cover_src: 'fotos_content/creadores/ilmango.svg'
-bookcase_cover_src_dark: 'fotos_content/creadores/ilmango.svg'
+ga: true
+disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
+
+url: '/en/community/creators/ilmango/'
+slug: 'ilmango'
+aliases: [
+    '/en/community/creador/ilmango',
+    '/en/community/creador/mango',
+    '/en/community/creadores/ilmango',
+    '/en/community/creadores/mango',
+    '/en/community/creator/ilmango',
+    '/en/community/creator/mango',
+    '/en/community/creators/ilmango',
+    '/en/community/creators/mango',
+    '/en/communitys/creador/ilmango',
+    '/en/communitys/creador/mango',
+    '/en/communitys/creadores/ilmango',
+    '/en/communitys/creadores/mango',
+    '/en/communitys/creator/ilmango',
+    '/en/communitys/creator/mango',
+    '/en/communitys/creators/ilmango',
+    '/en/communitys/creators/mango',
+    '/en/comunidade/creador/ilmango',
+    '/en/comunidade/creador/mango',
+    '/en/comunidade/creadores/ilmango',
+    '/en/comunidade/creadores/mango',
+    '/en/comunidade/creator/ilmango',
+    '/en/comunidade/creator/mango',
+    '/en/comunidade/creators/ilmango',
+    '/en/comunidade/creators/mango',
+    '/en/comunidades/creador/ilmango',
+    '/en/comunidades/creador/mango',
+    '/en/comunidades/creadores/ilmango',
+    '/en/comunidades/creadores/mango',
+    '/en/comunidades/creator/ilmango',
+    '/en/comunidades/creator/mango',
+    '/en/comunidades/creators/ilmango',
+    '/en/comunidades/creators/mango',
+]
+
+#weight: 1
+bookcase_cover_src: '/creadores/ilmango.svg/'
+bookcase_cover_src_dark: '/creadores/ilmango.svg/'
 
 eqt-creadores: [
     'ilmango',

@@ -2,24 +2,95 @@
 title: "Grian"
 #date: 2022-04-23T20:47:00+02:00
 #draft: true
+author: 'Ran#'
 
 toc: true
 collapsible_toc: false
+collapsible_changelogs: true
 
-url: '/en/creators/grain/'
+search_hidden: false
+math: false
+zooming_js: false
+
+ga: true
+disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
+
+url: '/en/community/creators/grain/'
 slug: 'grain'
 aliases: [
-    '/en/creadores/grian/',
-    '/en/creators/grian/',
-    '/creators/grian/',
-
-    '/en/creadores/grain/',
-    '/en/creators/grain/',
-    '/creators/grain/',
+    '/en/community/creador/Grain',
+    '/en/community/creador/Grian',
+    '/en/community/creador/grain',
+    '/en/community/creador/grian',
+    '/en/community/creadores/Grain',
+    '/en/community/creadores/Grian',
+    '/en/community/creadores/grain',
+    '/en/community/creadores/grian',
+    '/en/community/creator/Grain',
+    '/en/community/creator/Grian',
+    '/en/community/creator/grain',
+    '/en/community/creator/grian',
+    '/en/community/creators/Grain',
+    '/en/community/creators/Grian',
+    '/en/community/creators/grain',
+    '/en/community/creators/grian',
+    '/en/communitys/creador/Grain',
+    '/en/communitys/creador/Grian',
+    '/en/communitys/creador/grain',
+    '/en/communitys/creador/grian',
+    '/en/communitys/creadores/Grain',
+    '/en/communitys/creadores/Grian',
+    '/en/communitys/creadores/grain',
+    '/en/communitys/creadores/grian',
+    '/en/communitys/creator/Grain',
+    '/en/communitys/creator/Grian',
+    '/en/communitys/creator/grain',
+    '/en/communitys/creator/grian',
+    '/en/communitys/creators/Grain',
+    '/en/communitys/creators/Grian',
+    '/en/communitys/creators/grain',
+    '/en/communitys/creators/grian',
+    '/en/comunidade/creador/Grain',
+    '/en/comunidade/creador/Grian',
+    '/en/comunidade/creador/grain',
+    '/en/comunidade/creador/grian',
+    '/en/comunidade/creadores/Grain',
+    '/en/comunidade/creadores/Grian',
+    '/en/comunidade/creadores/grain',
+    '/en/comunidade/creadores/grian',
+    '/en/comunidade/creator/Grain',
+    '/en/comunidade/creator/Grian',
+    '/en/comunidade/creator/grain',
+    '/en/comunidade/creator/grian',
+    '/en/comunidade/creators/Grain',
+    '/en/comunidade/creators/Grian',
+    '/en/comunidade/creators/grain',
+    '/en/comunidade/creators/grian',
+    '/en/comunidades/creador/Grain',
+    '/en/comunidades/creador/Grian',
+    '/en/comunidades/creador/grain',
+    '/en/comunidades/creador/grian',
+    '/en/comunidades/creadores/Grain',
+    '/en/comunidades/creadores/Grian',
+    '/en/comunidades/creadores/grain',
+    '/en/comunidades/creadores/grian',
+    '/en/comunidades/creator/Grain',
+    '/en/comunidades/creator/Grian',
+    '/en/comunidades/creator/grain',
+    '/en/comunidades/creator/grian',
+    '/en/comunidades/creators/Grain',
+    '/en/comunidades/creators/Grian',
+    '/en/comunidades/creators/grain',
+    '/en/comunidades/creators/grian',
 ]
 
-bookcase_cover_src: 'fotos_content/creadores/grian.svg'
-bookcase_cover_src_dark: 'fotos_content/creadores/grian.svg'
+#weight: 1
+bookcase_cover_src: '/creadores/grian.svg/'
+bookcase_cover_src_dark: '/creadores/grian.svg/'
 
 eqt-creadores: [
     'grian',

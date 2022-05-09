@@ -1,6 +1,7 @@
 ---
 title: "Grian"
 #date: 2022-04-23T20:47:00+02:00
+#draft: false
 author: 'Ran#'
 
 toc: true
