@@ -6,15 +6,91 @@ author: 'Ran#'
 
 toc: true
 collapsible_toc: false
+collapsible_changelogs: true
 
-url: '/creadores/docm77/'
+search_hidden: false
+math: false
+zooming_js: false
+
+ga: true
+disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
+
+url: '/comunidade/creadores/docm77/'
+slug: 'docm77'
 aliases: [
-    '/creadores/docm77/',
-    '/gz/creadores/docm77/',
+    '/gz/community/creador/Docm',
+    '/gz/community/creador/Docm77',
+    '/gz/community/creador/docm',
+    '/gz/community/creador/docm77',
+    '/gz/community/creadores/Docm',
+    '/gz/community/creadores/Docm77',
+    '/gz/community/creadores/docm',
+    '/gz/community/creadores/docm77',
+    '/gz/community/creator/Docm',
+    '/gz/community/creator/Docm77',
+    '/gz/community/creator/docm',
+    '/gz/community/creator/docm77',
+    '/gz/community/creators/Docm',
+    '/gz/community/creators/Docm77',
+    '/gz/community/creators/docm',
+    '/gz/community/creators/docm77',
+    '/gz/communitys/creador/Docm',
+    '/gz/communitys/creador/Docm77',
+    '/gz/communitys/creador/docm',
+    '/gz/communitys/creador/docm77',
+    '/gz/communitys/creadores/Docm',
+    '/gz/communitys/creadores/Docm77',
+    '/gz/communitys/creadores/docm',
+    '/gz/communitys/creadores/docm77',
+    '/gz/communitys/creator/Docm',
+    '/gz/communitys/creator/Docm77',
+    '/gz/communitys/creator/docm',
+    '/gz/communitys/creator/docm77',
+    '/gz/communitys/creators/Docm',
+    '/gz/communitys/creators/Docm77',
+    '/gz/communitys/creators/docm',
+    '/gz/communitys/creators/docm77',
+    '/gz/comunidade/creador/Docm',
+    '/gz/comunidade/creador/Docm77',
+    '/gz/comunidade/creador/docm',
+    '/gz/comunidade/creador/docm77',
+    '/gz/comunidade/creadores/Docm',
+    '/gz/comunidade/creadores/Docm77',
+    '/gz/comunidade/creadores/docm',
+    '/gz/comunidade/creadores/docm77',
+    '/gz/comunidade/creator/Docm',
+    '/gz/comunidade/creator/Docm77',
+    '/gz/comunidade/creator/docm',
+    '/gz/comunidade/creator/docm77',
+    '/gz/comunidade/creators/Docm',
+    '/gz/comunidade/creators/Docm77',
+    '/gz/comunidade/creators/docm',
+    '/gz/comunidade/creators/docm77',
+    '/gz/comunidades/creador/Docm',
+    '/gz/comunidades/creador/Docm77',
+    '/gz/comunidades/creador/docm',
+    '/gz/comunidades/creador/docm77',
+    '/gz/comunidades/creadores/Docm',
+    '/gz/comunidades/creadores/Docm77',
+    '/gz/comunidades/creadores/docm',
+    '/gz/comunidades/creadores/docm77',
+    '/gz/comunidades/creator/Docm',
+    '/gz/comunidades/creator/Docm77',
+    '/gz/comunidades/creator/docm',
+    '/gz/comunidades/creator/docm77',
+    '/gz/comunidades/creators/Docm',
+    '/gz/comunidades/creators/Docm77',
+    '/gz/comunidades/creators/docm',
+    '/gz/comunidades/creators/docm77',
 ]
 
-bookcase_cover_src: 'fotos_content/creadores/docm.svg'
-bookcase_cover_src_dark: 'fotos_content/creadores/docm.svg'
+#weight: 1
+bookcase_cover_src: '/creadores/docm.svg/'
+bookcase_cover_src_dark: '/creadores/docm.svg/'
 
 eqt-creadores: [
     'docm77',

@@ -3,26 +3,47 @@ title: "Creadores"
 date: 2022-03-26T16:43:10+01:00
 author: "Ran#"
 #draft: true
+author: 'Ran#'
 
 toc: true
 collapsible_toc: false
+collapsible_changelogs: true
+
+search_hidden: false
+math: false
+zooming_js: false
+
+ga: true
+disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
 
 url: '/comunidade/creadores/'
 slug: 'creadores'
 aliases: [
-    '/gz/comunidade/creadores/',
+    '/gz/community/creador/',
     '/gz/community/creadores/',
+    '/gz/community/creator/',
     '/gz/community/creators/',
+    '/gz/communitys/creador/',
+    '/gz/communitys/creadores/',
+    '/gz/communitys/creator/',
+    '/gz/communitys/creators/',
+    '/gz/comunidade/creador/',
+    '/gz/comunidade/creadores/',
+    '/gz/comunidade/creator/',
     '/gz/comunidade/creators/',
-
-    '/comunidade/creadores/',
-    '/comunidade/creators/',
-    '/community/creadores/',
+    '/gz/comunidades/creador/',
+    '/gz/comunidades/creadores/',
+    '/gz/comunidades/creator/',
+    '/gz/comunidades/creators/',
 ]
 
 weight: 1
-bookcase_cover_src: 'fotos_content/obxectos/crafting-table3.png'
-bookcase_cover_src_dark: 'fotos_content/obxectos/crafting-table3.png'
+bookcase_cover_src: '/fotos_content/obxectos/crafting-table3.png/'
+bookcase_cover_src_dark: '/fotos_content/obxectos/crafting-table3.png/'
 
 type: 'bookcase'
 bookcase_list_pages: true

@@ -2,12 +2,63 @@
 title: "Pixlriffs"
 #date: 2022-03-26T22:59:56+01:00
 #draft: true
+author: 'Ran#'
 
 toc: true
 collapsible_toc: false
+collapsible_changelogs: true
 
-bookcase_cover_src: 'fotos_content/creadores/pixlriffs.svg'
-bookcase_cover_src_dark: 'fotos_content/creadores/pixlriffs.svg'
+search_hidden: false
+math: false
+zooming_js: false
+
+ga: true
+disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
+
+url: '/comunidade/creadores/pixlriffs/'
+slug: 'pixlriffs'
+aliases: [
+    '/gz/community/creador/Pixlriffs',
+    '/gz/community/creador/pixlriffs',
+    '/gz/community/creadores/Pixlriffs',
+    '/gz/community/creadores/pixlriffs',
+    '/gz/community/creator/Pixlriffs',
+    '/gz/community/creator/pixlriffs',
+    '/gz/community/creators/Pixlriffs',
+    '/gz/community/creators/pixlriffs',
+    '/gz/communitys/creador/Pixlriffs',
+    '/gz/communitys/creador/pixlriffs',
+    '/gz/communitys/creadores/Pixlriffs',
+    '/gz/communitys/creadores/pixlriffs',
+    '/gz/communitys/creator/Pixlriffs',
+    '/gz/communitys/creator/pixlriffs',
+    '/gz/communitys/creators/Pixlriffs',
+    '/gz/communitys/creators/pixlriffs',
+    '/gz/comunidade/creador/Pixlriffs',
+    '/gz/comunidade/creador/pixlriffs',
+    '/gz/comunidade/creadores/Pixlriffs',
+    '/gz/comunidade/creadores/pixlriffs',
+    '/gz/comunidade/creator/Pixlriffs',
+    '/gz/comunidade/creator/pixlriffs',
+    '/gz/comunidade/creators/Pixlriffs',
+    '/gz/comunidade/creators/pixlriffs',
+    '/gz/comunidades/creador/Pixlriffs',
+    '/gz/comunidades/creador/pixlriffs',
+    '/gz/comunidades/creadores/Pixlriffs',
+    '/gz/comunidades/creadores/pixlriffs',
+    '/gz/comunidades/creator/Pixlriffs',
+    '/gz/comunidades/creator/pixlriffs',
+    '/gz/comunidades/creators/Pixlriffs',
+    '/gz/comunidades/creators/pixlriffs',
+]
+
+#weight: 1
+bookcase_cover_src: '/creadores/pixlriffs.svg/'
+bookcase_cover_src_dark: '/creadores/pixlriffs.svg/'
 
 eqt-creadores: [
     'pixlriffs',

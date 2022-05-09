@@ -6,49 +6,107 @@ author: 'Ran#'
 
 toc: true
 collapsible_toc: false
+collapsible_changelogs: true
 
-url: '/creadores/impulse/'
-slug: 'impulse'
+search_hidden: false
+math: false
+zooming_js: false
+
+ga: true
+disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
+
+url: '/comunidade/creadores/impulsesv/'
+slug: 'impulsesv'
 aliases: [
-    '/gz/creators/impulsesv/',
-    '/gz/creators/impulse-sv/',
-    '/gz/creators/impulse_sv/',
-    '/gz/creators/impulse sv/',
-
-    '/gz/creadores/impulsesv/',
-    '/gz/creadores/impulse-sv/',
-    '/gz/creadores/impulse_sv/',
-    '/gz/creadores/impulse sv/',
-
-    '/gz/creators/impulseSV/',
-    '/gz/creators/impulse-SV/',
-    '/gz/creators/impulse_SV/',
-    '/gz/creators/impulse SV/',
-
-    '/gz/creadores/impulseSV/',
-    '/gz/creadores/impulse-SV/',
-    '/gz/creadores/impulse_SV/',
-    '/gz/creadores/impulse SV/',
-
-    '/gz/creators/impulse/',
-    '/gz/creadores/impulse/',
-
-    '/creadores/impulsesv/',
-    '/creadores/impulse-sv/',
-    '/creadores/impulse_sv/',
-    '/creadores/impulse sv/',
-
-    '/creadores/impulseSV/',
-    '/creadores/impulse-SV/',
-    '/creadores/impulse_SV/',
-    '/creadores/impulse SV/',
-
-    '/creadores/impulse/',
+    '/gz/community/creador/Impulse',
+    '/gz/community/creador/ImpulseSV',
+    '/gz/community/creador/impulse',
+    '/gz/community/creador/impulseSV',
+    '/gz/community/creador/impulsesv',
+    '/gz/community/creadores/Impulse',
+    '/gz/community/creadores/ImpulseSV',
+    '/gz/community/creadores/impulse',
+    '/gz/community/creadores/impulseSV',
+    '/gz/community/creadores/impulsesv',
+    '/gz/community/creator/Impulse',
+    '/gz/community/creator/ImpulseSV',
+    '/gz/community/creator/impulse',
+    '/gz/community/creator/impulseSV',
+    '/gz/community/creator/impulsesv',
+    '/gz/community/creators/Impulse',
+    '/gz/community/creators/ImpulseSV',
+    '/gz/community/creators/impulse',
+    '/gz/community/creators/impulseSV',
+    '/gz/community/creators/impulsesv',
+    '/gz/communitys/creador/Impulse',
+    '/gz/communitys/creador/ImpulseSV',
+    '/gz/communitys/creador/impulse',
+    '/gz/communitys/creador/impulseSV',
+    '/gz/communitys/creador/impulsesv',
+    '/gz/communitys/creadores/Impulse',
+    '/gz/communitys/creadores/ImpulseSV',
+    '/gz/communitys/creadores/impulse',
+    '/gz/communitys/creadores/impulseSV',
+    '/gz/communitys/creadores/impulsesv',
+    '/gz/communitys/creator/Impulse',
+    '/gz/communitys/creator/ImpulseSV',
+    '/gz/communitys/creator/impulse',
+    '/gz/communitys/creator/impulseSV',
+    '/gz/communitys/creator/impulsesv',
+    '/gz/communitys/creators/Impulse',
+    '/gz/communitys/creators/ImpulseSV',
+    '/gz/communitys/creators/impulse',
+    '/gz/communitys/creators/impulseSV',
+    '/gz/communitys/creators/impulsesv',
+    '/gz/comunidade/creador/Impulse',
+    '/gz/comunidade/creador/ImpulseSV',
+    '/gz/comunidade/creador/impulse',
+    '/gz/comunidade/creador/impulseSV',
+    '/gz/comunidade/creador/impulsesv',
+    '/gz/comunidade/creadores/Impulse',
+    '/gz/comunidade/creadores/ImpulseSV',
+    '/gz/comunidade/creadores/impulse',
+    '/gz/comunidade/creadores/impulseSV',
+    '/gz/comunidade/creadores/impulsesv',
+    '/gz/comunidade/creator/Impulse',
+    '/gz/comunidade/creator/ImpulseSV',
+    '/gz/comunidade/creator/impulse',
+    '/gz/comunidade/creator/impulseSV',
+    '/gz/comunidade/creator/impulsesv',
+    '/gz/comunidade/creators/Impulse',
+    '/gz/comunidade/creators/ImpulseSV',
+    '/gz/comunidade/creators/impulse',
+    '/gz/comunidade/creators/impulseSV',
+    '/gz/comunidade/creators/impulsesv',
+    '/gz/comunidades/creador/Impulse',
+    '/gz/comunidades/creador/ImpulseSV',
+    '/gz/comunidades/creador/impulse',
+    '/gz/comunidades/creador/impulseSV',
+    '/gz/comunidades/creador/impulsesv',
+    '/gz/comunidades/creadores/Impulse',
+    '/gz/comunidades/creadores/ImpulseSV',
+    '/gz/comunidades/creadores/impulse',
+    '/gz/comunidades/creadores/impulseSV',
+    '/gz/comunidades/creadores/impulsesv',
+    '/gz/comunidades/creator/Impulse',
+    '/gz/comunidades/creator/ImpulseSV',
+    '/gz/comunidades/creator/impulse',
+    '/gz/comunidades/creator/impulseSV',
+    '/gz/comunidades/creator/impulsesv',
+    '/gz/comunidades/creators/Impulse',
+    '/gz/comunidades/creators/ImpulseSV',
+    '/gz/comunidades/creators/impulse',
+    '/gz/comunidades/creators/impulseSV',
+    '/gz/comunidades/creators/impulsesv',
 ]
 
-#weight: 0
-bookcase_cover_src: 'fotos_content/creadores/impulsesv.svg'
-bookcase_cover_src_dark: 'fotos_content/creadores/impulsesv.svg'
+#weight: 1
+bookcase_cover_src: '/creadores/impulsesv.svg/'
+bookcase_cover_src_dark: '/creadores/impulsesv.svg/'
 
 eqt-creadores: [
     'impulsesv',
