@@ -19,8 +19,8 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/comunidades/'
-slug: 'comunidades'
+url: '/comunidade/'
+slug: 'comunidade'
 aliases: [
     '/gz/community/',
     '/gz/communitys/',
