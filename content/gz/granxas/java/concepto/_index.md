@@ -121,4 +121,5 @@ bookcase_list_sections: true
 Moitas granxas baséanse, ben sexa usando ou mellorando, en outras ou en probas de concepto.
 Estas últimas, poden estar feitas por outros xogadores ou, nalgúns casos, polos propios creadores das granxas finais.
 
-Será aquí nesta páxina onde se vaian ligando segundo xurdan nas diferentes granxas, sempre indicando as versións nas que funcionan.
+Será aquí nesta páxina onde se vaian ligando estas probas de concepto.
+Normalmente segundo xurdan nas diferentes granxas, e sempre indicando as versións nas que funcionan.

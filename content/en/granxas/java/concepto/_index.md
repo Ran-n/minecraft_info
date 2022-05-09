@@ -1,5 +1,5 @@
 ---
-title: "Probas de Concepto"
+title: "Proof of Concept"
 date: 2022-05-09T17:47:00+02:00
 #draft: true
 author: 'Ran#'
@@ -20,7 +20,7 @@ twitter_cards: false
 #open_graph: false
 
 url: '/en/farms/java/proof-concept/'
-slug: 'proba-concepto'
+slug: 'proof-concept'
 aliases: [
     '/en/farm/java/PdC/',
     '/en/farm/java/PoC/',
@@ -118,7 +118,7 @@ bookcase_list_sections: true
 
 ---
 
-Moitas granxas baséanse, ben sexa usando ou mellorando, en outras ou en probas de concepto.
-Estas últimas, poden estar feitas por outros xogadores ou, nalgúns casos, polos propios creadores das granxas finais.
+A lot of farms are either based or improvements of previous ones or proofs of concept.
+This last ones, can be made by other players or, in some cases, by the same ones that make the final farm.
 
-Será aquí nesta páxina onde se vaian ligando segundo xurdan nas diferentes granxas, sempre indicando as versións nas que funcionan.
+It will be here where all the proofs of concept will be linked, mostly as they appear in the different farms added, and always indicating the versions they work on.
