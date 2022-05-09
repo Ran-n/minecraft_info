@@ -2,18 +2,30 @@
 title: "Community"
 date: 2022-04-23T21:23:00+02:00
 #draft: true
-author: "Ran#"
+author: 'Ran#'
 
-toc: true
-collapsible_toc: false
+toc: false
+collapsible_toc: true
+collapsible_changelogs: true
 
-url: '/community/'
+search_hidden: false
+math: false
+zooming_js: false
+
+ga: true
+disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
+
+url: '/en/community/'
 slug: 'community'
 aliases: [
     '/en/community/',
+    '/en/communitys/',
     '/en/comunidade/',
-
-    '/community/',
+    '/en/comunidades/',
 ]
 
 weight: 7
