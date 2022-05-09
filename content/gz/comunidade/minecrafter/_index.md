@@ -23,12 +23,12 @@ url: '/comunidade/minecrafter/'
 slug: 'minecrafter'
 aliases: [
     '/gz/community/minecrafter/',
-    '/gz/communitys/minecrafter/',
-    '/gz/comunidade/minecrafter/',
-    '/gz/comunidades/minecrafter/',
     '/gz/community/minecrafters/',
+    '/gz/communitys/minecrafter/',
     '/gz/communitys/minecrafters/',
+    '/gz/comunidade/minecrafter/',
     '/gz/comunidade/minecrafters/',
+    '/gz/comunidades/minecrafter/',
     '/gz/comunidades/minecrafters/',
 ]
 

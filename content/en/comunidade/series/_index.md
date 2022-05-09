@@ -2,28 +2,39 @@
 title: "Series"
 date: 2022-03-24T13:59:00+02:00
 #draft: true
-author: "Ran#"
+author: 'Ran#'
 
-toc: true
-collapsible_toc: false
+toc: false
+collapsible_toc: true
+collapsible_changelogs: true
 
-url : '/en/community/series/'
+search_hidden: false
+math: false
+zooming_js: false
+
+ga: true
+disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
+
+url: '/en/community/series/'
 slug: 'series'
 aliases: [
+    '/en/community/serie/',
     '/en/community/series/',
-    '/en/community/series/',
+    '/en/communitys/serie/',
+    '/en/communitys/series/',
+    '/en/comunidade/serie/',
     '/en/comunidade/series/',
-    '/en/comunidade/series/',
-    '/comunity/series/',
-
-    '/en/series/',
-    '/en/series/',
-#    '/series/',
+    '/en/comunidades/serie/',
+    '/en/comunidades/series/',
 ]
 
 weight: 2
-bookcase_cover_src: 'fotos_content/series/series2.jpg'
-bookcase_cover_src_dark: 'fotos_content/series/series2.jpg'
+bookcase_cover_src: '/portada-seccion/series2.jpg'
+bookcase_cover_src_dark: '/portada-seccion/series2.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true

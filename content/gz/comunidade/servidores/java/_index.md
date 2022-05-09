@@ -2,20 +2,47 @@
 title: "Servidores Java"
 date: 2022-04-03T13:43:42+02:00
 #draft: true
-author: "Ran#"
+author: 'Ran#'
 
-toc: true
-collapsible_toc: false
+toc: false
+collapsible_toc: true
+collapsible_changelogs: true
 
+search_hidden: false
+math: false
+zooming_js: false
+
+ga: true
+disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
+
+url: '/comunidade/servidores/java/'
 slug: 'java'
 aliases: [
-    '/gz/servidores/java/',
-    '/servidores/java/',
+    '/gz/community/server/java/',
+    '/gz/community/servers/java/',
+    '/gz/community/servidor/java/',
+    '/gz/community/servidores/java/',
+    '/gz/communitys/server/java/',
+    '/gz/communitys/servers/java/',
+    '/gz/communitys/servidor/java/',
+    '/gz/communitys/servidores/java/',
+    '/gz/comunidade/server/java/',
+    '/gz/comunidade/servers/java/',
+    '/gz/comunidade/servidor/java/',
+    '/gz/comunidade/servidores/java/',
+    '/gz/comunidades/server/java/',
+    '/gz/comunidades/servers/java/',
+    '/gz/comunidades/servidor/java/',
+    '/gz/comunidades/servidores/java/',
 ]
 
 weight: 1
-bookcase_cover_src: 'fotos_content/java-bedrock/java.png'
-bookcase_cover_src_dark: 'fotos_content/java-bedrock/java.png'
+bookcase_cover_src: '/portada-seccion/java.png/'
+bookcase_cover_src_dark: '/portada-seccion/java.png/'
 
 type: 'bookcase'
 bookcase_list_pages: false

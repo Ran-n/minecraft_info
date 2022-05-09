@@ -24,6 +24,7 @@ slug: 'proba-concepto'
 aliases: [
     '/gz/farm/java/PdC/',
     '/gz/farm/java/PoC/',
+    '/gz/farm/java/pc/',
     '/gz/farm/java/pdc/',
     '/gz/farm/java/poc/',
     '/gz/farm/java/proba concepto/',
@@ -34,8 +35,17 @@ aliases: [
     '/gz/farm/java/proba_de_concepto/',
     '/gz/farm/java/probaconcepto/',
     '/gz/farm/java/probadeconcepto/',
+    '/gz/farm/java/proof concept/',
+    '/gz/farm/java/proof of concept/',
+    '/gz/farm/java/proof-concept/',
+    '/gz/farm/java/proof-of-concept/',
+    '/gz/farm/java/proof_concept/',
+    '/gz/farm/java/proof_of_concept/',
+    '/gz/farm/java/proofconcept/',
+    '/gz/farm/java/proofofconcept/',
     '/gz/farms/java/PdC/',
     '/gz/farms/java/PoC/',
+    '/gz/farms/java/pc/',
     '/gz/farms/java/pdc/',
     '/gz/farms/java/poc/',
     '/gz/farms/java/proba concepto/',
@@ -46,8 +56,17 @@ aliases: [
     '/gz/farms/java/proba_de_concepto/',
     '/gz/farms/java/probaconcepto/',
     '/gz/farms/java/probadeconcepto/',
+    '/gz/farms/java/proof concept/',
+    '/gz/farms/java/proof of concept/',
+    '/gz/farms/java/proof-concept/',
+    '/gz/farms/java/proof-of-concept/',
+    '/gz/farms/java/proof_concept/',
+    '/gz/farms/java/proof_of_concept/',
+    '/gz/farms/java/proofconcept/',
+    '/gz/farms/java/proofofconcept/',
     '/gz/granxa/java/PdC/',
     '/gz/granxa/java/PoC/',
+    '/gz/granxa/java/pc/',
     '/gz/granxa/java/pdc/',
     '/gz/granxa/java/poc/',
     '/gz/granxa/java/proba concepto/',
@@ -58,8 +77,17 @@ aliases: [
     '/gz/granxa/java/proba_de_concepto/',
     '/gz/granxa/java/probaconcepto/',
     '/gz/granxa/java/probadeconcepto/',
+    '/gz/granxa/java/proof concept/',
+    '/gz/granxa/java/proof of concept/',
+    '/gz/granxa/java/proof-concept/',
+    '/gz/granxa/java/proof-of-concept/',
+    '/gz/granxa/java/proof_concept/',
+    '/gz/granxa/java/proof_of_concept/',
+    '/gz/granxa/java/proofconcept/',
+    '/gz/granxa/java/proofofconcept/',
     '/gz/granxas/java/PdC/',
     '/gz/granxas/java/PoC/',
+    '/gz/granxas/java/pc/',
     '/gz/granxas/java/pdc/',
     '/gz/granxas/java/poc/',
     '/gz/granxas/java/proba concepto/',
@@ -70,11 +98,19 @@ aliases: [
     '/gz/granxas/java/proba_de_concepto/',
     '/gz/granxas/java/probaconcepto/',
     '/gz/granxas/java/probadeconcepto/',
+    '/gz/granxas/java/proof concept/',
+    '/gz/granxas/java/proof of concept/',
+    '/gz/granxas/java/proof-concept/',
+    '/gz/granxas/java/proof-of-concept/',
+    '/gz/granxas/java/proof_concept/',
+    '/gz/granxas/java/proof_of_concept/',
+    '/gz/granxas/java/proofconcept/',
+    '/gz/granxas/java/proofofconcept/',
 ]
 
 weight: 1
-bookcase_cover_src: '/portada-seccion/lampada.jpg/'
-bookcase_cover_src_dark: '/portada-seccion/lampada.jpg/'
+bookcase_cover_src: '/portada-seccion/proba-concepto.jpg/'
+bookcase_cover_src_dark: '/portada-seccion/proba-concepto.jpg/'
 
 type: bookcase
 bookcase_list_pages: true
