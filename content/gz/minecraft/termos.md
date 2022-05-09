@@ -14,8 +14,8 @@ zooming_js: true
 
 ga: true
 disqus: true
-
 twitter_cards: false
+
 #code_copy: false
 #open_graph: false
 
