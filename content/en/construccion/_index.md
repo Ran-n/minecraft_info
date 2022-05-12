@@ -1,8 +1,11 @@
 ---
-title: "Trucos"
-date: 2022-04-05T18:49:40+02:00
+title: "Building"
+date: 2022-05-12T23:22:00+02:00
 #draft: true
 author: 'Ran#'
+
+#navbar_title: ''
+#footer: ''
 
 toc: true
 collapsible_toc: true
@@ -19,20 +22,16 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/trucos/'
-slug: 'trucos'
+url: '/construccions/'
+slug: 'construccions'
 aliases: [
-    '/gz/tip/',
-    '/gz/tips/',
-    '/gz/trick/',
-    '/gz/tricks/',
-    '/gz/truco/',
-    '/gz/trucos/',
+    '/en/construccions/',
+    '/en/construccion/',
 ]
 
-weight: 3
-bookcase_cover_src: 'fotos_content/trucos/truco_cadro.png'
-bookcase_cover_src_dark: 'fotos_content/trucos/truco_cadro.png'
+weight: 4
+bookcase_cover_src: ''
+bookcase_cover_src_dark: ''
 
 type: 'bookcase'
 bookcase_list_pages: false

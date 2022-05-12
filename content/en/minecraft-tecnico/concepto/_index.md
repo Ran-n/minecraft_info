@@ -1,5 +1,5 @@
 ---
-title: "Proof of Concept"
+title: "Proofs of Concept"
 date: 2022-05-09T17:47:00+02:00
 #draft: true
 author: 'Ran#'
@@ -19,14 +19,14 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/en/farms/java/proof-concept/'
+url: '/en/proof-concept/'
 slug: 'proof-concept'
 aliases: [
     '/en/farm/java/PdC/',
     '/en/farm/java/PoC/',
     '/en/farm/java/pc/',
     '/en/farm/java/pdc/',
-    '/en/farm/java/poc/',
+    '/en/poc/',
     '/en/farm/java/proba concepto/',
     '/en/farm/java/proba de concepto/',
     '/en/farm/java/proba-concepto/',
@@ -108,7 +108,7 @@ aliases: [
     '/en/granxas/java/proofofconcept/',
 ]
 
-weight: 1
+weight: 7
 bookcase_cover_src: '/portada-seccion/proba-concepto.jpg/'
 bookcase_cover_src_dark: '/portada-seccion/proba-concepto.jpg/'
 

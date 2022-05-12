@@ -4,6 +4,9 @@ date: 2022-03-24T18:29:00+01:00
 #draft: true
 author: 'Ran#'
 
+#navbar_title: ""
+#footer: ""
+
 toc: true
 collapsible_toc: true
 collapsible_changelogs: true
@@ -13,11 +16,11 @@ math: false
 zooming_js: true
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
-#code_copy: false
-#open_graph: false
+#code_copy: true
+#open_graph: true
 
 #url: ''
 #slug: ''

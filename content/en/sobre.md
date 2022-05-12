@@ -4,6 +4,9 @@ date: 2022-03-28T19:56:28+02:00
 #draft: true
 author: 'Ran#'
 
+#navbar_title: ""
+#footer: ""
+
 toc: true
 collapsible_toc: true
 collapsible_changelogs: true
@@ -13,11 +16,11 @@ math: false
 zooming_js: true
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
-#code_copy: false
-#open_graph: false
+#code_copy: true
+#open_graph: true
 
 url: '/en/about/'
 slug: 'about'
@@ -26,9 +29,9 @@ aliases: [
     '/en/sobre/',
 ]
 
-weight: 10
-bookcase_cover_src: 'fotos_content/paisaxes/paisaxe1.jpg'
-bookcase_cover_src_dark: 'fotos_content/paisaxes/paisaxe1.jpg'
+weight: 8
+bookcase_cover_src: '/paisaxe/mc/paisaxe1.jpg'
+bookcase_cover_src_dark: '/paisaxe/mc/paisaxe1.jpg'
 
 ---
 

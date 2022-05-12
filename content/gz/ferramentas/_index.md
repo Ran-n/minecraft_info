@@ -28,7 +28,7 @@ aliases: [
     '/gz/tool/',
 ]
 
-weight: 4
+weight: 6
 bookcase_cover_src: 'fotos_content/ferramentas/ferramentas.jpg'
 bookcase_cover_src_dark: 'fotos_content/ferramentas/ferramentas.jpg'
 

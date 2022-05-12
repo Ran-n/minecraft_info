@@ -1,8 +1,11 @@
 ---
-title: "Mods"
-date: 2022-04-05T18:41:43+02:00
+title: "Conselhos"
+date: 2022-05-12T22:18:00+02:00
 #draft: true
 author: 'Ran#'
+
+#navbar_title: ""
+#footer: ""
 
 toc: true
 collapsible_toc: true
@@ -19,16 +22,16 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/mods/'
-slug: 'mods'
+url: '/conselho/'
+slug: 'conselho'
 aliases: [
-    '/gz/mods/',
-    '/gz/mod/',
+    '/gz/conselho/',
+    '/gz/conselhos/',
 ]
 
-weight: 5
-bookcase_cover_src: 'fotos_content/mods/mods.jpg'
-bookcase_cover_src_dark: 'fotos_content/mods/mods.jpg'
+weight: 2
+bookcase_cover_src: ''
+bookcase_cover_src_dark: ''
 
 type: 'bookcase'
 bookcase_list_pages: false

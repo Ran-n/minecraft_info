@@ -1,5 +1,5 @@
 ---
-title: '"Minecraft"'
+title: 'Minecraft Técnico'
 date: 2022-03-24T20:45:22+01:00
 #draft: true
 author: 'Ran#'
@@ -22,18 +22,19 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/en/minecraft/'
-slug: 'minecraft'
+url: '/minecraft-tecnico/'
+slug: 'minecraft-tecnico'
 aliases: [
-    '/en/minecraft/',
+    '/gz/minecraft-tecnico/',
 ]
 
-weight: 1
-bookcase_cover_src: 'fotos_content/minecraft/minecraft_cover.png'
-bookcase_cover_src_dark: 'fotos_content/minecraft/minecraft_cover.png'
+weight: 3
+bookcase_cover_src: ''
+bookcase_cover_src_dark: ''
 
-type: 'postcard'
+type: 'bookcase'
+bookcase_list_pages: true
+bookcase_list_sections: true
 
 ---
 
-[Official webpage](https://www.minecraft.net/)

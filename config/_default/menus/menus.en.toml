@@ -1,179 +1,238 @@
 [[navbar]]
     identifier = 'en_minecraft'
-    name = 'Minecraft'
+    name = '"Minecraft"'
     url = '/en/minecraft/'
     weight = 1
     [[navbar]]
         parent = 'en_minecraft'
-        identifier = 'en_versions'
+        identifier = 'en_version'
         name = 'Versions'
-        url = '/en/minecraft/versions/'
+        url = '/en/minecraft/version/'
         weight = 1
         [[navbar]]
-            parent = 'en_versions'
-            identifier = 'en_versions_java'
+            parent = 'en_version'
+            identifier = 'en_version_java'
             name = 'Java'
-            url = '/en/minecraft/versions/java/'
+            url = '/en/minecraft/version/java/'
             weight = 1
             [[navbar]]
-                parent = 'en_versions_java'
-                identifier = 'en_cronoloxia'
+                parent = 'en_version_java'
+                identifier = 'en_version_java_cronoloxia'
                 name = 'Chronology'
-                url = '/en/minecraft/versions/java/chronology'
+                url = '/en/minecraft/version/java/chronology/'
                 weight = 1
             [[navbar]]
-                parent = 'en_versions_java'
-                identifier = 'en_informacion'
+                parent = 'en_version_java'
+                identifier = 'en_version_java_informacion'
                 name = 'Information'
-                url = '/en/minecraft/versions/java/information'
+                url = '/en/minecraft/version/java/information/'
                 weight = 2
         [[navbar]]
-            parent = 'en_versions'
-            identifier = 'en_versions_bedrock'
+            parent = 'en_version'
+            identifier = 'en_version_bedrock'
             name = 'Bedrock'
-            url = '/en/minecraft/versions/bedrock/'
+            url = '/en/minecraft/version/bedrock/'
+            weight = 2
+            [[navbar]]
+                parent = 'en_version_bedrock'
+                identifier = 'en_version_bedrock_cronoloxia'
+                name = 'Chronology'
+                url = '/en/minecraft/version/bedrock/chronology/'
+                weight = 1
+            [[navbar]]
+                parent = 'en_version_bedrock'
+                identifier = 'en_version_bedrock_informacion'
+                name = 'Information'
+                url = '/en/minecraft/version/bedrock/information/'
+                weight = 2
+
+[[navbar]]
+    identifier = 'en_conselho'
+    name = 'Tips & Tricks'
+    url = '/en/tip/'
+    weight = 2
+    [[navbar]]
+        parent = 'en_conselho'
+        identifier = 'en_conselho_java'
+        name = 'Java'
+        url = '/en/tip/java/'
+        weight = 1
+    [[navbar]]
+        parent = 'en_conselho'
+        identifier = 'en_conselho_bedrock'
+        name = 'Bedrock'
+        url = '/en/tip/bedrock/'
+        weight = 2
+
+[[navbar]]
+    identifier = 'en_tecnico'
+    name = 'Technical Minecraft'
+    url = '/en/technical-minecraft/'
+    weight = 3
+    [[navbar]]
+        parent = 'en_tecnico'
+        identifier = 'en_tecnico_granxa'
+        name = 'Farms'
+        url = '/en/technical-minecraft/farm/'
+        weight = 1
+        [[navbar]]
+            parent = 'en_tecnico_granxa'
+            identifier = 'en_tecnico_granxa_java'
+            name = 'Java'
+            url = '/en/technical-minecraft/farm/java/'
+            weight = 1
+        [[navbar]]
+            parent = 'en_tecnico_granxa'
+            identifier = 'en_tecnico_granxa_bedrock'
+            name = 'Bedrock'
+            url = '/en/technical-minecraft/farm/bedrock/'
+            weight = 2
+    [[navbar]]
+        parent = 'en_tecnico'
+        identifier = 'en_tecnico_redstone'
+        name = 'Redstone'
+        url = '/en/technical-minecraft/redstone/'
+        weight = 2
+        [[navbar]]
+            parent = 'en_tecnico_redstone'
+            identifier = 'en_tecnico_redstone_java'
+            name = 'Java'
+            url = '/en/technical-minecraft/redstone/java/'
+            weight = 1
+        [[navbar]]
+            parent = 'en_tecnico_redstone'
+            identifier = 'en_tecnico_redstone_bedrock'
+            name = 'Bedrock'
+            url = '/en/technical-minecraft/redstone/bedrock/'
+            weight = 2
+    [[navbar]]
+        parent = 'en_tecnico'
+        identifier = 'en_tecnico_exploit'
+        name = 'Exploits'
+        url = '/en/technical-minecraft/exploit/'
+        weight = 3
+        [[navbar]]
+            parent = 'en_tecnico_exploit'
+            identifier = 'en_tecnico_exploit_java'
+            name = 'Java'
+            url = '/en/technical-minecraft/exploit/java/'
+            weight = 1
+        [[navbar]]
+            parent = 'en_tecnico_exploit'
+            identifier = 'en_tecnico_exploit_bedrock'
+            name = 'Bedrock'
+            url = '/en/technical-minecraft/exploit/bedrock/'
+            weight = 2
+    [[navbar]]
+        parent = 'en_tecnico'
+        identifier = 'en_tecnico_pdc'
+        name = 'Proofs of Concept'
+        url = '/en/technical-minecraft/pdc/'
+        weight = 4
+        [[navbar]]
+            parent = 'en_tecnico_pdc'
+            identifier = 'en_tecnico_pdc_java'
+            name = 'Java'
+            url = '/en/technical-minecraft/pdc/java/'
+            weight = 1
+        [[navbar]]
+            parent = 'en_tecnico_pdc'
+            identifier = 'en_tecnico_pdc_bedrock'
+            name = 'Bedrock'
+            url = '/en/technical-minecraft/pdc/bedrock/'
             weight = 2
 
 [[navbar]]
-    identifier = 'en_granxas'
-    name = 'Farms'
-    url = '/en/farms/'
-    weight = 2
-    [[navbar]]
-        parent = 'en_granxas'
-        identifier = 'en_granxas_java'
-        name = 'Java'
-        url = '/en/farms/java/'
-        weight = 1
-    [[navbar]]
-        parent = 'en_granxas'
-        identifier = 'en_granxas_bedrock'
-        name = 'Bedrock'
-        url = '/en/farms/bedrock/'
-        weight = 2
-
-[[navbar]]
-    identifier = 'en_trucos'
-    name = 'Tricks'
-    url = '/en/tricks/'
-    weight = 3
-    [[navbar]]
-        parent = 'en_trucos'
-        identifier = 'en_trucos_java'
-        name = 'Java'
-        url = '/en/tricks/java/'
-        weight = 1
-    [[navbar]]
-        parent = 'en_trucos'
-        identifier = 'en_tricks_bedrock'
-        name = 'Bedrock'
-        url = '/en/tricsk/bedrock/'
-        weight = 2
-
-[[navbar]]
-    identifier = 'en_ferramentas'
-    name = 'Tools'
-    url = '/en/tools/'
+    identifier = 'en_construccion'
+    name = 'Building'
+    url = '/en/building/'
     weight = 4
-    [[navbar]]
-        parent = 'en_ferramentas'
-        identifier = 'en_ferramentas_java'
-        name = 'Java'
-        url = '/en/tools/java/'
-        weight = 1
-    [[navbar]]
-        parent = 'en_ferramentas'
-        identifier = 'en_ferramentas_bedrock'
-        name = 'Bedrock'
-        url = '/en/tools/bedrock/'
-        weight = 2
 
 [[navbar]]
-    identifier = 'en_redstone'
-    name = 'Redstone'
-    url = '/en/redstone/'
+    identifier = 'en_mod'
+    name = 'Mods'
+    url = '/en/mod/'
     weight = 5
     [[navbar]]
-        parent = 'en_redstone'
-        identifier = 'en_redstone_java'
+        parent = 'en_mod'
+        identifier = 'en_mod_java'
         name = 'Java'
-        url = '/en/redstone/java/'
+        url = '/en/mod/java/'
         weight = 1
     [[navbar]]
-        parent = 'en_redstone'
-        identifier = 'en_redstone_bedrock'
+        parent = 'en_mod'
+        identifier = 'en_mod_bedrock'
         name = 'Bedrock'
-        url = '/en/redstone/bedrock/'
+        url = '/en/mod/bedrock/'
         weight = 2
 
 [[navbar]]
-    identifier = 'en_mods'
-    name = 'Mods'
-    url = '/en/mods/'
+    identifier = 'en_ferramenta'
+    name = 'Tools'
+    url = '/en/tool/'
     weight = 6
     [[navbar]]
-        parent = 'en_mods'
-        identifier = 'en_mods_java'
+        parent = 'en_ferramenta'
+        identifier = 'en_ferramenta_java'
         name = 'Java'
-        url = '/en/mods/java/'
+        url = '/en/tool/java/'
         weight = 1
     [[navbar]]
-        parent = 'en_mods'
-        identifier = 'en_mods_bedrock'
+        parent = 'en_ferramenta'
+        identifier = 'en_ferramenta_bedrock'
         name = 'Bedrock'
-        url = '/en/mods/bedrock/'
+        url = '/en/tool/bedrock/'
         weight = 2
 
 [[navbar]]
-    identifier = 'en_community'
+    identifier = 'en_comunidade'
     name = 'Community'
     url = '/en/community/'
     weight = 7
     [[navbar]]
-        parent = 'en_community'
-        identifier = 'en_creadores'
+        parent = 'en_comunidade'
+        identifier = 'en_comunidade_creador'
         name = 'Creators'
-        url = '/en/community/creators/'
+        url = '/en/community/creator/'
         weight = 1
     [[navbar]]
-        parent = 'en_community'
-        identifier = 'en_series_en'
+        parent = 'en_comunidade'
+        identifier = 'en_comunidade_serie'
         name = 'Series'
-        url = '/en/community/series/'
+        url = '/en/community/serie/'
         weight = 3
     [[navbar]]
-        parent = 'en_community'
-        identifier = 'en_servidores'
+        parent = 'en_comunidade'
+        identifier = 'en_comunidade_servidor'
         name = 'Servers'
-        url = '/en/community/servers/'
+        url = '/en/community/server/'
         weight = 3
         [[navbar]]
-            parent = 'en_servidores'
-            identifier = 'en_servidores_java'
+            parent = 'en_comunidade_servidor'
+            identifier = 'en_comunidade_servidor_java'
             name = 'Java'
-            url = '/en/community/servers/java/'
+            url = '/en/community/server/java/'
             weight = 1
         [[navbar]]
-            parent = 'en_servidores'
-            identifier = 'en_servidores_bedrock'
+            parent = 'en_comunidade_servidor'
+            identifier = 'en_comunidade_servidor_bedrock'
             name = 'Bedrock'
-            url = '/en/community/servers/bedrock/'
+            url = '/en/community/server/bedrock/'
      [[navbar]]
-        parent = 'en_community'
-        identifier = 'en_worlds'
+        parent = 'en_comunidade'
+        identifier = 'en_comunidade_mundo'
         name = 'Worlds'
-        url = '/en/community/worlds/'
+        url = '/en/community/world/'
         weight = 4
      [[navbar]]
-        parent = 'en_community'
-        identifier = 'en_minecrafter_en'
+        parent = 'en_comunidade'
+        identifier = 'en_comunidade_minecrafter'
         name = 'Minecrafter'
         url = '/en/community/minecrafter/'
         weight = 5
-
 
 [[navbar]]
     identifier = 'en_sobre'
     name = 'About'
     url = '/en/about/'
-    weight = 9
+    weight = 8
