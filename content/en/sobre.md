@@ -30,10 +30,12 @@ aliases: [
 ]
 
 weight: 8
-bookcase_cover_src: '/paisaxe/mc/paisaxe1.jpg'
-bookcase_cover_src_dark: '/paisaxe/mc/paisaxe1.jpg'
+bookcase_cover_src: '/imaxe/mc/paisaxe/paisaxe1.jpg'
+bookcase_cover_src_dark: '/imaxe/mc/paisaxe/paisaxe1.jpg'
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Home" ligazon="/en/" >}}
 
 {{< icon name="github" link="https://github.com/Ran-n" >}}
 {{< icon name="" link="https://stackoverflow.com/users/16545423/ran" >}}
@@ -54,10 +56,10 @@ For business inquiries use this email: ran-n@tutanota.com
 
 ## Donations
 
-{{< moeda moeda="monero" dir="88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D" cor="si" alto="24" >}}
+{{< moeda moeda="monero" dir="88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D" cor="si" >}}
 <br>
 <br>
-{{< moeda moeda="bitcoin" dir="bc1q79vja8jzr27dxaf3ylu7e49ady8zq0jsm5qfk6" cor="si" alto="24">}}
+{{< moeda moeda="bitcoin" dir="bc1q79vja8jzr27dxaf3ylu7e49ady8zq0jsm5qfk6" cor="si" >}}
 <br>
 <br>
-{{< moeda moeda="wownero" dir="WW2RheTNrq8goAi42Dz5AKUj1qLSaTSSgiH7sHR2qRqojg238EXP3MM3xuUgswriET7UrpkEoYaCkecBhnU49oxM1dZyYoSmm" cor="si" alto="24" >}}
+{{< moeda moeda="wownero" dir="WW2RheTNrq8goAi42Dz5AKUj1qLSaTSSgiH7sHR2qRqojg238EXP3MM3xuUgswriET7UrpkEoYaCkecBhnU49oxM1dZyYoSmm" cor="si" >}}

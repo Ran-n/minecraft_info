@@ -29,8 +29,8 @@ aliases: [
 ]
 
 weight: 7
-bookcase_cover_src: '/paisaxe/mc/vila-infinita.png'
-bookcase_cover_src_dark: '/paisaxe/mc/vila-infinita.png'
+bookcase_cover_src: '/imaxe/mc/paisaxe/vila-infinita.jpg'
+bookcase_cover_src_dark: '/imaxe/mc/paisaxe/vila-infinita.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: false

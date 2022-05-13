@@ -16,7 +16,7 @@ math: false
 zooming_js: true
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: true
@@ -30,10 +30,12 @@ aliases: [
 ]
 
 weight: 8
-bookcase_cover_src: '/paisaxe/mc/paisaxe1.jpg'
-bookcase_cover_src_dark: '/paisaxe/mc/paisaxe1.jpg'
+bookcase_cover_src: '/imaxe/mc/paisaxe/paisaxe1.jpg'
+bookcase_cover_src_dark: '/imaxe/mc/paisaxe/paisaxe1.jpg'
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 
 {{< icon name="github" link="https://github.com/Ran-n" >}}
 {{< icon name="" link="https://stackoverflow.com/users/16545423/ran" >}}

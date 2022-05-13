@@ -143,16 +143,22 @@
             weight = 2
 
 [[navbar]]
-    identifier = 'en_construccion'
+    identifier = 'en_construcion'
     name = 'Building'
     url = '/en/building/'
     weight = 4
 
 [[navbar]]
+    identifier = 'en_pvp'
+    name = 'PvP'
+    url = '/en/pvp/'
+    weight = 5
+
+[[navbar]]
     identifier = 'en_mod'
     name = 'Mods'
     url = '/en/mod/'
-    weight = 5
+    weight = 6
     [[navbar]]
         parent = 'en_mod'
         identifier = 'en_mod_java'
@@ -170,7 +176,7 @@
     identifier = 'en_ferramenta'
     name = 'Tools'
     url = '/en/tool/'
-    weight = 6
+    weight = 7
     [[navbar]]
         parent = 'en_ferramenta'
         identifier = 'en_ferramenta_java'
@@ -188,7 +194,7 @@
     identifier = 'en_comunidade'
     name = 'Community'
     url = '/en/community/'
-    weight = 7
+    weight = 8
     [[navbar]]
         parent = 'en_comunidade'
         identifier = 'en_comunidade_creador'
@@ -235,4 +241,4 @@
     identifier = 'en_sobre'
     name = 'About'
     url = '/en/about/'
-    weight = 8
+    weight = 9

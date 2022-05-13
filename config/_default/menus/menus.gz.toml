@@ -143,16 +143,22 @@
             weight = 2
 
 [[navbar]]
-    identifier = 'gz_construccion'
-    name = 'Construcción'
-    url = '/gz/construccion/'
+    identifier = 'gz_construcion'
+    name = 'Construción'
+    url = '/gz/construcion/'
     weight = 4
+
+[[navbar]]
+    identifier = 'gz_pvp'
+    name = 'PvP'
+    url = '/gz/pvp/'
+    weight = 5
 
 [[navbar]]
     identifier = 'gz_mod'
     name = 'Mods'
     url = '/gz/mod/'
-    weight = 5
+    weight = 6
     [[navbar]]
         parent = 'gz_mod'
         identifier = 'gz_mod_java'
@@ -170,7 +176,7 @@
     identifier = 'gz_ferramenta'
     name = 'Ferramentas'
     url = '/gz/ferramenta/'
-    weight = 6
+    weight = 7
     [[navbar]]
         parent = 'gz_ferramenta'
         identifier = 'gz_ferramenta_java'
@@ -188,7 +194,7 @@
     identifier = 'gz_comunidade'
     name = 'Comunidade'
     url = '/gz/comunidade/'
-    weight = 7
+    weight = 8
     [[navbar]]
         parent = 'gz_comunidade'
         identifier = 'gz_creador'
@@ -236,4 +242,4 @@
     identifier = 'gz_sobre'
     name = 'Sobre'
     url = '/gz/sobre/'
-    weight = 8
+    weight = 9
