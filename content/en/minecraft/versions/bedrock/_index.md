@@ -42,3 +42,4 @@ bookcase_list_sections: true
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Minecraft Versions" ligazon="/en/minecraft/version/" >}}

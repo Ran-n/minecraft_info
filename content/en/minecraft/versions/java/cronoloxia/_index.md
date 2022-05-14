@@ -57,3 +57,4 @@ balloon_resources: '/minecraft/versions/java/cronoloxia/_versions'
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Minecraft Java Versions" ligazon="/en/minecraft/version/java/" >}}

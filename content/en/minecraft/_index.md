@@ -36,4 +36,6 @@ type: 'postcard'
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Home" ligazon="/en/" >}}
+
 [Official webpage](https://www.minecraft.net/)
