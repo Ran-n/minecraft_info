@@ -850,6 +850,8 @@ bookcase_list_sections: true
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Technical Minecraft" ligazon="/en/technical-minecraft/" >}}
+
 A lot of farms are either based or improvements of previous ones or proofs of concept.
 This last ones, can be made by other players or, in some cases, by the same ones that make the final farm.
 

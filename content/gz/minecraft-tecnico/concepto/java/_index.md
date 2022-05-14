@@ -1666,4 +1666,4 @@ bookcase_list_sections: true
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/minecraft-tecnico/proba-concepto/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Probas de concepto" ligazon="/gz/minecraft-tecnico/proba-concepto/" >}}

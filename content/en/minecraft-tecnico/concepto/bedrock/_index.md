@@ -1666,3 +1666,4 @@ bookcase_list_sections: true
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Proofs of Concept" ligazon="/en/technical-minecraft/proof-concept/" >}}

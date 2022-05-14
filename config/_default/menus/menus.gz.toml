@@ -73,73 +73,73 @@
         parent = 'gz_tecnico'
         identifier = 'gz_granxa'
         name = 'Granxas'
-        url = '/gz/granxa/'
+        url = '/gz/minecraft-tecnico/granxa/'
         weight = 4
         [[navbar]]
             parent = 'gz_granxa'
             identifier = 'gz_granxa_java'
             name = 'Java'
-            url = '/gz/granxa/java/'
+            url = '/gz/minecraft-tecnico/granxa/java/'
             weight = 1
         [[navbar]]
             parent = 'gz_granxa'
             identifier = 'gz_granxa_bedrock'
             name = 'Bedrock'
-            url = '/gz/granxa/bedrock/'
+            url = '/gz/minecraft-tecnico/granxa/bedrock/'
             weight = 2
     [[navbar]]
         parent = 'gz_tecnico'
         identifier = 'gz_redstone'
         name = 'Redstone'
-        url = '/gz/redstone/'
+        url = '/gz/minecraft-tecnico/redstone/'
         weight = 5
         [[navbar]]
             parent = 'gz_redstone'
             identifier = 'gz_redstone_java'
             name = 'Java'
-            url = '/gz/redstone/java/'
+            url = '/gz/minecraft-tecnico/redstone/java/'
             weight = 1
         [[navbar]]
             parent = 'gz_redstone'
             identifier = 'gz_redstone_bedrock'
             name = 'Bedrock'
-            url = '/gz/redstone/bedrock/'
+            url = '/gz/minecraft-tecnico/redstone/bedrock/'
             weight = 2
     [[navbar]]
         parent = 'gz_tecnico'
         identifier = 'gz_exploit'
         name = 'Exploits'
-        url = '/gz/exploit/'
+        url = '/gz/minecraft-tecnico/exploit/'
         weight = 6
         [[navbar]]
             parent = 'gz_exploit'
             identifier = 'gz_exploit_java'
             name = 'Java'
-            url = '/gz/exploit/java/'
+            url = '/gz/minecraft-tecnico/exploit/java/'
             weight = 1
         [[navbar]]
             parent = 'gz_exploit'
             identifier = 'gz_exploit_bedrock'
             name = 'Bedrock'
-            url = '/gz/exploit/bedrock/'
+            url = '/gz/minecraft-tecnico/exploit/bedrock/'
             weight = 2
     [[navbar]]
         parent = 'gz_tecnico'
         identifier = 'gz_pdc'
         name = 'Probas de concepto'
-        url = '/gz/pdc/'
+        url = '/gz/minecraft-tecnico/pdc/'
         weight = 7
         [[navbar]]
             parent = 'gz_pdc'
             identifier = 'gz_pdc_java'
             name = 'Java'
-            url = '/gz/pdc/java/'
+            url = '/gz/minecraft-tecnico/pdc/java/'
             weight = 1
         [[navbar]]
             parent = 'gz_pdc'
             identifier = 'gz_pdc_bedrock'
             name = 'Bedrock'
-            url = '/gz/pdc/bedrock/'
+            url = '/gz/minecraft-tecnico/pdc/bedrock/'
             weight = 2
 
 [[navbar]]

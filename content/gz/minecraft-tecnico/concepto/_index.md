@@ -850,7 +850,7 @@ bookcase_list_sections: true
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/minecraft-tecnico/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Minecraft Técnico" ligazon="/gz/minecraft-tecnico/" >}}
 
 Moitas granxas están baseadas noutras ben sexa mellorandoas ou usando partes delas.
 Tamén é posible, que unha granxa se basee implementando ou mellorando unha proba de concepto concreta.
