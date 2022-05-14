@@ -28,6 +28,10 @@ aliases: [
     '/en/minecraft/versións/',
 ]
 
+#weight: 1
+bookcase_cover_src: '/imaxe/portada-seccion/versions.svg'
+bookcase_cover_src_dark: '/imaxe/portada-seccion/versions.svg'
+
 type: 'bookcase'
 bookcase_list_pages: false
 bookcase_list_sections: true

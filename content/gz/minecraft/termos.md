@@ -27,8 +27,8 @@ aliases: [
 ]
 
 weight: 1
-bookcase_cover_src: ''
-bookcase_cover_src_dark: ''
+bookcase_cover_src: '/imaxe/portada-seccion/termos.png'
+bookcase_cover_src_dark: '/imaxe/portada-seccion/termos.png'
 
 ---
 
