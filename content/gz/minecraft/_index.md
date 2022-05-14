@@ -13,7 +13,7 @@ math: false
 zooming_js: true
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
@@ -29,8 +29,12 @@ weight: 1
 bookcase_cover_src: 'fotos_content/minecraft/minecraft_cover.png'
 bookcase_cover_src_dark: 'fotos_content/minecraft/minecraft_cover.png'
 
-type: 'postcard'
+type: 'bookcase'
+bookcase_list_pages: true
+bookcase_list_sections: true
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
 
 [Páxina oficial](https://www.minecraft.net/)

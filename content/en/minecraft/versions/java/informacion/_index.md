@@ -2,14 +2,50 @@
 title: "Information"
 date: 2022-04-03T13:43:42+02:00
 #draft: true
-author: "Ran#"
+author: 'Ran#'
 
-url: '/en/minecraft/versions/java/information/'
-slug: 'information'
+toc: true
+collapsible_toc: true
+collapsible_changelogs: true
+
+search_hidden: false
+math: false
+zooming_js: true
+
+ga: true
+#disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
+
+url: '/en/minecraft/version/java/informacion/'
+slug: 'informacion'
 aliases: [
-    '/en/minecraft/versions/java/information/',
+    '/en/minecraft/version/j/informacion/',
+    '/en/minecraft/version/java/informacion/',
+    '/en/minecraft/versions/j/informacion/',
     '/en/minecraft/versions/java/informacion/',
-    '...',
+    '/en/minecraft/versión/j/informacion/',
+    '/en/minecraft/versión/java/informacion/',
+    '/en/minecraft/versións/j/informacion/',
+    '/en/minecraft/version/j/información/',
+    '/en/minecraft/version/java/información/',
+    '/en/minecraft/versions/j/información/',
+    '/en/minecraft/versions/java/información/',
+    '/en/minecraft/versión/j/información/',
+    '/en/minecraft/versión/java/información/',
+    '/en/minecraft/versións/j/información/',
+    '/en/minecraft/version/j/info/',
+    '/en/minecraft/version/java/info/',
+    '/en/minecraft/versions/j/info/',
+    '/en/minecraft/versions/java/info/',
+    '/en/minecraft/versión/j/info/',
+    '/en/minecraft/versión/java/info/',
+    '/en/minecraft/versións/j/info/',
+    '/en/minecraft/versións/java/info/',
+    '/en/minecraft/versións/java/información/',
+    '/en/minecraft/versións/java/informacion/',
 ]
 
 weight: 2

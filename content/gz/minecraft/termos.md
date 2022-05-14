@@ -5,7 +5,7 @@ date: 2022-04-09T00:34:54+02:00
 author: 'Ran#'
 
 toc: true
-collapsible_toc: false
+collapsible_toc: true
 collapsible_changelogs: true
 
 search_hidden: false
@@ -13,23 +13,26 @@ math: false
 zooming_js: true
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/minecraft/termos/'
-slug: 'termos'
+url: '/minecraft/termo/'
+slug: 'termo'
 aliases: [
+    '/gz/minecraft/termo/',
     '/gz/minecraft/termos/',
 ]
 
-#weight: 10
-#bookcase_cover_src: ''
-#bookcase_cover_src_dark: ''
+weight: 1
+bookcase_cover_src: ''
+bookcase_cover_src_dark: ''
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo='"Minecraft"' ligazon="/gz/minecraft/" >}}
 
 Dado que o idioma orixinal do xogo se atopa en inglés, é preciso facer a tradución de certos termos para adaptalos ó galego.
 Porén, algúns nomes están tan normalizados que fora da súa versión orixinal son difíceis de entender.

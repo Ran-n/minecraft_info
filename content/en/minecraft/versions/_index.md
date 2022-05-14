@@ -2,13 +2,31 @@
 title: "Versions"
 date: 2022-04-03T13:43:42+02:00
 #draft: true
-author: "Ran#"
+author: 'Ran#'
 
 toc: true
-collapsible_toc: false
+collapsible_toc: true
+collapsible_changelogs: true
 
-#slug: '/minecraft/versións'
-#aliases: ['/minecrat/versions']
+search_hidden: false
+math: false
+zooming_js: true
+
+ga: true
+#disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
+
+url: '/en/minecraft/version/'
+slug: 'version'
+aliases: [
+    '/en/minecraft/version/',
+    '/en/minecraft/versions/',
+    '/en/minecraft/versión/',
+    '/en/minecraft/versións/',
+]
 
 type: 'bookcase'
 bookcase_list_pages: false
