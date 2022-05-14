@@ -43,7 +43,7 @@ bookcase_cover_src_dark: '/imaxe/mc/paisaxe/paisaxe1.jpg'
 {{< icon name="" link="https://pypi.org/user/ran-n/" >}}
 
 <div style="text-align: center">
-    <img title="Ran#" alt="Ran#" src="/fotos_content/creadores/kanagawa2.png">
+    <img title="Ran#" alt="Ran#" src="/imaxe/creador/paxina/kanagawa2.png">
 </div>
 
 Páxina web feita por Ran#.

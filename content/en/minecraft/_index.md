@@ -29,10 +29,12 @@ aliases: [
 ]
 
 weight: 1
-bookcase_cover_src: 'fotos_content/minecraft/minecraft_cover.png'
-bookcase_cover_src_dark: 'fotos_content/minecraft/minecraft_cover.png'
+bookcase_cover_src: '/imaxe/mc/paisaxe/minecraft_cover.png'
+bookcase_cover_src_dark: '/imaxe/mc/paisaxe/minecraft_cover.png'
 
-type: 'postcard'
+type: 'bookcase'
+bookcase_list_pages: true
+bookcase_list_sections: true
 
 ---
 

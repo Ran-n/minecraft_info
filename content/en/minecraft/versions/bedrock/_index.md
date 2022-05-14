@@ -19,7 +19,7 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/minecraft/version/bedrock/'
+url: '/en/minecraft/version/bedrock/'
 slug: 'bedrock'
 aliases: [
     '/en/minecraft/version/b/',
