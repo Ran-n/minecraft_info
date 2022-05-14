@@ -78,6 +78,6 @@ eqt-j-snapshots-versions: [
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Minecraft Java Versions Information" ligazon="/en/minecraft/version/java/information/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Information" ligazon="/en/minecraft/version/java/information/" >}}
 
 <img title="22w19a" alt="22w19a" src="/imaxe/mc/mob/iron_golem/iron_golem_con_warden.webp">
