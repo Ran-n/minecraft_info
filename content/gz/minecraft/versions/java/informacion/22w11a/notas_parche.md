@@ -1,17 +1,123 @@
 ---
-title: "Notas de versión"
+title: "Notas de versión | 22w11a"
 date: 2022-04-05T21:55:25+02:00
 #draft: true
 author: 'Ran#'
 
 toc: true
 collapsible_toc: true
+collapsible_changelogs: true
 
+search_hidden: false
+math: false
+zooming_js: true
+
+ga: true
+#disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
+
+url: '/minecraft/version/java/informacion/22w11a/notas/'
 slug: 'notas'
 aliases: [
-    'notas_version',
-    'patch_notes',
-    'notes',
+    '/gz/minecraft/version/j/info/22w11a/nota/',
+    '/gz/minecraft/version/j/info/22w11a/notas/',
+    '/gz/minecraft/version/j/info/22w11a/notes/',
+    '/gz/minecraft/version/j/informacion/22w11a/nota/',
+    '/gz/minecraft/version/j/informacion/22w11a/notas/',
+    '/gz/minecraft/version/j/informacion/22w11a/notes/',
+    '/gz/minecraft/version/j/información/22w11a/nota/',
+    '/gz/minecraft/version/j/información/22w11a/notas/',
+    '/gz/minecraft/version/j/información/22w11a/notes/',
+    '/gz/minecraft/version/j/information/22w11a/nota/',
+    '/gz/minecraft/version/j/information/22w11a/notas/',
+    '/gz/minecraft/version/j/information/22w11a/notes/',
+    '/gz/minecraft/version/java/info/22w11a/nota/',
+    '/gz/minecraft/version/java/info/22w11a/notas/',
+    '/gz/minecraft/version/java/info/22w11a/notes/',
+    '/gz/minecraft/version/java/informacion/22w11a/nota/',
+    '/gz/minecraft/version/java/informacion/22w11a/notas/',
+    '/gz/minecraft/version/java/informacion/22w11a/notes/',
+    '/gz/minecraft/version/java/información/22w11a/nota/',
+    '/gz/minecraft/version/java/información/22w11a/notas/',
+    '/gz/minecraft/version/java/información/22w11a/notes/',
+    '/gz/minecraft/version/java/information/22w11a/nota/',
+    '/gz/minecraft/version/java/information/22w11a/notas/',
+    '/gz/minecraft/version/java/information/22w11a/notes/',
+    '/gz/minecraft/versions/j/info/22w11a/nota/',
+    '/gz/minecraft/versions/j/info/22w11a/notas/',
+    '/gz/minecraft/versions/j/info/22w11a/notes/',
+    '/gz/minecraft/versions/j/informacion/22w11a/nota/',
+    '/gz/minecraft/versions/j/informacion/22w11a/notas/',
+    '/gz/minecraft/versions/j/informacion/22w11a/notes/',
+    '/gz/minecraft/versions/j/información/22w11a/nota/',
+    '/gz/minecraft/versions/j/información/22w11a/notas/',
+    '/gz/minecraft/versions/j/información/22w11a/notes/',
+    '/gz/minecraft/versions/j/information/22w11a/nota/',
+    '/gz/minecraft/versions/j/information/22w11a/notas/',
+    '/gz/minecraft/versions/j/information/22w11a/notes/',
+    '/gz/minecraft/versions/java/info/22w11a/nota/',
+    '/gz/minecraft/versions/java/info/22w11a/notas/',
+    '/gz/minecraft/versions/java/info/22w11a/notes/',
+    '/gz/minecraft/versions/java/informacion/22w11a/nota/',
+    '/gz/minecraft/versions/java/informacion/22w11a/notas/',
+    '/gz/minecraft/versions/java/informacion/22w11a/notes/',
+    '/gz/minecraft/versions/java/información/22w11a/nota/',
+    '/gz/minecraft/versions/java/información/22w11a/notas/',
+    '/gz/minecraft/versions/java/información/22w11a/notes/',
+    '/gz/minecraft/versions/java/information/22w11a/nota/',
+    '/gz/minecraft/versions/java/information/22w11a/notas/',
+    '/gz/minecraft/versions/java/information/22w11a/notes/',
+    '/gz/minecraft/versión/j/info/22w11a/nota/',
+    '/gz/minecraft/versión/j/info/22w11a/notas/',
+    '/gz/minecraft/versión/j/info/22w11a/notes/',
+    '/gz/minecraft/versión/j/informacion/22w11a/nota/',
+    '/gz/minecraft/versión/j/informacion/22w11a/notas/',
+    '/gz/minecraft/versión/j/informacion/22w11a/notes/',
+    '/gz/minecraft/versión/j/información/22w11a/nota/',
+    '/gz/minecraft/versión/j/información/22w11a/notas/',
+    '/gz/minecraft/versión/j/información/22w11a/notes/',
+    '/gz/minecraft/versión/j/information/22w11a/nota/',
+    '/gz/minecraft/versión/j/information/22w11a/notas/',
+    '/gz/minecraft/versión/j/information/22w11a/notes/',
+    '/gz/minecraft/versión/java/info/22w11a/nota/',
+    '/gz/minecraft/versión/java/info/22w11a/notas/',
+    '/gz/minecraft/versión/java/info/22w11a/notes/',
+    '/gz/minecraft/versión/java/informacion/22w11a/nota/',
+    '/gz/minecraft/versión/java/informacion/22w11a/notas/',
+    '/gz/minecraft/versión/java/informacion/22w11a/notes/',
+    '/gz/minecraft/versión/java/información/22w11a/nota/',
+    '/gz/minecraft/versión/java/información/22w11a/notas/',
+    '/gz/minecraft/versión/java/información/22w11a/notes/',
+    '/gz/minecraft/versión/java/information/22w11a/nota/',
+    '/gz/minecraft/versión/java/information/22w11a/notas/',
+    '/gz/minecraft/versión/java/information/22w11a/notes/',
+    '/gz/minecraft/versións/j/info/22w11a/nota/',
+    '/gz/minecraft/versións/j/info/22w11a/notas/',
+    '/gz/minecraft/versións/j/info/22w11a/notes/',
+    '/gz/minecraft/versións/j/informacion/22w11a/nota/',
+    '/gz/minecraft/versións/j/informacion/22w11a/notas/',
+    '/gz/minecraft/versións/j/informacion/22w11a/notes/',
+    '/gz/minecraft/versións/j/información/22w11a/nota/',
+    '/gz/minecraft/versións/j/información/22w11a/notas/',
+    '/gz/minecraft/versións/j/información/22w11a/notes/',
+    '/gz/minecraft/versións/j/information/22w11a/nota/',
+    '/gz/minecraft/versións/j/information/22w11a/notas/',
+    '/gz/minecraft/versións/j/information/22w11a/notes/',
+    '/gz/minecraft/versións/java/info/22w11a/nota/',
+    '/gz/minecraft/versións/java/info/22w11a/notas/',
+    '/gz/minecraft/versións/java/info/22w11a/notes/',
+    '/gz/minecraft/versións/java/informacion/22w11a/nota/',
+    '/gz/minecraft/versións/java/informacion/22w11a/notas/',
+    '/gz/minecraft/versións/java/informacion/22w11a/notes/',
+    '/gz/minecraft/versións/java/información/22w11a/nota/',
+    '/gz/minecraft/versións/java/información/22w11a/notas/',
+    '/gz/minecraft/versións/java/información/22w11a/notes/',
+    '/gz/minecraft/versións/java/information/22w11a/nota/',
+    '/gz/minecraft/versións/java/information/22w11a/notas/',
+    '/gz/minecraft/versións/java/information/22w11a/notes/',
 ]
 
 weight: 1
@@ -22,7 +128,7 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 # 22w11a
 
-<img title="22w11a" alt="22w11a" src="/fotos_content/mobs/ra/ra1.webp">
+<img title="22w11a" alt="22w11a" src="/imaxe/mc/mob/ra/ra1.webp">
 
 Minecraft: Edición Java estase subindo de novo ó tren da Actualización Salvaxe!
 A primeira *snapshot* para a 1.19 xa está dispoñible.

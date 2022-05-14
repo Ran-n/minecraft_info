@@ -57,8 +57,8 @@ aliases: [
 ]
 
 weight: -20220512
-bookcase_cover_src: '/imaxe/mc/mob/warden/warden3.jpg'
-bookcase_cover_src_dark: '/imaxe/mc/mob/warden/warden3.jpg'
+bookcase_cover_src: '/imaxe/mc/mob/iron_golem/iron_golem_con_warden.webp'
+bookcase_cover_src_dark: '/imaxe/mc/mob/iron_golem/iron_golem_con_warden.webp'
 
 type: 'bookcase'
 bookcase_list_pages: true
