@@ -16,7 +16,7 @@ math: false
 zooming_js: true
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
@@ -172,11 +172,13 @@ aliases: [
 ]
 
 weight: 2
-bookcase_cover_src: '/imaxe/granxa/pixelart_sandia.jpg'
-bookcase_cover_src_dark: '/imaxe/granxa/pixelart_sandia.jpg'
+bookcase_cover_src: '/imaxe/portada-seccion/granxa.jpg'
+bookcase_cover_src_dark: '/imaxe/portada-seccion/granxa.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: false
 bookcase_list_sections: true
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Minecraft técnico" ligazon="/gz/minecraft-tecnico/" >}}
