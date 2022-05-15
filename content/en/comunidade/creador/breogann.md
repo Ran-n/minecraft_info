@@ -19,7 +19,7 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/en/community/creators/breogann/'
+url: '/en/community/creator/breogann/'
 slug: 'breogann'
 aliases: [
     '/en/community/creador/Breogann',
@@ -73,8 +73,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/breogann.svg/'
-bookcase_cover_src_dark: '/creadores/breogann.svg/'
+bookcase_cover_src: '/imaxe/creador/breogann.svg'
+bookcase_cover_src_dark: '/imaxe/creador/breogann.svg'
 
 eqt-creadores: [
     'breogann',
@@ -96,6 +96,8 @@ eqt-creador-nacions: [
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
+
 {{< bandeira tipo="lingua" nome="gz" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 {{< bandeira tipo="lingua" nome="cas" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/cas/" >}}
@@ -106,16 +108,16 @@ Creador de contido especializado en gameplays.
 
 ## Youtube
 
-{{< rede alto="24" tipo="youtube" subtipo="channel" titulo="English" ligazon="UCSOTRwMkwL1UMrdDgEdRJMg" >}}
-{{< rede alto="24" tipo="youtube" subtipo="channel" titulo="Galego" ligazon="UCgywV9GRFh9sIDRRlH2KJ9A" >}}
-{{< rede alto="24" tipo="youtube" subtipo="channel" titulo="Castellano" ligazon="UC_qVLj3szTJ3pvFC9zofPJA" >}}
+{{< rede tipo="youtube" subtipo="channel" titulo="English" ligazon="UCSOTRwMkwL1UMrdDgEdRJMg" >}}
+{{< rede tipo="youtube" subtipo="channel" titulo="Galego" ligazon="UCgywV9GRFh9sIDRRlH2KJ9A" >}}
+{{< rede tipo="youtube" subtipo="channel" titulo="Castellano" ligazon="UC_qVLj3szTJ3pvFC9zofPJA" >}}
 
 By mention order, the channels in [english](https://www.youtube.com/channel/UCSOTRwMkwL1UMrdDgEdRJMg), [galician](https://www.youtube.com/channel/UCgywV9GRFh9sIDRRlH2KJ9A) and [spanish](https://www.youtube.com/channel/UC_qVLj3szTJ3pvFC9zofPJA).
 
 ## Odysee
 
-{{< rede alto="24" tipo="odysee" titulo="English" ligazon="@Breogann_English:1" >}}
-{{< rede alto="24" tipo="odysee" titulo="Galego" ligazon="@Breogann:3" >}}
-{{< rede alto="24" tipo="odysee" titulo="Castellano" ligazon="@Breogann_Castellano:6" >}}
+{{< rede tipo="odysee" titulo="English" ligazon="@Breogann_English:1" >}}
+{{< rede tipo="odysee" titulo="Galego" ligazon="@Breogann:3" >}}
+{{< rede tipo="odysee" titulo="Castellano" ligazon="@Breogann_Castellano:6" >}}
 
 By mention order, the channels in [english](https://odysee.com/@Breogann_English:1), [galician](https://odysee.com/@Breogann:3) and [spanish](https://odysee.com/@Breogann_Castellano:6).

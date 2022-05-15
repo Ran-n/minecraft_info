@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/en/community/creators/impulsesv/'
+url: '/en/community/creator/impulsesv/'
 slug: 'impulsesv'
 aliases: [
     '/en/community/creador/Impulse',
@@ -105,8 +105,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/impulsesv.svg/'
-bookcase_cover_src_dark: '/creadores/impulsesv.svg/'
+bookcase_cover_src: '/imaxe/creador/impulsesv.svg'
+bookcase_cover_src_dark: '/imaxe/creador/impulsesv.svg'
 
 eqt-creadores: [
     'impulsesv',
@@ -126,21 +126,23 @@ eqt-creador-nacions: [
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
+
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # impulseSV
 
-{{< rede alto="24" tipo="web" titulo="web" ligazon="https://www.impulsesv.com/" >}}
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Main Youtube Channel" ligazon="impulseSV" >}}
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Secondary Youtube Channel" ligazon="impulsesv2" >}}
-{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="impulseSV" >}}
-{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
-{{< rede alto="24" tipo="instagram" titulo="Instagram" ligazon="impulsesv_yt" >}}
-{{< rede alto="24" tipo="facebook" titulo="Facebook" ligazon="impulseSV" >}}
-{{< rede alto="24" tipo="tiktok" titulo="TikTok" ligazon="impulsesv_yt" >}}
-{{< correo alto="24" titulo="Main YT Channel Email" dir="impulsesv@pbnj.gg" >}}
-{{< correo alto="24" titulo="Secondary YT Channel Email" dir="biz@impulsesv.com" >}}
+{{< rede tipo="web" titulo="web" ligazon="https://www.impulsesv.com/" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="Main Youtube Channel" ligazon="impulseSV" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="Secondary Youtube Channel" ligazon="impulsesv2" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="impulseSV" >}}
+{{< rede tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
+{{< rede tipo="instagram" titulo="Instagram" ligazon="impulsesv_yt" >}}
+{{< rede tipo="facebook" titulo="Facebook" ligazon="impulseSV" >}}
+{{< rede tipo="tiktok" titulo="TikTok" ligazon="impulsesv_yt" >}}
+{{< correo titulo="Main YT Channel Email" dir="impulsesv@pbnj.gg" >}}
+{{< correo titulo="Secondary YT Channel Email" dir="biz@impulsesv.com" >}}
 
 ## Description
 
@@ -149,7 +151,7 @@ Specialized in farms and technical minecraft.
 
 ### Main Youtube Channel
 
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Main Youtube Channel" ligazon="impulseSV" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="Main Youtube Channel" ligazon="impulseSV" >}}
 
 Impulse is all about taking Survival Minecraft to the next level through automation.
 In the channel you will find showcases, tutorials, and a Let's Play series on the Hermitcraft server.
@@ -169,7 +171,7 @@ Mouse:  Logitech G402
 
 ### Secondary Youtube Channel
 
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Secondary Youtube Channel" ligazon="impulsesv2" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="Secondary Youtube Channel" ligazon="impulsesv2" >}}
 
 This is my second channel for uploading live streams and additional content
 
@@ -180,7 +182,7 @@ This is my second channel for uploading live streams and additional content
 
 ### Twitch
 
-{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
+{{< rede tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
 
 Impulse is a member of Hermitcraft playing mostly Minecraft and makes videos for YouTube.
 Check the social links for details!
@@ -200,7 +202,7 @@ Mouse:  Logitech G402
 
 ## Donations
 
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
 
 |
 [Patreon](https://www.patreon.com/impulseSV)
@@ -208,8 +210,8 @@ Mouse:  Logitech G402
 
 ## Contact
 
-{{< correo alto="24" titulo="Main YT Channel Email" dir="impulsesv@pbnj.gg" >}}
-{{< correo alto="24" titulo="Secondary YT Channel Email" dir="biz@impulsesv.com" >}}
+{{< correo titulo="Main YT Channel Email" dir="impulsesv@pbnj.gg" >}}
+{{< correo titulo="Secondary YT Channel Email" dir="biz@impulsesv.com" >}}
 
 ```
 impulsesv@pbnj.gg

@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/en/community/creators/pixlriffs/'
+url: '/en/community/creator/pixlriffs/'
 slug: 'pixlriffs'
 aliases: [
     '/en/community/creador/Pixlriffs',
@@ -57,8 +57,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/pixlriffs.svg/'
-bookcase_cover_src_dark: '/creadores/pixlriffs.svg/'
+bookcase_cover_src: '/imaxe/creador/pixlriffs.svg'
+bookcase_cover_src_dark: '/imaxe/creador/pixlriffs.svg'
 
 eqt-creadores: [
     'pixlriffs',
@@ -78,13 +78,15 @@ eqt-creador-nacions: [
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
+
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # Pixlriffs
 
-{{< rede alto="24" tipo="youtube" subtipo="user" titulo="Youtube" ligazon="Pixlriffs" >}}
-{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="pixlriffs" >}}
-{{< rede alto="24" tipo="instagram" titulo="Instagram" ligazon="pixlriffs" >}}
+{{< rede tipo="youtube" subtipo="user" titulo="Youtube" ligazon="Pixlriffs" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="pixlriffs" >}}
+{{< rede tipo="instagram" titulo="Instagram" ligazon="pixlriffs" >}}
 
 English content creator that only uploads in english.
 

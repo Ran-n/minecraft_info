@@ -38,3 +38,4 @@ bookcase_list_sections: true
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Home" ligazon="/en/" >}}

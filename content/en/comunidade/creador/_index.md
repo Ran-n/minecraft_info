@@ -20,8 +20,8 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/en/community/creators/'
-slug: 'creators'
+url: '/en/community/creator/'
+slug: 'creator'
 aliases: [
     '/en/community/creador/',
     '/en/community/creadores/',
@@ -42,14 +42,16 @@ aliases: [
 ]
 
 weight: 1
-bookcase_cover_src: '/fotos_content/obxectos/crafting-table3.png/'
-bookcase_cover_src_dark: '/fotos_content/obxectos/crafting-table3.png/'
+bookcase_cover_src: '/imaxe/mc/obx/crafting-table3.png'
+bookcase_cover_src_dark: '/imaxe/mc/obx/crafting-table3.png'
 
 type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Community" ligazon="/en/community/" >}}
 
 Alphabetical list of the information page for every Minecraft content creator.
 Inside each page will be specified the languages and editions used in their content.

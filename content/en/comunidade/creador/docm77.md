@@ -19,7 +19,7 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/en/community/creators/docm77/'
+url: '/en/community/creator/docm77/'
 slug: 'docm77'
 aliases: [
     '/en/community/creador/Docm',
@@ -89,8 +89,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/docm.svg/'
-bookcase_cover_src_dark: '/creadores/docm.svg/'
+bookcase_cover_src: '/imaxe/creadores/docm.svg'
+bookcase_cover_src_dark: '/imaxe/creador/docm.svg'
 
 eqt-creadores: [
     'docm77',
@@ -117,17 +117,20 @@ keywords:
 - minecraft técnico
 - let's play
 - gameplay
+
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # docm77
 
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="YouTube" ligazon="docm77" >}}
-{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="docm77" >}}
-{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="docm77live" >}}
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="docm77" >}}
-{{< correo alto="24" titulo="Correo" dir="docm77@nevaly.com" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="YouTube" ligazon="docm77" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="docm77" >}}
+{{< rede tipo="twitch" titulo="Twitch" ligazon="docm77live" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="docm77" >}}
+{{< correo titulo="Correo" dir="docm77@nevaly.com" >}}
 
 German content creator that uploads only on english.
 
@@ -135,7 +138,7 @@ Especialized in let's plays, redstone and technical minecraft.
 
 ## Donations
 
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="docm77" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="docm77" >}}
 
 |
 [Patreon](https://www.patreon.com/docm77)
@@ -143,7 +146,7 @@ Especialized in let's plays, redstone and technical minecraft.
 
 ## Contact
 
-{{< correo alto="24" titulo="Correo" dir="docm77@nevaly.com" >}}
+{{< correo titulo="Correo" dir="docm77@nevaly.com" >}}
 
 ```
 docm77@nevaly.com

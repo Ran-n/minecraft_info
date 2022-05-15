@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/en/community/creators/rays-works/'
+url: '/en/community/creator/rays-works/'
 slug: 'rays-works'
 aliases: [
     '/en/community/creador/Rays Works',
@@ -249,8 +249,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/rays.svg/'
-bookcase_cover_src_dark: '/creadores/rays.svg/'
+bookcase_cover_src: '/imaxe/creador/rays.svg'
+bookcase_cover_src_dark: '/imaxe/creador/rays.svg'
 
 eqt-creadores: [
     'rays works',
@@ -275,17 +275,19 @@ keywords:
 - minecraft
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
+
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # Rays Works
 
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Youtube" ligazon="RaysWorks" >}}
-{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="raysworks" >}}
-{{< rede alto="24" tipo="reddit" titulo="Reddit" ligazon="Rays_Works" >}}
-{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="RaysWorks" >}}
-{{< rede alto="24" tipo="discord" titulo="Discord" ligazon="raysworks" >}}
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="RaysWorks" >}}
-{{< rede alto="24" tipo="paypal" titulo="Paypal" ligazon="RaysWorks" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="Youtube" ligazon="RaysWorks" >}}
+{{< rede tipo="twitch" titulo="Twitch" ligazon="raysworks" >}}
+{{< rede tipo="reddit" titulo="Reddit" ligazon="Rays_Works" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="RaysWorks" >}}
+{{< rede tipo="discord" titulo="Discord" ligazon="raysworks" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="RaysWorks" >}}
+{{< rede tipo="paypal" titulo="Paypal" ligazon="RaysWorks" >}}
 
 Content creator from the USA that uploads content only in english.
 
@@ -297,8 +299,8 @@ On [twitch](https://www.twitch.tv/raysworks) Sun, Wed, Fri, Sat at ~2pm EST and 
 
 ## Donations
 
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="RaysWorks" >}}
-{{< rede alto="24" tipo="paypal" titulo="Paypal" ligazon="RaysWorks" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="RaysWorks" >}}
+{{< rede tipo="paypal" titulo="Paypal" ligazon="RaysWorks" >}}
 
 |
 [Patreon](https://www.patreon.com/RaysWorks)

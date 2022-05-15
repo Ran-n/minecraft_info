@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/en/community/creators/tango-tek/'
+url: '/en/community/creator/tango-tek/'
 slug: 'tango-tek'
 aliases: [
     '/en/community/creador/Tango Tek',
@@ -185,8 +185,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/tango-tek.svg/'
-bookcase_cover_src_dark: '/creadores/tango-tek.svg/'
+bookcase_cover_src: '/imaxe/creador/tango-tek.svg'
+bookcase_cover_src_dark: '/imaxe/creador/tango-tek.svg'
 
 eqt-creadores: [
     'tango tek',
@@ -206,16 +206,18 @@ eqt-creador-nacions: [
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
+
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # Tango Tek
 
-{{< rede alto="24" tipo="youtube" subtipo="user" titulo="YouTube" ligazon="TangoTekLP" >}}
-{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="tangoteklp" >}}
-{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="tangotek" >}}
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="tangotek" >}}
-{{< rede alto="24" tipo="paypal2" titulo="Paypal" ligazon="abbz-KBMKsG9khKDbzNVo-v3tXAC4zrPWI34KKWLlsbToL8q0hIV0HFAnV_5OFsb3AZG3NvytSIPJDqC" >}}
-{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="tangotek1" >}}
+{{< rede tipo="youtube" subtipo="user" titulo="YouTube" ligazon="TangoTekLP" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="tangoteklp" >}}
+{{< rede tipo="twitch" titulo="Twitch" ligazon="tangotek" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="tangotek" >}}
+{{< rede tipo="paypal2" titulo="Paypal" ligazon="abbz-KBMKsG9khKDbzNVo-v3tXAC4zrPWI34KKWLlsbToL8q0hIV0HFAnV_5OFsb3AZG3NvytSIPJDqC" >}}
+{{< correo tipo="gmail" titulo="Gmail" dir="tangotek1" >}}
 
 Content creator from the USA that uploads content only in english.
 
@@ -223,7 +225,7 @@ Specialized in farms and technical minecraft.
 
 ## Donations
 
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="tangotek" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="tangotek" >}}
 
 |
 [Patreon](https://www.patreon.com/tangotek)
@@ -232,7 +234,7 @@ Specialized in farms and technical minecraft.
 
 ## Contact
 
-{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="tangotek1" >}}
+{{< correo tipo="gmail" titulo="Gmail" dir="tangotek1" >}}
 
 ```
 tangotek1@gmail.com

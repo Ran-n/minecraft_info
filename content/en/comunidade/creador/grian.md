@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/en/community/creators/grain/'
+url: '/en/community/creator/grain/'
 slug: 'grain'
 aliases: [
     '/en/community/creador/Grain',
@@ -89,8 +89,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/grian.svg/'
-bookcase_cover_src_dark: '/creadores/grian.svg/'
+bookcase_cover_src: '/imaxe/creador/grian.svg'
+bookcase_cover_src_dark: '/imaxe/creador/grian.svg'
 
 eqt-creadores: [
     'grian',
@@ -110,15 +110,17 @@ eqt-creador-nacions: [
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
+
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # Grian
 
-{{< rede alto="24" tipo="youtube" subtipo="channel" titulo="Youtube" ligazon="Grian" >}}
-{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="GrianMC" >}}
-{{< rede alto="24" tipo="instagram" titulo="Instagram" ligazon="grianmc" >}}
-{{< rede alto="24" tipo="facebook" titulo="Facebook" ligazon="Grian" >}}
-{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
+{{< rede tipo="youtube" subtipo="channel" titulo="Youtube" ligazon="Grian" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="GrianMC" >}}
+{{< rede tipo="instagram" titulo="Instagram" ligazon="grianmc" >}}
+{{< rede tipo="facebook" titulo="Facebook" ligazon="Grian" >}}
+{{< correo tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
 
 ## Descriptions
 
@@ -126,7 +128,7 @@ English content creator that only uploads in english and is specialized in build
 
 ### Youtube
 
-{{< rede alto="24" tipo="youtube" subtipo="channel" titulo="Youtube" ligazon="Grian" >}}
+{{< rede tipo="youtube" subtipo="channel" titulo="Youtube" ligazon="Grian" >}}
 
 This channel focuses on gaming (specifically minecraft) content aimed at a general audience.
 I build minecraft houses and make minecraft house tutorials along with everything else minecraft.
@@ -145,7 +147,7 @@ I don't use alt accounts, I only use my main, linked accounts.
 
 ## Contact
 
-{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
+{{< correo tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
 
 ```
 GrianBusiness@gmail.com

@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/en/community/creators/gruva-guy/'
+url: '/en/community/creator/gruva-guy/'
 slug: 'gruva-guy'
 aliases: [
     '/en/community/creador/Gruva Guy',
@@ -185,8 +185,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/gruva-guy.svg/'
-bookcase_cover_src_dark: '/creadores/gruva-guy.svg/'
+bookcase_cover_src: '/imaxe/creador/gruva-guy.svg'
+bookcase_cover_src_dark: '/imaxe/creador/gruva-guy.svg'
 
 eqt-creators: [
     'gruva guy',
@@ -206,16 +206,18 @@ eqt-creador-nacions: [
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
+
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # Gruva Guy
 
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="YouTube" ligazon="GruvaGuy" >}}
-{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="GruvaGuy" >}}
-{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="gruvaguy" >}}
-{{< rede alto="24" tipo="discord" titulo="Discord" ligazon="Rtqa3je" >}}
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="gruva" >}}
-{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="gruvaguy" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="YouTube" ligazon="GruvaGuy" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="GruvaGuy" >}}
+{{< rede tipo="twitch" titulo="Twitch" ligazon="gruvaguy" >}}
+{{< rede tipo="discord" titulo="Discord" ligazon="Rtqa3je" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="gruva" >}}
+{{< correo tipo="gmail" titulo="Gmail" dir="gruvaguy" >}}
 
 English content creator that only uploads in english.
 
@@ -223,7 +225,7 @@ Specialized in farming and technical bedrock minecraft.
 
 ## Donations
 
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="gruva" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="gruva" >}}
 
 |
 [Patreon](https://www.patreon.com/gruva)
@@ -232,7 +234,7 @@ Specialized in farming and technical bedrock minecraft.
 
 ## Contact
 
-{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="gruvaguy" >}}
+{{< correo tipo="gmail" titulo="Gmail" dir="gruvaguy" >}}
 
 ```
 gruvaguy@gmail.com

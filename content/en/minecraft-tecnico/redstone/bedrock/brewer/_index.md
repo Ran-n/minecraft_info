@@ -4444,8 +4444,8 @@ aliases: [
 ]
 
 weight: 1
-bookcase_cover_src: '/imaxe/mc/obx/potion/potion1.jpg'
-bookcase_cover_src_dark: '/imaxe/mc/obx/potion/potion1.jpg'
+bookcase_cover_src: '/imaxe/mc/obx/otion1.jpg'
+bookcase_cover_src_dark: '/imaxe/mc/obx/potion1.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true
