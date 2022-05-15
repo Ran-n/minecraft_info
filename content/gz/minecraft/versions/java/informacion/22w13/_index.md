@@ -57,8 +57,8 @@ aliases: [
 ]
 
 weight: -20220401
-bookcase_cover_src: '/imaxe/seccion/version/22w13/cabeceira.webp'
-bookcase_cover_src_dark: '/imaxe/seccion/version/22w13/cabeceira.webp'
+bookcase_cover_src: '/imaxe/seccion/version/j/22w13/cabeceira.webp'
+bookcase_cover_src_dark: '/imaxe/seccion/version/j/22w13/cabeceira.webp'
 
 type: 'bookcase'
 bookcase_list_pages: true
@@ -80,4 +80,4 @@ eqt-j-versions-especiais: [
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Información" ligazon="/gz/minecraft/version/java/info/" >}}
 
-<img title="22w13" alt="22w13" src="/imaxe/seccion/version/22w13/cabeceira.webp">
+<img title="22w13" alt="22w13" src="/imaxe/seccion/version/j/22w13/cabeceira.webp">
