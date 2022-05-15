@@ -19,7 +19,7 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/en/minecraft/versions/java/information/22w18a/reviews/'
+url: '/en/minecraft/versions/java/information/22w19a/reviews/'
 slug: 'reviews'
 aliases: [
     '/en/minecraft/version/j/info/22w19a/resenha/',

@@ -1,19 +1,156 @@
 ---
-title: "Patch Notes"
+title: "Patch Notes | 22w13a"
 date: 2022-04-05T21:55:25+02:00
 #draft: true
 author: 'Ran#'
 
 toc: true
 collapsible_toc: true
+collapsible_changelogs: true
 
-url: '/en/minecraft/versions/java/information/22w13a/notes/'
+search_hidden: false
+math: false
+zooming_js: true
+
+ga: true
+#disqus: true
+twitter_cards: false
+
+#code_copy: false
+#open_graph: false
+
+url: '/en/minecraft/version/java/information/22w13a/notes/'
 slug: 'notes'
-#aliases: [
-#    'notas_version',
-#    'patch_notes',
-#    'notes',
-#]
+aliases: [
+    '/en/minecraft/version/j/info/22w13a/nota/',
+    '/en/minecraft/version/j/info/22w13a/notas/',
+    '/en/minecraft/version/j/info/22w13a/note/',
+    '/en/minecraft/version/j/info/22w13a/notes/',
+    '/en/minecraft/version/j/informacion/22w13a/nota/',
+    '/en/minecraft/version/j/informacion/22w13a/notas/',
+    '/en/minecraft/version/j/informacion/22w13a/note/',
+    '/en/minecraft/version/j/informacion/22w13a/notes/',
+    '/en/minecraft/version/j/información/22w13a/nota/',
+    '/en/minecraft/version/j/información/22w13a/notas/',
+    '/en/minecraft/version/j/información/22w13a/note/',
+    '/en/minecraft/version/j/información/22w13a/notes/',
+    '/en/minecraft/version/j/information/22w13a/nota/',
+    '/en/minecraft/version/j/information/22w13a/notas/',
+    '/en/minecraft/version/j/information/22w13a/note/',
+    '/en/minecraft/version/j/information/22w13a/notes/',
+    '/en/minecraft/version/java/info/22w13a/nota/',
+    '/en/minecraft/version/java/info/22w13a/notas/',
+    '/en/minecraft/version/java/info/22w13a/note/',
+    '/en/minecraft/version/java/info/22w13a/notes/',
+    '/en/minecraft/version/java/informacion/22w13a/nota/',
+    '/en/minecraft/version/java/informacion/22w13a/notas/',
+    '/en/minecraft/version/java/informacion/22w13a/note/',
+    '/en/minecraft/version/java/informacion/22w13a/notes/',
+    '/en/minecraft/version/java/información/22w13a/nota/',
+    '/en/minecraft/version/java/información/22w13a/notas/',
+    '/en/minecraft/version/java/información/22w13a/note/',
+    '/en/minecraft/version/java/información/22w13a/notes/',
+    '/en/minecraft/version/java/information/22w13a/nota/',
+    '/en/minecraft/version/java/information/22w13a/notas/',
+    '/en/minecraft/version/java/information/22w13a/note/',
+    '/en/minecraft/version/java/information/22w13a/notes/',
+    '/en/minecraft/versions/j/info/22w13a/nota/',
+    '/en/minecraft/versions/j/info/22w13a/notas/',
+    '/en/minecraft/versions/j/info/22w13a/note/',
+    '/en/minecraft/versions/j/info/22w13a/notes/',
+    '/en/minecraft/versions/j/informacion/22w13a/nota/',
+    '/en/minecraft/versions/j/informacion/22w13a/notas/',
+    '/en/minecraft/versions/j/informacion/22w13a/note/',
+    '/en/minecraft/versions/j/informacion/22w13a/notes/',
+    '/en/minecraft/versions/j/información/22w13a/nota/',
+    '/en/minecraft/versions/j/información/22w13a/notas/',
+    '/en/minecraft/versions/j/información/22w13a/note/',
+    '/en/minecraft/versions/j/información/22w13a/notes/',
+    '/en/minecraft/versions/j/information/22w13a/nota/',
+    '/en/minecraft/versions/j/information/22w13a/notas/',
+    '/en/minecraft/versions/j/information/22w13a/note/',
+    '/en/minecraft/versions/j/information/22w13a/notes/',
+    '/en/minecraft/versions/java/info/22w13a/nota/',
+    '/en/minecraft/versions/java/info/22w13a/notas/',
+    '/en/minecraft/versions/java/info/22w13a/note/',
+    '/en/minecraft/versions/java/info/22w13a/notes/',
+    '/en/minecraft/versions/java/informacion/22w13a/nota/',
+    '/en/minecraft/versions/java/informacion/22w13a/notas/',
+    '/en/minecraft/versions/java/informacion/22w13a/note/',
+    '/en/minecraft/versions/java/informacion/22w13a/notes/',
+    '/en/minecraft/versions/java/información/22w13a/nota/',
+    '/en/minecraft/versions/java/información/22w13a/notas/',
+    '/en/minecraft/versions/java/información/22w13a/note/',
+    '/en/minecraft/versions/java/información/22w13a/notes/',
+    '/en/minecraft/versions/java/information/22w13a/nota/',
+    '/en/minecraft/versions/java/information/22w13a/notas/',
+    '/en/minecraft/versions/java/information/22w13a/note/',
+    '/en/minecraft/versions/java/information/22w13a/notes/',
+    '/en/minecraft/versión/j/info/22w13a/nota/',
+    '/en/minecraft/versión/j/info/22w13a/notas/',
+    '/en/minecraft/versión/j/info/22w13a/note/',
+    '/en/minecraft/versión/j/info/22w13a/notes/',
+    '/en/minecraft/versión/j/informacion/22w13a/nota/',
+    '/en/minecraft/versión/j/informacion/22w13a/notas/',
+    '/en/minecraft/versión/j/informacion/22w13a/note/',
+    '/en/minecraft/versión/j/informacion/22w13a/notes/',
+    '/en/minecraft/versión/j/información/22w13a/nota/',
+    '/en/minecraft/versión/j/información/22w13a/notas/',
+    '/en/minecraft/versión/j/información/22w13a/note/',
+    '/en/minecraft/versión/j/información/22w13a/notes/',
+    '/en/minecraft/versión/j/information/22w13a/nota/',
+    '/en/minecraft/versión/j/information/22w13a/notas/',
+    '/en/minecraft/versión/j/information/22w13a/note/',
+    '/en/minecraft/versión/j/information/22w13a/notes/',
+    '/en/minecraft/versión/java/info/22w13a/nota/',
+    '/en/minecraft/versión/java/info/22w13a/notas/',
+    '/en/minecraft/versión/java/info/22w13a/note/',
+    '/en/minecraft/versión/java/info/22w13a/notes/',
+    '/en/minecraft/versión/java/informacion/22w13a/nota/',
+    '/en/minecraft/versión/java/informacion/22w13a/notas/',
+    '/en/minecraft/versión/java/informacion/22w13a/note/',
+    '/en/minecraft/versión/java/informacion/22w13a/notes/',
+    '/en/minecraft/versión/java/información/22w13a/nota/',
+    '/en/minecraft/versión/java/información/22w13a/notas/',
+    '/en/minecraft/versión/java/información/22w13a/note/',
+    '/en/minecraft/versión/java/información/22w13a/notes/',
+    '/en/minecraft/versión/java/information/22w13a/nota/',
+    '/en/minecraft/versión/java/information/22w13a/notas/',
+    '/en/minecraft/versión/java/information/22w13a/note/',
+    '/en/minecraft/versión/java/information/22w13a/notes/',
+    '/en/minecraft/versións/j/info/22w13a/nota/',
+    '/en/minecraft/versións/j/info/22w13a/notas/',
+    '/en/minecraft/versións/j/info/22w13a/note/',
+    '/en/minecraft/versións/j/info/22w13a/notes/',
+    '/en/minecraft/versións/j/informacion/22w13a/nota/',
+    '/en/minecraft/versións/j/informacion/22w13a/notas/',
+    '/en/minecraft/versións/j/informacion/22w13a/note/',
+    '/en/minecraft/versións/j/informacion/22w13a/notes/',
+    '/en/minecraft/versións/j/información/22w13a/nota/',
+    '/en/minecraft/versións/j/información/22w13a/notas/',
+    '/en/minecraft/versións/j/información/22w13a/note/',
+    '/en/minecraft/versións/j/información/22w13a/notes/',
+    '/en/minecraft/versións/j/information/22w13a/nota/',
+    '/en/minecraft/versións/j/information/22w13a/notas/',
+    '/en/minecraft/versións/j/information/22w13a/note/',
+    '/en/minecraft/versións/j/information/22w13a/notes/',
+    '/en/minecraft/versións/java/info/22w13a/nota/',
+    '/en/minecraft/versións/java/info/22w13a/notas/',
+    '/en/minecraft/versións/java/info/22w13a/note/',
+    '/en/minecraft/versións/java/info/22w13a/notes/',
+    '/en/minecraft/versións/java/informacion/22w13a/nota/',
+    '/en/minecraft/versións/java/informacion/22w13a/notas/',
+    '/en/minecraft/versións/java/informacion/22w13a/note/',
+    '/en/minecraft/versións/java/informacion/22w13a/notes/',
+    '/en/minecraft/versións/java/información/22w13a/nota/',
+    '/en/minecraft/versións/java/información/22w13a/notas/',
+    '/en/minecraft/versións/java/información/22w13a/note/',
+    '/en/minecraft/versións/java/información/22w13a/notes/',
+    '/en/minecraft/versións/java/information/22w13a/nota/',
+    '/en/minecraft/versións/java/information/22w13a/notas/',
+    '/en/minecraft/versións/java/information/22w13a/note/',
+    '/en/minecraft/versións/java/information/22w13a/notes/',
+]
 
 weight: 1
 bookcase_cover_src: 'monochrome/cover/list.png'
@@ -21,9 +158,11 @@ bookcase_cover_src_dark: 'monochrome/cover/list_dark.png'
 
 ---
 
-# 22w13a
+# Patch Notes | 22w13a
 
-<img src="/fotos_content/mobs/allay/allay1.webp" />
+{{< icona tipo="frecha-esquerda-redondeada" titulo="22w13a" ligazon="/en/minecraft/version/java/information/22w13a/" >}}
+
+<img title="22w13a" alt="22w13a" src="/imaxe/mc/mob/allay/allay1.webp">
 
 Allay, the mob that nobody is really sure how to pronounce, is now entering the latest Minecraft: Java Edition snapshot.
 Along with our new shiny blue friend, we've added the ancient cities, which have seen some pretty drastic changes since the experimental snapshot a few weeks ago, so make sure you check them out.

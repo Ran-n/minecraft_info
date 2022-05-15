@@ -1,245 +1,245 @@
 [[navbar]]
     identifier = 'gz_mc'
     name = '"Minecraft"'
-    url = '/gz/minecraft/'
+    url = '/minecraft/'
     weight = 1
     [[navbar]]
         parent = 'gz_mc'
         identifier = 'gz_mc_version'
         name = 'Versións'
-        url = '/gz/minecraft/version/'
+        url = '/minecraft/version/'
         weight = 1
         [[navbar]]
             parent = 'gz_mc_version'
             identifier = 'gz_mc_version_java'
             name = 'Java'
-            url = '/gz/minecraft/version/java/'
+            url = '/minecraft/version/java/'
             weight = 1
             [[navbar]]
                 parent = 'gz_mc_version_java'
                 identifier = 'gz_mc_version_java_cronoloxia'
                 name = 'Cronoloxía'
-                url = '/gz/minecraft/version/java/cronoloxia'
+                url = '/minecraft/version/java/cronoloxia'
                 weight = 1
             [[navbar]]
                 parent = 'gz_mc_version_java'
                 identifier = 'gz_mc_version_java_informacion'
                 name = 'Información'
-                url = '/gz/minecraft/version/java/informacion'
+                url = '/minecraft/version/java/informacion'
                 weight = 2
         [[navbar]]
             parent = 'gz_mc_version'
             identifier = 'gz_mc_version_bedrock'
             name = 'Bedrock'
-            url = '/gz/minecraft/versions/bedrock/'
+            url = '/minecraft/versions/bedrock/'
             weight = 2
             [[navbar]]
                 parent = 'gz_mc_version_bedrock'
                 identifier = 'gz_mc_version_bedrock_cronoloxia'
                 name = 'Cronoloxía'
-                url = '/gz/minecraft/version/bedrock/cronoloxia'
+                url = '/minecraft/version/bedrock/cronoloxia'
                 weight = 1
             [[navbar]]
                 parent = 'gz_mc_version_bedrock'
                 identifier = 'gz_mc_version_bedrock_informacion'
                 name = 'Información'
-                url = '/gz/minecraft/version/bedrock/informacion'
+                url = '/minecraft/version/bedrock/informacion'
                 weight = 2
 
 [[navbar]]
     identifier = 'gz_conselho'
     name = 'Conselhos'
-    url = '/gz/conselho/'
+    url = '/conselho/'
     weight = 2
     [[navbar]]
         parent = 'gz_conselho'
         identifier = 'gz_conselho_java'
         name = 'Java'
-        url = '/gz/conselho/java/'
+        url = '/conselho/java/'
         weight = 1
     [[navbar]]
         parent = 'gz_conselho'
         identifier = 'gz_conselho_bedrock'
         name = 'Bedrock'
-        url = '/gz/conselho/bedrock/'
+        url = '/conselho/bedrock/'
         weight = 2
 
 [[navbar]]
     identifier = 'gz_tecnico'
     name = 'Minecraft Técnico'
-    url = '/gz/minecraft-tecnico/'
+    url = '/minecraft-tecnico/'
     weight = 3
     [[navbar]]
         parent = 'gz_tecnico'
         identifier = 'gz_granxa'
         name = 'Granxas'
-        url = '/gz/minecraft-tecnico/granxa/'
+        url = '/minecraft-tecnico/granxa/'
         weight = 4
         [[navbar]]
             parent = 'gz_granxa'
             identifier = 'gz_granxa_java'
             name = 'Java'
-            url = '/gz/minecraft-tecnico/granxa/java/'
+            url = '/minecraft-tecnico/granxa/java/'
             weight = 1
         [[navbar]]
             parent = 'gz_granxa'
             identifier = 'gz_granxa_bedrock'
             name = 'Bedrock'
-            url = '/gz/minecraft-tecnico/granxa/bedrock/'
+            url = '/minecraft-tecnico/granxa/bedrock/'
             weight = 2
     [[navbar]]
         parent = 'gz_tecnico'
         identifier = 'gz_redstone'
         name = 'Redstone'
-        url = '/gz/minecraft-tecnico/redstone/'
+        url = '/minecraft-tecnico/redstone/'
         weight = 5
         [[navbar]]
             parent = 'gz_redstone'
             identifier = 'gz_redstone_java'
             name = 'Java'
-            url = '/gz/minecraft-tecnico/redstone/java/'
+            url = '/minecraft-tecnico/redstone/java/'
             weight = 1
         [[navbar]]
             parent = 'gz_redstone'
             identifier = 'gz_redstone_bedrock'
             name = 'Bedrock'
-            url = '/gz/minecraft-tecnico/redstone/bedrock/'
+            url = '/minecraft-tecnico/redstone/bedrock/'
             weight = 2
     [[navbar]]
         parent = 'gz_tecnico'
         identifier = 'gz_exploit'
         name = 'Exploits'
-        url = '/gz/minecraft-tecnico/exploit/'
+        url = '/minecraft-tecnico/exploit/'
         weight = 6
         [[navbar]]
             parent = 'gz_exploit'
             identifier = 'gz_exploit_java'
             name = 'Java'
-            url = '/gz/minecraft-tecnico/exploit/java/'
+            url = '/minecraft-tecnico/exploit/java/'
             weight = 1
         [[navbar]]
             parent = 'gz_exploit'
             identifier = 'gz_exploit_bedrock'
             name = 'Bedrock'
-            url = '/gz/minecraft-tecnico/exploit/bedrock/'
+            url = '/minecraft-tecnico/exploit/bedrock/'
             weight = 2
     [[navbar]]
         parent = 'gz_tecnico'
         identifier = 'gz_pdc'
         name = 'Probas de concepto'
-        url = '/gz/minecraft-tecnico/pdc/'
+        url = '/minecraft-tecnico/pdc/'
         weight = 7
         [[navbar]]
             parent = 'gz_pdc'
             identifier = 'gz_pdc_java'
             name = 'Java'
-            url = '/gz/minecraft-tecnico/pdc/java/'
+            url = '/minecraft-tecnico/pdc/java/'
             weight = 1
         [[navbar]]
             parent = 'gz_pdc'
             identifier = 'gz_pdc_bedrock'
             name = 'Bedrock'
-            url = '/gz/minecraft-tecnico/pdc/bedrock/'
+            url = '/minecraft-tecnico/pdc/bedrock/'
             weight = 2
 
 [[navbar]]
     identifier = 'gz_construcion'
     name = 'Construción'
-    url = '/gz/construcion/'
+    url = '/construcion/'
     weight = 4
 
 [[navbar]]
     identifier = 'gz_pvp'
     name = 'PvP'
-    url = '/gz/pvp/'
+    url = '/pvp/'
     weight = 5
 
 [[navbar]]
     identifier = 'gz_mod'
     name = 'Mods'
-    url = '/gz/mod/'
+    url = '/mod/'
     weight = 6
     [[navbar]]
         parent = 'gz_mod'
         identifier = 'gz_mod_java'
         name = 'Java'
-        url = '/gz/mod/java/'
+        url = '/mod/java/'
         weight = 1
     [[navbar]]
         parent = 'gz_mod'
         identifier = 'gz_mod_bedrock'
         name = 'Bedrock'
-        url = '/gz/mod/bedrock/'
+        url = '/mod/bedrock/'
         weight = 2
 
 [[navbar]]
     identifier = 'gz_ferramenta'
     name = 'Ferramentas'
-    url = '/gz/ferramenta/'
+    url = '/ferramenta/'
     weight = 7
     [[navbar]]
         parent = 'gz_ferramenta'
         identifier = 'gz_ferramenta_java'
         name = 'Java'
-        url = '/gz/ferramenta/java/'
+        url = '/ferramenta/java/'
         weight = 1
     [[navbar]]
         parent = 'gz_ferramenta'
         identifier = 'gz_ferramenta_bedrock'
         name = 'Bedrock'
-        url = '/gz/ferramenta/bedrock/'
+        url = '/ferramenta/bedrock/'
         weight = 2
 
 [[navbar]]
     identifier = 'gz_comunidade'
     name = 'Comunidade'
-    url = '/gz/comunidade/'
+    url = '/comunidade/'
     weight = 8
     [[navbar]]
         parent = 'gz_comunidade'
         identifier = 'gz_creador'
         name = 'Creadores'
-        url = '/gz/comunidade/creador/'
+        url = '/comunidade/creador/'
         weight = 1
     [[navbar]]
         parent = 'gz_comunidade'
         identifier = 'gz_serie'
         name = 'Series'
-        url = '/gz/comunidade/serie/'
+        url = '/comunidade/serie/'
         weight = 2
     [[navbar]]
         parent = 'gz_comunidade'
         identifier = 'gz_servidor'
         name = 'Servidores'
-        url = '/gz/comunidade/servidor/'
+        url = '/comunidade/servidor/'
         weight = 3
         [[navbar]]
             parent = 'gz_servidor'
             identifier = 'gz_servidor_java'
             name = 'Java'
-            url = '/gz/comunidade/servidor/java/'
+            url = '/comunidade/servidor/java/'
             weight = 1
         [[navbar]]
             parent = 'gz_servidor'
             identifier = 'gz_servidor_bedrock'
             name = 'Bedrock'
-            url = '/gz/comunidade/servidor/bedrock/'
+            url = '/comunidade/servidor/bedrock/'
             weight = 2
      [[navbar]]
         parent = 'gz_comunidade'
         identifier = 'gz_mundo'
         name = 'Mundos'
-        url = '/gz/comunidade/mundo/'
+        url = '/comunidade/mundo/'
         weight = 4
     [[navbar]]
         parent = 'gz_comunidade'
         identifier = 'gz_minecrafter'
         name = 'Minecrafter'
-        url = '/gz/comunidade/minecrafter/'
+        url = '/comunidade/minecrafter/'
         weight = 5
 
 [[navbar]]
     identifier = 'gz_sobre'
     name = 'Sobre'
-    url = '/gz/sobre/'
+    url = '/sobre/'
     weight = 9

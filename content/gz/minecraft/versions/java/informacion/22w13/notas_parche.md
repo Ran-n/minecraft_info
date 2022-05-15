@@ -162,7 +162,7 @@ bookcase_cover_src_dark: '/monochrome/cover/list_dark.png'
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="22w13" ligazon="/gz/minecraft/version/java/info/22w13/" >}}
 
-<img title="22w13" alt="22w13" src="/imaxe/seccion/version/22w13/cabeceira.webp">
+<img title="22w13" alt="22w13" src="/imaxe/seccion/version/j/22w13/cabeceira.webp">
 
 <div style="text-align: center">
     <h1>Mojang Studios Saca unha Impresionante Nova Actualización</h1>
@@ -176,14 +176,14 @@ bookcase_cover_src_dark: '/monochrome/cover/list_dark.png'
 <!-- {{< youtube  >}} -->
 
 <div style="text-align: center">
-    <img title="JEB" alt="JEB" src="/imaxe/seccion/version/22w13/comentario_jeb.png" />
+    <img title="JEB" alt="JEB" src="/imaxe/seccion/version/j/22w13/comentario_jeb.png" />
 </div>
 
-<img src="/imaxe/seccion/version/22w13/aprilis_asinus1.webp" />
-<img src="/imaxe/seccion/version/22w13/aprilis_asinus2.webp" />
-<img src="/imaxe/seccion/version/22w13/aprilis_asinus3.webp" />
-<img src="/imaxe/seccion/version/22w13/aprilis_asinus4.webp" />
-<img src="/imaxe/seccion/version/22w13/aprilis_asinus6.jpg" />
+<img src="/imaxe/seccion/version/j/22w13/aprilis_asinus1.webp" />
+<img src="/imaxe/seccion/version/j/22w13/aprilis_asinus2.webp" />
+<img src="/imaxe/seccion/version/j/22w13/aprilis_asinus3.webp" />
+<img src="/imaxe/seccion/version/j/22w13/aprilis_asinus4.webp" />
+<img src="/imaxe/seccion/version/j/22w13/aprilis_asinus6.jpg" />
 
 ## Características
 
@@ -210,7 +210,7 @@ Para instalala, abre o lanzador de Minecraft e habilita as *snapshots* na pestan
 Ficheiro jar multiplataforma:
 [jar de servidor](https://launcher.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar).
 
-<img src="/imaxe/seccion/version/22w13/aprilis_asinus5.webp" />
+<img src="/imaxe/seccion/version/j/22w13/aprilis_asinus5.webp" />
 
 ## Dúbidas Frecuentes
 

@@ -57,8 +57,8 @@ aliases: [
 ]
 
 weight: 2
-bookcase_cover_src: 'monochrome/cover/bookcase.png'
-bookcase_cover_src_dark: 'monochrome/cover/bookcase_dark.png'
+bookcase_cover_src: '/monochrome/cover/bookcase.png'
+bookcase_cover_src_dark: '/monochrome/cover/bookcase_dark.png'
 
 type: 'bookcase'
 bookcase_list_pages: false
