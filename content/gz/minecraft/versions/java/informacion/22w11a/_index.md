@@ -78,4 +78,6 @@ eqt-j-snapshots-versions: [
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Información" ligazon="/gz/minecraft/version/java/info/" >}}
+
 <img title="22w11a" alt="22w11a" src="/imaxe/mc/mob/ra/ra1.webp">

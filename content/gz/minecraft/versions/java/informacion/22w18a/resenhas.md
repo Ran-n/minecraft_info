@@ -229,6 +229,10 @@ eqt_creadores: [
 
 ---
 
+# Resenhas | 22w18a
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="22w18a" ligazon="/gz/minecraft/version/java/info/22w18a/" >}}
+
 ## wattles
 ### New Place Command, Sonic Boom Update, Instrument Mystery, + More! | Minecraft 1.19 Snapshot 22w18a
 {{< youtube CnMdH6ZQ-E0 >}}

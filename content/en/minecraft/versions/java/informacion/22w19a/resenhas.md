@@ -1,7 +1,6 @@
 ---
-title: "Reviews"
+title: "Reviews | 22w19a"
 date: 2022-05-05T19:11:00+02:00
-#draft: true
 #draft: true
 author: 'Ran#'
 
@@ -228,6 +227,8 @@ eqt_creadores: [
 ]
 
 ---
+
+# Reviews | 22w19a
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="22w19a" ligazon="/en/minecraft/version/java/information/22w19a/" >}}
 

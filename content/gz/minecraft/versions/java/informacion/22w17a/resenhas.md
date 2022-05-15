@@ -229,6 +229,10 @@ eqt_creadores: [
 
 ---
 
+# Resenhas | 22w17a
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="22w17a" ligazon="/gz/minecraft/version/java/info/22w17a/" >}}
+
 ## Rays Works
 ### Warden NEW Loot! + Disc 5 Explained 1.19 Minecraft snapshot review
 {{< youtube Tva60QahTNY >}}

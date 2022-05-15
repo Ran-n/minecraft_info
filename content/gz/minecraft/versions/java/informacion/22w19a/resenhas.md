@@ -228,4 +228,21 @@ eqt_creadores: [
 
 ---
 
+# Resenhas | 22w19a
+
 {{< icona tipo="frecha-esquerda-redondeada" titulo="22w19a" ligazon="/gz/minecraft/version/java/info/22w19a/" >}}
+
+## wattles
+### Cancelled Updates, Iron Golem Spawn Change, New Commands + More! | Minecraft 1.19 Snapshot 22w19a
+{{< youtube yR_E6i0NK6c >}}
+<!--{{< youtube >}}-->
+
+## ilmango
+### Minecraft News: 22w19a No Fireflies And Birch Forest This Update
+{{< youtube vHovnA9Lvrg >}}
+<!--{{< youtube >}}-->
+
+## xisumavoid
+### Minecraft 1.19 Snapshot 22W19A Birch Forest & Fireflies! Where Are They?
+{{< youtube Hofi07D4MDg >}}
+<!--{{< youtube >}}-->

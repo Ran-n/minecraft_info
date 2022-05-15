@@ -57,8 +57,8 @@ aliases: [
 ]
 
 weight: -20220324
-bookcase_cover_src: '/imaxe/mob/mc/warden/warden1.jpg'
-bookcase_cover_src_dark: '/imaxe/mob/mc/warden/warden1.jpg'
+bookcase_cover_src: '/imaxe/mc/mob/warden/warden1.jpg'
+bookcase_cover_src_dark: '/imaxe/mc/mob/warden/warden1.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true
@@ -77,5 +77,7 @@ eqt-j-snapshots-versions: [
 ]
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Información" ligazon="/gz/minecraft/version/java/info/" >}}
 
 <img title="22w12a" alt="22w12a" src="/imaxe/mc/mob/warden/warden1.jpg">

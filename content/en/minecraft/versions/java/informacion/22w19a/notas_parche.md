@@ -1,5 +1,5 @@
 ---
-title: "Patch Notes"
+title: "Patch Notes | 22w19a"
 date: 2022-04-28T18:10:00+02:00
 #draft: true
 author: 'Ran#'
@@ -22,7 +22,6 @@ twitter_cards: false
 url: '/en/minecraft/version/java/information/22w19a/notes/'
 slug: 'notes'
 aliases: [
-
     '/en/minecraft/version/j/info/22w19a/nota/',
     '/en/minecraft/version/j/info/22w19a/notas/',
     '/en/minecraft/version/j/info/22w19a/note/',
@@ -159,9 +158,9 @@ bookcase_cover_src_dark: '/monochrome/cover/list_dark.png'
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="22w19a" ligazon="/en/minecraft/version/java/information/22w19a/" >}}
+# Patch Notes | 22w19a
 
-# 22w19a
+{{< icona tipo="frecha-esquerda-redondeada" titulo="22w19a" ligazon="/en/minecraft/version/java/information/22w19a/" >}}
 
 <img title="22w19a" alt="22w19a" src="/imaxe/mc/mob/iron_golem/iron_golem_con_warden.webp">
 

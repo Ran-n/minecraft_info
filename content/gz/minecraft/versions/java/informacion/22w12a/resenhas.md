@@ -5,7 +5,7 @@ date: 2022-04-06T20:01:17+02:00
 author: 'Ran#'
 
 toc: true
-collapsible_toc: true
+collapsible_toc: false
 collapsible_changelogs: true
 
 search_hidden: false
@@ -227,6 +227,10 @@ eqt_creadores: [
 ]
 
 ---
+
+# Resenhas | 22w12a
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="22w12a" ligazon="/gz/minecraft/version/java/info/22w12a/" >}}
 
 ## xisumavoid
 ### Minecraft 1.19 Snapshot 22W12A Derpy Wardens & Waterlogged Leaves!
