@@ -5,7 +5,7 @@ date: 2022-04-28T17:53:00+02:00
 author: 'Ran#'
 
 toc: true
-collapsible_toc: true
+collapsible_toc: false
 collapsible_changelogs: true
 
 search_hidden: false
