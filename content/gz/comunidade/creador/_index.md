@@ -14,14 +14,14 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/comunidade/creadores/'
-slug: 'creadores'
+url: '/comunidade/creador/'
+slug: 'creador'
 aliases: [
     '/gz/community/creador/',
     '/gz/community/creadores/',
@@ -42,14 +42,16 @@ aliases: [
 ]
 
 weight: 1
-bookcase_cover_src: '/fotos_content/obxectos/crafting-table3.png/'
-bookcase_cover_src_dark: '/fotos_content/obxectos/crafting-table3.png/'
+bookcase_cover_src: '/imaxe/mc/obx/crafting-table3.png'
+bookcase_cover_src_dark: '/imaxe/mc/obx/crafting-table3.png'
 
 type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Comunidade" ligazon="/gz/comunidade/" >}}
 
 Listado alfabético da páxina de información de tódolos creadores de contido de Minecraft.
 Dentro de cada un especifícase a linguaxe e edición que usan no seu contido.

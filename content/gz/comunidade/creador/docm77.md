@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/comunidade/creadores/docm77/'
+url: '/comunidade/creador/docm77/'
 slug: 'docm77'
 aliases: [
     '/gz/community/creador/Docm',
@@ -89,8 +89,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/docm.svg/'
-bookcase_cover_src_dark: '/creadores/docm.svg/'
+bookcase_cover_src: '/imaxe/creador/docm.svg'
+bookcase_cover_src_dark: '/imaxe/creador/docm.svg'
 
 eqt-creadores: [
     'docm77',
@@ -117,17 +117,20 @@ keywords:
 - minecraft técnico
 - let's play
 - gameplay
+
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creadores" ligazon="/gz/comunidade/creador/" >}}
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
 # docm77
 
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="YouTube" ligazon="docm77" >}}
-{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="docm77" >}}
-{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="docm77live" >}}
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="docm77" >}}
-{{< correo alto="24" titulo="Correo" dir="docm77@nevaly.com" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="YouTube" ligazon="docm77" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="docm77" >}}
+{{< rede tipo="twitch" titulo="Twitch" ligazon="docm77live" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="docm77" >}}
+{{< correo titulo="Correo" dir="docm77@nevaly.com" >}}
 
 Creador de contido alemán que sube contido exclusivamente en inglés.
 
@@ -135,7 +138,7 @@ Especializado en lets plays, redstone e minecraft técnico.
 
 ## Doazóns
 
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="docm77" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="docm77" >}}
 
 |
 [Patreon](https://www.patreon.com/docm77)
@@ -143,7 +146,7 @@ Especializado en lets plays, redstone e minecraft técnico.
 
 ## Contacto
 
-{{< correo alto="24" titulo="Correo" dir="docm77@nevaly.com" >}}
+{{< correo titulo="Correo" dir="docm77@nevaly.com" >}}
 
 ```
 docm77@nevaly.com

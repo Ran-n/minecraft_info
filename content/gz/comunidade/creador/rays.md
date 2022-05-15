@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/comunidade/creadores/rays-works/'
+url: '/comunidade/creador/rays-works/'
 slug: 'rays-works'
 aliases: [
     '/gz/community/creador/Rays Works',
@@ -249,8 +249,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/rays.svg/'
-bookcase_cover_src_dark: '/creadores/rays.svg/'
+bookcase_cover_src: '/imaxe/creador/rays.svg'
+bookcase_cover_src_dark: '/imaxe/creador/rays.svg'
 
 eqt-creadores: [
     'rays works',
@@ -273,19 +273,22 @@ keywords:
 - redstone
 - granxas
 - minecraft
+
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creadores" ligazon="/gz/comunidade/creador/" >}}
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
 # Rays Works
 
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Youtube" ligazon="RaysWorks" >}}
-{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="raysworks" >}}
-{{< rede alto="24" tipo="reddit" titulo="Reddit" ligazon="Rays_Works" >}}
-{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="RaysWorks" >}}
-{{< rede alto="24" tipo="discord" titulo="Discord" ligazon="raysworks" >}}
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="RaysWorks" >}}
-{{< rede alto="24" tipo="paypal" titulo="Paypal" ligazon="RaysWorks" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="Youtube" ligazon="RaysWorks" >}}
+{{< rede tipo="twitch" titulo="Twitch" ligazon="raysworks" >}}
+{{< rede tipo="reddit" titulo="Reddit" ligazon="Rays_Works" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="RaysWorks" >}}
+{{< rede tipo="discord" titulo="Discord" ligazon="raysworks" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="RaysWorks" >}}
+{{< rede tipo="paypal" titulo="Paypal" ligazon="RaysWorks" >}}
 
 Creador de contido ianki que sube contido exclusivamente en inglés.
 
@@ -297,8 +300,8 @@ En [twitch](https://www.twitch.tv/raysworks) os mércores, venres, sábados e do
 
 ## Doazóns
 
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="RaysWorks" >}}
-{{< rede alto="24" tipo="paypal" titulo="Paypal" ligazon="RaysWorks" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="RaysWorks" >}}
+{{< rede tipo="paypal" titulo="Paypal" ligazon="RaysWorks" >}}
 
 |
 [Patreon](https://www.patreon.com/RaysWorks)

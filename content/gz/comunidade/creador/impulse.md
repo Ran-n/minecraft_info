@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/comunidade/creadores/impulsesv/'
+url: '/comunidade/creador/impulsesv/'
 slug: 'impulsesv'
 aliases: [
     '/gz/community/creador/Impulse',
@@ -105,8 +105,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/impulsesv.svg/'
-bookcase_cover_src_dark: '/creadores/impulsesv.svg/'
+bookcase_cover_src: '/imaxe/creador/impulsesv.svg'
+bookcase_cover_src_dark: '/imaxe/creador/impulsesv.svg'
 
 eqt-creadores: [
     'impulsesv',
@@ -124,23 +124,26 @@ eqt-creador-nacions: [
     'estados unidos',
 ]
 
+
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creadores" ligazon="/gz/comunidade/creador/" >}}
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
 # impulseSV
 
-{{< rede alto="24" tipo="web" titulo="Páxina Web" ligazon="https://www.impulsesv.com/" >}}
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Canle de Youtube Principal" ligazon="impulseSV" >}}
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Canle de Youtube Secundaria" ligazon="impulsesv2" >}}
-{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="impulseSV" >}}
-{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
-{{< rede alto="24" tipo="instagram" titulo="Instagram" ligazon="impulsesv_yt" >}}
-{{< rede alto="24" tipo="facebook" titulo="Facebook" ligazon="impulseSV" >}}
-{{< rede alto="24" tipo="tiktok" titulo="TikTok" ligazon="impulsesv_yt" >}}
-{{< correo alto="24" titulo="Correo da Canle de Youtube Principal" dir="impulsesv@pbnj.gg" >}}
-{{< correo alto="24" titulo="Correo da Canle de Youtube Secundaria" dir="biz@impulsesv.com" >}}
+{{< rede tipo="web" titulo="Páxina Web" ligazon="https://www.impulsesv.com/" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="Canle de Youtube Principal" ligazon="impulseSV" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="Canle de Youtube Secundaria" ligazon="impulsesv2" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="impulseSV" >}}
+{{< rede tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
+{{< rede tipo="instagram" titulo="Instagram" ligazon="impulsesv_yt" >}}
+{{< rede tipo="facebook" titulo="Facebook" ligazon="impulseSV" >}}
+{{< rede tipo="tiktok" titulo="TikTok" ligazon="impulsesv_yt" >}}
+{{< correo titulo="Correo da Canle de Youtube Principal" dir="impulsesv@pbnj.gg" >}}
+{{< correo titulo="Correo da Canle de Youtube Secundaria" dir="biz@impulsesv.com" >}}
 
 ## Descricións
 
@@ -149,7 +152,7 @@ Especializado en granxas e Minecraft técnico.
 
 ### Canle de Youtube Principal
 
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Canle de Youtube Principal" ligazon="impulseSV" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="Canle de Youtube Principal" ligazon="impulseSV" >}}
 
 Impulse trátase de levar Minecraft Supervivencia ó seguinte nivel a través da automatización.
 Nesta canle atoparás demostracións, titoriais e series de supervivencia no servidor de Hermitcraft.
@@ -169,7 +172,7 @@ Rato:  Logitech G402
 
 ### Canle de Youtube Secundaria
 
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Canle de Youtube Secundaria" ligazon="impulsesv2" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="Canle de Youtube Secundaria" ligazon="impulsesv2" >}}
 
 Esta é a minha segunda canle para subir directos e material adicional
 
@@ -180,7 +183,7 @@ Esta é a minha segunda canle para subir directos e material adicional
 
 ### Twitch
 
-{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
+{{< rede tipo="twitch" titulo="Twitch" ligazon="impulseSV" >}}
 
 Impulse é un membro de Hermitcraft o cal xoga maioritariamente a Minecraft e fai vídeos para YouTube.
 Mira as ligazóns ás redes sociais para máis detalles!
@@ -200,7 +203,7 @@ Rato:  Logitech G402
 
 ## Doazóns
 
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="impulseSV" >}}
 
 |
 [Patreon](https://www.patreon.com/impulseSV)
@@ -208,8 +211,8 @@ Rato:  Logitech G402
 
 ## Contacto
 
-{{< correo alto="24" titulo="Correo da Canle de Youtube Principal" dir="impulsesv@pbnj.gg" >}}
-{{< correo alto="24" titulo="Correo da Canle de Youtube Secundaria" dir="biz@impulsesv.com" >}}
+{{< correo titulo="Correo da Canle de Youtube Principal" dir="impulsesv@pbnj.gg" >}}
+{{< correo titulo="Correo da Canle de Youtube Secundaria" dir="biz@impulsesv.com" >}}
 
 ```
 impulsesv@pbnj.gg

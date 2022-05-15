@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/comunidade/creadores/ilmango/'
+url: '/comunidade/creador/ilmango/'
 slug: 'ilmango'
 aliases: [
     '/gz/community/creador/ilmango',
@@ -57,8 +57,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/ilmango.svg/'
-bookcase_cover_src_dark: '/creadores/ilmango.svg/'
+bookcase_cover_src: '/imaxe/creador/ilmango.svg'
+bookcase_cover_src_dark: '/imaxe/creador/ilmango.svg'
 
 eqt-creadores: [
     'ilmango',
@@ -82,16 +82,19 @@ keywords:
 - granxas
 - minecraft
 - let's play
+
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creadores" ligazon="/gz/comunidade/creador/" >}}
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
 # ilmango
 
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Youtube" ligazon="ilmango" >}}
-{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="ilmango1" >}}
-{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="ilmango" >}}
-{{< correo alto="24" titulo="Correo" tipo="gmail" dir="scicraftilmango" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="Youtube" ligazon="ilmango" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="ilmango1" >}}
+{{< rede tipo="twitch" titulo="Twitch" ligazon="ilmango" >}}
+{{< correo titulo="Correo" tipo="gmail" dir="scicraftilmango" >}}
 
 Creador de contido alemán que sube contido exclusivamente en inglés.
 

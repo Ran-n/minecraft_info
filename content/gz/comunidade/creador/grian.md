@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/comunidade/creadores/grain/'
+url: '/comunidade/creador/grain/'
 slug: 'grain'
 aliases: [
     '/gz/community/creador/Grain',
@@ -89,8 +89,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/grian.svg/'
-bookcase_cover_src_dark: '/creadores/grian.svg/'
+bookcase_cover_src: '/imaxe/creador/grian.svg'
+bookcase_cover_src_dark: '/imaxe/creador/grian.svg'
 
 eqt-creadores: [
     'grian',
@@ -108,17 +108,20 @@ eqt-creador-nacions: [
     'inglaterra',
 ]
 
+
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creadores" ligazon="/gz/comunidade/creador/" >}}
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
 # Grian
 
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Youtube" ligazon="Grian" >}}
-{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="GrianMC" >}}
-{{< rede alto="24" tipo="instagram" titulo="Instagram" ligazon="grianmc" >}}
-{{< rede alto="24" tipo="facebook" titulo="Facebook" ligazon="Grian" >}}
-{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="Youtube" ligazon="Grian" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="GrianMC" >}}
+{{< rede tipo="instagram" titulo="Instagram" ligazon="grianmc" >}}
+{{< rede tipo="facebook" titulo="Facebook" ligazon="Grian" >}}
+{{< correo tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
 
 ## Descricións
 
@@ -127,7 +130,7 @@ Especializado en construcción e decoración.
 
 ### Youtube
 
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Youtube" ligazon="Grian" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="Youtube" ligazon="Grian" >}}
 
 Esta canle céntrase en contido de xogos (especialmente minecraft) dirixidos a unha audiencia xeral.
 Fago casas en minecraft, tutoriais delas e tamén máis cousas en minecraft.
@@ -146,7 +149,7 @@ Non uso contas secundarias, soamente uso a minha principal e contas ligadas.
 
 ## Contacto
 
-{{< correo alto="24" tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
+{{< correo tipo="gmail" titulo="Gmail" dir="GrianBusiness" >}}
 
 ```
 GrianBusiness@gmail.com

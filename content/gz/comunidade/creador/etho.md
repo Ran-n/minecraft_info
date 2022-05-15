@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/comunidade/creadores/ethoslab/'
+url: '/comunidade/creador/ethoslab/'
 slug: 'ethoslab'
 aliases: [
     '/gz/community/creador/EthosLab',
@@ -73,8 +73,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/etho.svg/'
-bookcase_cover_src_dark: '/creadores/etho.svg/'
+bookcase_cover_src: '/imaxe/creador/etho.svg'
+bookcase_cover_src_dark: '/imaxe/creador/etho.svg'
 
 eqt-creador: [
     'ethoslab',
@@ -101,14 +101,17 @@ keywords:
 - minecraft técnico
 - let's play
 - gameplay
+
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creadores" ligazon="/gz/comunidade/creador/" >}}
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
 # EthosLab
 
-{{< rede alto="24" tipo="youtube" subtipo="user" titulo="Youtube" ligazon="EthosLab" >}}
-{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="EthoLP" >}}
+{{< rede tipo="youtube" subtipo="user" titulo="Youtube" ligazon="EthosLab" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="EthoLP" >}}
 
 Creador de contido canadense que sube contido exclusivamente en inglés.
 

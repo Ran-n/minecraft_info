@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/comunidade/creadores/false-symmetry/'
+url: '/comunidade/creador/false-symmetry/'
 slug: 'false-symmetry'
 aliases: [
     '/gz/community/creador/False',
@@ -169,8 +169,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/creadores/false-symmetry.svg/'
-bookcase_cover_src_dark: '/creadores/false-symmetry.svg/'
+bookcase_cover_src: '/imaxe/creador/false-symmetry.svg'
+bookcase_cover_src_dark: '/imaxe/creador/false-symmetry.svg'
 
 eqt-creadores: [
     'false symmetry',
@@ -188,19 +188,22 @@ eqt-creador-nacions: [
     'inglaterra',
 ]
 
+
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creadores" ligazon="/gz/comunidade/creador/" >}}
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
 # FalseSymmetry
 
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="Canle de Youtube Principal" ligazon="FalseSymmetry" >}}
-{{< rede alto="24" tipo="youtube" subtipo="channel" titulo="Canle de Youtube de Directos" ligazon="UCpArlUtSgiPGBklMDzwrr2g" >}}
-{{< rede alto="24" tipo="twitter" titulo="Twitter" ligazon="falsesymmetry" >}}
-{{< rede alto="24" tipo="twitch" titulo="Twitch" ligazon="falsesymmetry" >}}
-{{< rede alto="24" tipo="instagram" titulo="Instagram" ligazon="falsesymmetry" >}}
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="falsesymmetry" >}}
-{{< correo alto="24" tipo="outlook" titulo="Correo" dir="falsesymmetry@outlook.com" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="Canle de Youtube Principal" ligazon="FalseSymmetry" >}}
+{{< rede tipo="youtube" subtipo="channel" titulo="Canle de Youtube de Directos" ligazon="UCpArlUtSgiPGBklMDzwrr2g" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="falsesymmetry" >}}
+{{< rede tipo="twitch" titulo="Twitch" ligazon="falsesymmetry" >}}
+{{< rede tipo="instagram" titulo="Instagram" ligazon="falsesymmetry" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="falsesymmetry" >}}
+{{< correo tipo="outlook" titulo="Correo" dir="falsesymmetry@outlook.com" >}}
 
 ## Descricións
 
@@ -209,7 +212,7 @@ Especializada en construcción e decoración.
 
 ### Canle de Youtube principal
 
-{{< rede alto="24" tipo="youtube" subtipo="c" titulo="FalseSymmetry" ligazon="FalseSymmetry" >}}
+{{< rede tipo="youtube" subtipo="c" titulo="FalseSymmetry" ligazon="FalseSymmetry" >}}
 
 Benvidos ó meu pequeno pedazo de internet!
 
@@ -232,7 +235,7 @@ Grazas polo apoio!\
 
 ### Canle de Youtube de Directos
 
-{{< rede alto="24" tipo="youtube" subtipo="channel" titulo="FalseLive" ligazon="UCpArlUtSgiPGBklMDzwrr2g" >}}
+{{< rede tipo="youtube" subtipo="channel" titulo="FalseLive" ligazon="UCpArlUtSgiPGBklMDzwrr2g" >}}
 
 Benvidos á minha canle de arquivo de directos!
 
@@ -264,7 +267,7 @@ Novos vídeos as 5:30pm BST
 
 ## Doazóns
 
-{{< rede alto="24" tipo="patreon" titulo="Patreon" ligazon="falsesymmetry" >}}
+{{< rede tipo="patreon" titulo="Patreon" ligazon="falsesymmetry" >}}
 
 Por ser mecenas en Patreon consegues acceso exclusivo ó seu servidor de minecraft.
 
@@ -274,7 +277,7 @@ Por ser mecenas en Patreon consegues acceso exclusivo ó seu servidor de minecra
 
 ## Contacto
 
-{{< correo alto="24" tipo="outlook" titulo="Correo" dir="falsesymmetry@outlook.com" >}}
+{{< correo tipo="outlook" titulo="Correo" dir="falsesymmetry@outlook.com" >}}
 
 ```
 falsesymmetry@outlook.com

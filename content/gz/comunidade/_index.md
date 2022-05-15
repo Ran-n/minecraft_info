@@ -13,7 +13,7 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
@@ -37,3 +37,5 @@ bookcase_list_pages: false
 bookcase_list_sections: true
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Inicio" ligazon="/gz/" >}}
