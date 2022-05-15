@@ -13,7 +13,7 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
@@ -33,11 +33,13 @@ aliases: [
 ]
 
 weight: 5
-bookcase_cover_src: '/obx/wooden-pickaxe1.png/'
-bookcase_cover_src_dark: '/obx/wooden-pickaxe1.png/'
+bookcase_cover_src: '/imaxe/mc/obx/wooden-pickaxe1.png'
+bookcase_cover_src_dark: '/imaxe/mc/obx/wooden-pickaxe1.png'
 
 type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Comunidade" ligazon="/gz/comunidade/" >}}

@@ -13,14 +13,14 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/comunidade/series/'
-slug: 'series'
+url: '/comunidade/serie/'
+slug: 'serie'
 aliases: [
     '/gz/community/serie/',
     '/gz/community/series/',
@@ -33,14 +33,16 @@ aliases: [
 ]
 
 weight: 2
-bookcase_cover_src: '/portada-seccion/series2.jpg'
-bookcase_cover_src_dark: '/portada-seccion/series2.jpg'
+bookcase_cover_src: '/imaxe/portada-seccion/series2.jpg'
+bookcase_cover_src_dark: '/imaxe/portada-seccion/series2.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Comunidade" ligazon="/gz/comunidade/" >}}
 
 <!--
 Alphabetical list of the information page for every Minecraft content creator.

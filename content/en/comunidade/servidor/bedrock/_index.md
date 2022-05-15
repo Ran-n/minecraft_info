@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/en/community/servers/bedrock/'
+url: '/en/community/server/bedrock/'
 slug: 'bedrock'
 aliases: [
     '/en/community/server/bedrock/',
@@ -41,8 +41,8 @@ aliases: [
 ]
 
 weight: 2
-bookcase_cover_src: '/portada-seccion/bedrock.png/'
-bookcase_cover_src_dark: '/portada-seccion/bedrock.png/'
+bookcase_cover_src: '/imaxe/portada-seccion/bedrock.png'
+bookcase_cover_src_dark: '/imaxe/portada-seccion/bedrock.png'
 
 type: 'bookcase'
 bookcase_list_pages: false
@@ -50,3 +50,4 @@ bookcase_list_sections: true
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Servers" ligazon="/en/community/server/" >}}

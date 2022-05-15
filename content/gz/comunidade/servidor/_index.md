@@ -13,14 +13,14 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/comunidade/servidores/'
-slug: 'servidores'
+url: '/comunidade/servidor/'
+slug: 'servidor'
 aliases: [
     '/gz/community/server/',
     '/gz/community/servers/',
@@ -41,11 +41,13 @@ aliases: [
 ]
 
 weight: 3
-bookcase_cover_src: '/portada-seccion/servidores.jpg'
-bookcase_cover_src_dark: '/portada-seccion/servidores.jpg'
+bookcase_cover_src: '/imaxe/portada-seccion/servidores.jpg'
+bookcase_cover_src_dark: '/imaxe/portada-seccion/servidores.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: false
 bookcase_list_sections: true
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Comunidade" ligazon="/gz/comunidade/" >}}

@@ -13,14 +13,14 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/en/community/servers/'
-slug: 'servers'
+url: '/en/community/server/'
+slug: 'server'
 aliases: [
     '/en/community/server/',
     '/en/community/servers/',
@@ -49,3 +49,5 @@ bookcase_list_pages: false
 bookcase_list_sections: true
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Community" ligazon="/en/community/" >}}

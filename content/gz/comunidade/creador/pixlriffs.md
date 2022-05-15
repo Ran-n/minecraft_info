@@ -22,38 +22,38 @@ twitter_cards: false
 url: '/comunidade/creador/pixlriffs/'
 slug: 'pixlriffs'
 aliases: [
-    '/gz/community/creador/Pixlriffs',
-    '/gz/community/creador/pixlriffs',
-    '/gz/community/creadores/Pixlriffs',
-    '/gz/community/creadores/pixlriffs',
-    '/gz/community/creator/Pixlriffs',
-    '/gz/community/creator/pixlriffs',
-    '/gz/community/creators/Pixlriffs',
-    '/gz/community/creators/pixlriffs',
-    '/gz/communitys/creador/Pixlriffs',
-    '/gz/communitys/creador/pixlriffs',
-    '/gz/communitys/creadores/Pixlriffs',
-    '/gz/communitys/creadores/pixlriffs',
-    '/gz/communitys/creator/Pixlriffs',
-    '/gz/communitys/creator/pixlriffs',
-    '/gz/communitys/creators/Pixlriffs',
-    '/gz/communitys/creators/pixlriffs',
-    '/gz/comunidade/creador/Pixlriffs',
-    '/gz/comunidade/creador/pixlriffs',
-    '/gz/comunidade/creadores/Pixlriffs',
-    '/gz/comunidade/creadores/pixlriffs',
-    '/gz/comunidade/creator/Pixlriffs',
-    '/gz/comunidade/creator/pixlriffs',
-    '/gz/comunidade/creators/Pixlriffs',
-    '/gz/comunidade/creators/pixlriffs',
-    '/gz/comunidades/creador/Pixlriffs',
-    '/gz/comunidades/creador/pixlriffs',
-    '/gz/comunidades/creadores/Pixlriffs',
-    '/gz/comunidades/creadores/pixlriffs',
-    '/gz/comunidades/creator/Pixlriffs',
-    '/gz/comunidades/creator/pixlriffs',
-    '/gz/comunidades/creators/Pixlriffs',
-    '/gz/comunidades/creators/pixlriffs',
+    '/gz/community/creador/Pixlriffs/',
+    '/gz/community/creador/pixlriffs/',
+    '/gz/community/creadores/Pixlriffs/',
+    '/gz/community/creadores/pixlriffs/',
+    '/gz/community/creator/Pixlriffs/',
+    '/gz/community/creator/pixlriffs/',
+    '/gz/community/creators/Pixlriffs/',
+    '/gz/community/creators/pixlriffs/',
+    '/gz/communitys/creador/Pixlriffs/',
+    '/gz/communitys/creador/pixlriffs/',
+    '/gz/communitys/creadores/Pixlriffs/',
+    '/gz/communitys/creadores/pixlriffs/',
+    '/gz/communitys/creator/Pixlriffs/',
+    '/gz/communitys/creator/pixlriffs/',
+    '/gz/communitys/creators/Pixlriffs/',
+    '/gz/communitys/creators/pixlriffs/',
+    '/gz/comunidade/creador/Pixlriffs/',
+    '/gz/comunidade/creador/pixlriffs/',
+    '/gz/comunidade/creadores/Pixlriffs/',
+    '/gz/comunidade/creadores/pixlriffs/',
+    '/gz/comunidade/creator/Pixlriffs/',
+    '/gz/comunidade/creator/pixlriffs/',
+    '/gz/comunidade/creators/Pixlriffs/',
+    '/gz/comunidade/creators/pixlriffs/',
+    '/gz/comunidades/creador/Pixlriffs/',
+    '/gz/comunidades/creador/pixlriffs/',
+    '/gz/comunidades/creadores/Pixlriffs/',
+    '/gz/comunidades/creadores/pixlriffs/',
+    '/gz/comunidades/creator/Pixlriffs/',
+    '/gz/comunidades/creator/pixlriffs/',
+    '/gz/comunidades/creators/Pixlriffs/',
+    '/gz/comunidades/creators/pixlriffs/',
 ]
 
 #weight: 1
@@ -80,6 +80,8 @@ eqt-creador-nacions: [
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Creadores" ligazon="/gz/comunidade/creador/" >}}
+
+<br>
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 

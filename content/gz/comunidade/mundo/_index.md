@@ -13,14 +13,14 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/comunidade/mundos/'
-slug: 'mundos'
+url: '/comunidade/mundo/'
+slug: 'mundo'
 aliases: [
     '/gz/community/mundo/',
     '/gz/community/mundos/',
@@ -41,11 +41,13 @@ aliases: [
 ]
 
 weight: 4
-bookcase_cover_src: '/paisaxe/mc/planeta.jpg'
-bookcase_cover_src_dark: '/paisaxe/mc/planeta.jpg'
+bookcase_cover_src: '/imaxe/mc/paisaxe/planeta.jpg'
+bookcase_cover_src_dark: '/imaxe/mc/paisaxe/planeta.jpg'
 
 type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Comunidade" ligazon="/gz/comunidade/" >}}

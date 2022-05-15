@@ -13,14 +13,14 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/en/community/worlds/'
-slug: 'worlds'
+url: '/en/community/world/'
+slug: 'world'
 aliases: [
     '/en/community/mundo/',
     '/en/community/mundos/',
@@ -49,3 +49,5 @@ bookcase_list_pages: true
 bookcase_list_sections: false
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Community" ligazon="/en/community/" >}}

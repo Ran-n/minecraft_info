@@ -13,14 +13,14 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/en/community/series/'
-slug: 'series'
+url: '/en/community/serie/'
+slug: 'serie'
 aliases: [
     '/en/community/serie/',
     '/en/community/series/',
@@ -41,6 +41,8 @@ bookcase_list_pages: true
 bookcase_list_sections: false
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Community" ligazon="/en/community/" >}}
 
 <!--
 Alphabetical list of the information page for every Minecraft content creator.

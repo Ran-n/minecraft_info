@@ -13,13 +13,13 @@ math: false
 zooming_js: false
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
 #open_graph: false
 
-url: '/comunidade/servidores/java/'
+url: '/comunidade/servidor/java/'
 slug: 'java'
 aliases: [
     '/gz/community/server/java/',
@@ -41,11 +41,13 @@ aliases: [
 ]
 
 weight: 1
-bookcase_cover_src: '/portada-seccion/java.png/'
-bookcase_cover_src_dark: '/portada-seccion/java.png/'
+bookcase_cover_src: '/imaxe/portada-seccion/java.png'
+bookcase_cover_src_dark: '/imaxe/portada-seccion/java.png'
 
 type: 'bookcase'
 bookcase_list_pages: false
 bookcase_list_sections: true
 
 ---
+
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Servidores" ligazon="/gz/comunidade/servidor/" >}}

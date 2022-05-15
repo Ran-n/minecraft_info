@@ -22,38 +22,38 @@ twitter_cards: false
 url: '/comunidade/creador/ilmango/'
 slug: 'ilmango'
 aliases: [
-    '/gz/community/creador/ilmango',
-    '/gz/community/creador/mango',
-    '/gz/community/creadores/ilmango',
-    '/gz/community/creadores/mango',
-    '/gz/community/creator/ilmango',
-    '/gz/community/creator/mango',
-    '/gz/community/creators/ilmango',
-    '/gz/community/creators/mango',
-    '/gz/communitys/creador/ilmango',
-    '/gz/communitys/creador/mango',
-    '/gz/communitys/creadores/ilmango',
-    '/gz/communitys/creadores/mango',
-    '/gz/communitys/creator/ilmango',
-    '/gz/communitys/creator/mango',
-    '/gz/communitys/creators/ilmango',
-    '/gz/communitys/creators/mango',
-    '/gz/comunidade/creador/ilmango',
-    '/gz/comunidade/creador/mango',
-    '/gz/comunidade/creadores/ilmango',
-    '/gz/comunidade/creadores/mango',
-    '/gz/comunidade/creator/ilmango',
-    '/gz/comunidade/creator/mango',
-    '/gz/comunidade/creators/ilmango',
-    '/gz/comunidade/creators/mango',
-    '/gz/comunidades/creador/ilmango',
-    '/gz/comunidades/creador/mango',
-    '/gz/comunidades/creadores/ilmango',
-    '/gz/comunidades/creadores/mango',
-    '/gz/comunidades/creator/ilmango',
-    '/gz/comunidades/creator/mango',
-    '/gz/comunidades/creators/ilmango',
-    '/gz/comunidades/creators/mango',
+    '/gz/community/creador/ilmango/',
+    '/gz/community/creador/mango/',
+    '/gz/community/creadores/ilmango/',
+    '/gz/community/creadores/mango/',
+    '/gz/community/creator/ilmango/',
+    '/gz/community/creator/mango/',
+    '/gz/community/creators/ilmango/',
+    '/gz/community/creators/mango/',
+    '/gz/communitys/creador/ilmango/',
+    '/gz/communitys/creador/mango/',
+    '/gz/communitys/creadores/ilmango/',
+    '/gz/communitys/creadores/mango/',
+    '/gz/communitys/creator/ilmango/',
+    '/gz/communitys/creator/mango/',
+    '/gz/communitys/creators/ilmango/',
+    '/gz/communitys/creators/mango/',
+    '/gz/comunidade/creador/ilmango/',
+    '/gz/comunidade/creador/mango/',
+    '/gz/comunidade/creadores/ilmango/',
+    '/gz/comunidade/creadores/mango/',
+    '/gz/comunidade/creator/ilmango/',
+    '/gz/comunidade/creator/mango/',
+    '/gz/comunidade/creators/ilmango/',
+    '/gz/comunidade/creators/mango/',
+    '/gz/comunidades/creador/ilmango/',
+    '/gz/comunidades/creador/mango/',
+    '/gz/comunidades/creadores/ilmango/',
+    '/gz/comunidades/creadores/mango/',
+    '/gz/comunidades/creator/ilmango/',
+    '/gz/comunidades/creator/mango/',
+    '/gz/comunidades/creators/ilmango/',
+    '/gz/comunidades/creators/mango/',
 ]
 
 #weight: 1
@@ -86,6 +86,8 @@ keywords:
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Creadores" ligazon="/gz/comunidade/creador/" >}}
+
+<br>
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/gz/eqt-creador-linguas/en/" >}}
 
