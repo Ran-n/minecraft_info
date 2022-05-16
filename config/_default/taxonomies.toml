@@ -1,19 +1,21 @@
 tag = "tags"
 
 # versions
-## java | bedrock
+#+ java | bedrock
 eqt-version-edicion = "eqt-version-edicions"
 
-## que version/snapshot é
+#+ que version/snapshot é
 eqt-j-version= "eqt-j-versions"
 eqt-b-version = "eqt-b-versions"
-## a que versión pertence a snapshot
+
+#+ a que versión pertence a snapshot
 eqt-j-snapshot-version= "eqt-j-snapshot-versions"
 eqt-b-snapshot-version= "eqt-b-snapshot-versions"
-## dia dos inocentes |
+
+#+ dia dos inocentes |
 eqt-j-version-especial= "eqt-j-version-especiais"
 eqt-b-version-especial= "eqt-b-version-especiais"
-#   #
+#
 
 # creadores
 ## nome creador
@@ -24,7 +26,7 @@ eqt-creador-edicion = "eqt-creador-edicions"
 eqt-creador-lingua = "eqt-creador-linguas"
 ## a que nación pertence
 eqt-creador-nacion = "eqt-creador-nacions"
-#   #
+#
 
 # granxas
 eqt-j-granxa-creador = "eqt-j-granxa-creadores"
@@ -34,20 +36,28 @@ eqt-j-granxa-iron-version = "eqt-j-granxa-iron-versions"
 eqt-j-granxa-warped-crimson-version = "eqt-j-granxa-warped-crimson-versions"
 eqt-j-granxa-mud-version = "eqt-j-granxa-mud-versions"
 eqt-j-granxa-clay-version = "eqt-j-granxa-clay-versions"
-#   #
+#
 
 # redstone
 eqt-j-redstone-creador = "eqt-j-redstone-creadores"
 eqt-b-redstone-creador = "eqt-b-redstone-creadores"
 
+eqt-j-redstone-brewer-version = "eqt-j-redstone-brewer-versions"
 eqt-b-redstone-brewer-version = "eqt-b-redstone-brewer-versions"
-#   #
+#
 
 # exploits
+## xeral
 eqt-j-exploit-creador = "eqt-j-exploit-creadores"
 eqt-b-exploit-creador = "eqt-b-exploit-creadores"
+eqt-j-exploit-version = "eqt-j-exploit-versions"
+eqt-b-exploit-version = "eqt-b-exploit-versions"
+##
 
+## mob switch
 eqt-j-exploit-mob-switch-creador = "eqt-j-exploit-mob-switch-creadores"
+eqt-b-exploit-mob-switch-creador = "eqt-b-exploit-mob-switch-creadores"
 eqt-j-exploit-mob-switch-version = "eqt-j-exploit-mob-switch-versions"
-#   #
-
+eqt-b-exploit-mob-switch-version = "eqt-b-exploit-mob-switch-versions"
+##
+#

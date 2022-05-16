@@ -68,7 +68,7 @@ eqt-version-edicions: [
     'java',
 ]
 
-eqt-versions: [
+eqt-j-versions: [
     '22w13',
 ]
 

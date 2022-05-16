@@ -128,4 +128,3 @@ bookcase_list_pages: true
 bookcase_list_sections: true
 
 ---
-
