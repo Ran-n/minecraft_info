@@ -5,7 +5,7 @@ date: 2022-04-09T00:34:54+02:00
 author: 'Ran#'
 
 toc: true
-collapsible_toc: true
+collapsible_toc: false
 collapsible_changelogs: true
 
 search_hidden: false
@@ -31,6 +31,8 @@ bookcase_cover_src: '/imaxe/portada-seccion/termos.png'
 bookcase_cover_src_dark: '/imaxe/portada-seccion/termos.png'
 
 ---
+
+# Termos
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo='"Minecraft"' ligazon="/gz/minecraft/" >}}
 
@@ -63,7 +65,8 @@ Froglight = [Anfibrillo](https://crowdin.com/translate/minecraft/all/enus-gl?fil
 
 ### M
 Mangrove = [Mangleiro](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#q=mangrove%20log)\
-Mob = [Criatura](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5220723)
+Mob = [Criatura](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5220723)\
+Mob Switch = Pacificador
 
 ### P
 Painting = [Cadro](https://crowdin.com/translate/minecraft/all/enus-gl?filter=basic&value=0#5240982)\

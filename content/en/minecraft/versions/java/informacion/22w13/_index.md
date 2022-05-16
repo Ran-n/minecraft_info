@@ -57,14 +57,14 @@ aliases: [
 ]
 
 weight: -20220401
-bookcase_cover_src: '/imaxe/seccion/version/22w13/cabeceira.webp'
-bookcase_cover_src_dark: '/imaxe/seccion/version/22w13/cabeceira.webp'
+bookcase_cover_src: '/imaxe/seccion/version/j/22w13/cabeceira.webp'
+bookcase_cover_src_dark: '/imaxe/seccion/version/j/22w13/cabeceira.webp'
 
 type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: true
 
-eqt-versions-edicions: [
+eqt-version-edicions: [
     'java',
 ]
 
@@ -72,7 +72,7 @@ eqt-versions: [
     '22w13',
 ]
 
-eqt-j-versions-especiais: [
+eqt-j-version-especiais: [
     'dia dos inocentes',
 ]
 

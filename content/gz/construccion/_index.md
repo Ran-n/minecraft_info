@@ -22,8 +22,8 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/construcions/'
-slug: 'construcions'
+url: '/construcion/'
+slug: 'construcion'
 aliases: [
     '/gz/building/',
     '/gz/buildings/',

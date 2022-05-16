@@ -64,7 +64,7 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: true
 
-eqt-versions-edicions: [
+eqt-version-edicions: [
     'java',
 ]
 
@@ -72,7 +72,7 @@ eqt-j-versions: [
     '22w13',
 ]
 
-eqt-j-versions-especiais: [
+eqt-j-version-especiais: [
     'dia dos inocentes',
 ]
 

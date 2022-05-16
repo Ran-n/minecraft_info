@@ -64,15 +64,15 @@ type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: false
 
-eqt-versions-edicions: [
+eqt-version-edicions: [
     'java',
 ]
 
-eqt-j-versions: [
+eqt-j-version: [
     '22w11a',
 ]
 
-eqt-j-snapshots-versions: [
+eqt-j-snapshot-versions: [
     '1.19',
 ]
 

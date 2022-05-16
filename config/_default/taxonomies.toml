@@ -2,21 +2,17 @@ tag = "tags"
 
 # versions
 ## java | bedrock
-eqt-version-edicion = "eqt-versions-edicions"
+eqt-version-edicion = "eqt-version-edicions"
 
 ## que version/snapshot é
-eqt-j-version= "eqt-j-versions-java"
-## a que versión pertence a snapshot
-eqt-j-snapshot-version= "eqt-j-snapshots-versions"
-## dia dos inocentes |
-eqt-j-version-especial= "eqt-j-versions-especiais"
-
-## que version/snapshot é
+eqt-j-version= "eqt-j-versions"
 eqt-b-version = "eqt-b-versions"
 ## a que versión pertence a snapshot
-eqt-b-snapshot-version= "eqt-b-snapshots-versions"
+eqt-j-snapshot-version= "eqt-j-snapshot-versions"
+eqt-b-snapshot-version= "eqt-b-snapshot-versions"
 ## dia dos inocentes |
-eqt-b-version-especial= "eqt-b-versions-especiais"
+eqt-j-version-especial= "eqt-j-version-especiais"
+eqt-b-version-especial= "eqt-b-version-especiais"
 #   #
 
 # creadores
@@ -46,3 +42,12 @@ eqt-b-redstone-creador = "eqt-b-redstone-creadores"
 
 eqt-b-redstone-brewer-version = "eqt-b-redstone-brewer-versions"
 #   #
+
+# exploits
+eqt-j-exploit-creador = "eqt-j-exploit-creadores"
+eqt-b-exploit-creador = "eqt-b-exploit-creadores"
+
+eqt-j-exploit-mob-switch-creador = "eqt-j-exploit-mob-switch-creadores"
+eqt-j-exploit-mob-switch-version = "eqt-j-exploit-mob-switch-versions"
+#   #
+

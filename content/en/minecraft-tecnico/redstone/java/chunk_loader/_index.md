@@ -2332,8 +2332,8 @@ aliases: [
 ]
 
 weight: 1
-bookcase_cover_src: '/imaxe/paisaxe/mc/chunk_loader3.png'
-bookcase_cover_src_dark: '/imaxe/paisaxe/mc/chunk_loader3.png'
+bookcase_cover_src: '/imaxe/mc/paisaxe/chunk_loader3.png'
+bookcase_cover_src_dark: '/imaxe/mc/paisaxe/chunk_loader3.png'
 
 type: 'bookcase'
 bookcase_list_pages: false
