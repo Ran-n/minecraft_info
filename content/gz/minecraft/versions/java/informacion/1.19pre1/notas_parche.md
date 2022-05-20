@@ -19,7 +19,7 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/minecraft/version/java/informacion/22w19a/notas/'
+url: '/minecraft/version/java/informacion/1.19pre1/notas/'
 slug: 'notes'
 aliases: [
     '/gz/minecraft/version/j/info/1.19 pre-release 1/nota/',
@@ -1284,7 +1284,7 @@ bookcase_cover_src_dark: '/monochrome/cover/list_dark.png'
 
 # Patch Notes | 1.19 Presaída 1
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="1.19 Presaída 1" ligazon="/gz/minecraft/version/java/information/1.19pre1/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="1.19 Presaída 1" ligazon="/gz/minecraft/version/java/informacion/1.19pre1/" >}}
 
 <img title="1.19 Presaída 1" alt="1.19 Presaída 1" src="/imaxe/mc/mob/enderman/enderman-vs-homecabaza.jpg">
 

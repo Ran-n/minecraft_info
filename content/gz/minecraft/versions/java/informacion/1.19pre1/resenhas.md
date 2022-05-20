@@ -1917,7 +1917,7 @@ eqt_creadores: [
 
 # Resenhas | 1.19 Presaída 1
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="1.19 Presaída 1" ligazon="/gz/minecraft/version/java/information/1.19pre1/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="1.19 Presaída 1" ligazon="/gz/minecraft/version/java/informacion/1.19pre1/" >}}
 
 ## xisumavoid
 ### Minecraft 1.19 Presaída 1 - Mob Spawn Changes & New Vibrations
