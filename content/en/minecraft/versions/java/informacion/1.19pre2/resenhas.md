@@ -1909,6 +1909,7 @@ bookcase_cover_src_dark: '/monochrome/cover/picture_dark.png'
 eqt_creadores: [
     'xisumavoid',
     'rays works',
+    'ilmango',
 ]
 
 ---
@@ -1925,4 +1926,9 @@ eqt_creadores: [
 ## Rays Works
 ### Mojang BROKE my Best Farms! 1.19 Pre 2 & 3 Review
 {{< youtube zJIEZ4mBHpM >}}
+<!--{{< youtube >}}-->
+
+## ilmango
+### Minecraft News: 1.19pre2 Fortress Portal Farms in 1.19
+{{< youtube tXCO2e-WGZo >}}
 <!--{{< youtube >}}-->
