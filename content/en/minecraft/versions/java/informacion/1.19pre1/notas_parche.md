@@ -19,7 +19,7 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/en/minecraft/version/java/information/22w19a/notes/'
+url: '/en/minecraft/version/java/information/1.19pre1/notes/'
 slug: 'notes'
 aliases: [
     '/en/minecraft/version/j/info/1.19 pre-release 1/nota/',
