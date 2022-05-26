@@ -359,6 +359,6 @@ eqt-j-snapshot-versions: [
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Information" ligazon="/gz/minecraft/version/java/information/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Information" ligazon="/gz/minecraft/version/java/informacion/" >}}
 
 <img title="1.19 Presaída 1" alt="1.19 Presaída 1" src="/imaxe/mc/mob/enderman/enderman-vs-homecabaza.jpg">
