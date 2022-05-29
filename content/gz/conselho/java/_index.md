@@ -16,7 +16,7 @@ math: false
 zooming_js: true
 
 ga: true
-disqus: true
+#disqus: true
 twitter_cards: false
 
 #code_copy: false
@@ -102,3 +102,5 @@ bookcase_list_sections: true
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Conselhos" ligazon="/gz/conselho/" >}}
+
+Tamén se pode buscar todos os conselhos por [creador](/gz/eqt-j-conselho-creadores/) ou [versión](/gz/eqt-j-conselho-versions/) directamente.
