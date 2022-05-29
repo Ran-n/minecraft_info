@@ -690,4 +690,4 @@ bookcase_list_sections: true
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Exploits Java" ligazon="/gz/minecraft-tecnico/conselho/java/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Exploits Java" ligazon="/gz/conselho/java/" >}}

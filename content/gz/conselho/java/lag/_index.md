@@ -103,11 +103,11 @@ bookcase_list_sections: true
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Conselhos Java" ligazon="/gz/conselho/java/" >}}
 
-## Por [creador](/gz/eqt-j-conselho-creadores/)
-{{< terms-cloud terms="eqt-j-conselho-creadores" >}}
+## Por [creador](/gz/eqt-j-conselho-lag-creadores/)
+{{< terms-cloud terms="eqt-j-conselho-lag-creadores" >}}
 
-## Por [versión](/gz/eqt-j-conselho-versions/)
-{{< terms-cloud terms="eqt-j-conselho-versions" >}}
+## Por [versión](/gz/eqt-j-conselho-lag-versions/)
+{{< terms-cloud terms="eqt-j-conselho-lag-versions" >}}
 
 <br>
 <br>

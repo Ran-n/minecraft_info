@@ -1340,4 +1340,4 @@ Publicado: 2022/05/25\
 Autor: Adrian Östergård\
 Tradutor: Ran#
 
-[Publicación orixinal](https://www.minecraft.net/gz-us/article/minecraft-1-19-pre-release-2)
+[Publicación orixinal](https://www.minecraft.net/en-us/article/minecraft-1-19-pre-release-2)
