@@ -76,8 +76,8 @@ aliases: [
 bookcase_cover_src: '/imaxe/creador/etho.svg'
 bookcase_cover_src_dark: '/imaxe/creador/etho.svg'
 
-eqt-creador: [
-    'ethoslab',
+eqt-creadores: [
+    'EthosLab',
 ]
 
 eqt-creador-linguas: [

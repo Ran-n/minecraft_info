@@ -1,6 +1,6 @@
 ---
 title: 'LogicalGeekBoy'
-date: 2022-05-29T13:33:00+02:00
+#date: 2022-05-29T13:33:00+02:00
 #draft: true
 author: 'Ran#'
 
@@ -24,8 +24,12 @@ slug: 'logicalgeekboy'
 aliases: [
     '/gz/creador/logicalgeekboy/',
     '/gz/creadores/logicalgeekboy/',
+    '/gz/creator/logicalgeekboy/',
+    '/gz/creatores/logicalgeekboy/',
     '/gz/eqt-creador/logicalgeekboy/',
     '/gz/eqt-creadores/logicalgeekboy/',
+    '/gz/eqt-creator/logicalgeekboy/',
+    '/gz/eqt-creatores/logicalgeekboy/',
 ]
 
 #weight: 1

@@ -80,6 +80,8 @@ eqt-creador-nacions: [
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
 
+<br>
+
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
 # Pixlriffs

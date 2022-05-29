@@ -24,8 +24,12 @@ slug: 'creador'
 aliases: [
     '/gz/creador/',
     '/gz/creadores/',
+    '/gz/creator/',
+    '/gz/creatores/',
     '/gz/eqt-creador/',
     '/gz/eqt-creadores/',
+    '/gz/eqt-creator/',
+    '/gz/eqt-creatores/',
 ]
 
 type: 'bookcase'

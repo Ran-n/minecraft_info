@@ -77,7 +77,7 @@ bookcase_cover_src: '/imaxe/creador/etho.svg'
 bookcase_cover_src_dark: '/imaxe/creador/etho.svg'
 
 eqt-creadores: [
-    'ethoslab',
+    'EthosLab',
 ]
 
 eqt-creador-linguas: [
@@ -105,6 +105,8 @@ keywords:
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
+
+<br>
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 

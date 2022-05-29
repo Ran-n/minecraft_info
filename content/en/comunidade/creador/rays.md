@@ -249,23 +249,23 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/imaxe/creador/rays.svg'
-bookcase_cover_src_dark: '/imaxe/creador/rays.svg'
+bookcase_cover_src: '/imaxe/creador/rays_works.svg'
+bookcase_cover_src_dark: '/imaxe/creador/rays_works.svg'
 
 eqt-creadores: [
-    'rays works',
+    'Rays Works',
 ]
 
 eqt-creador-linguas: [
-    'english',
+    'English',
 ]
 
 eqt-creador-edicions: [
-    'java',
+    'Java',
 ]
 
 eqt-creador-nacions: [
-    'united states',
+    'United States',
 ]
 
 keywords:
@@ -276,6 +276,8 @@ keywords:
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
+
+<br>
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 

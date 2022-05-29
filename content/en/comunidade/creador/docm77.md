@@ -89,8 +89,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/imaxe/creadores/docm.svg'
-bookcase_cover_src_dark: '/imaxe/creador/docm.svg'
+bookcase_cover_src: '/imaxe/creadores/docm77.svg'
+bookcase_cover_src_dark: '/imaxe/creador/docm77.svg'
 
 eqt-creadores: [
     'docm77',
@@ -121,6 +121,8 @@ keywords:
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
+
+<br>
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 

@@ -105,8 +105,8 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/imaxe/creador/docm.svg'
-bookcase_cover_src_dark: '/imaxe/creador/docm.svg'
+bookcase_cover_src: '/imaxe/creador/docm77.svg'
+bookcase_cover_src_dark: '/imaxe/creador/docm77.svg'
 
 eqt-creadores: [
     'docm77',

@@ -173,7 +173,7 @@ bookcase_cover_src: '/imaxe/creador/false-symmetry.svg'
 bookcase_cover_src_dark: '/imaxe/creador/false-symmetry.svg'
 
 eqt-creadores: [
-    'false symmetry',
+    'FalseSymmetry',
 ]
 
 eqt-creador-linguas: [

@@ -189,7 +189,7 @@ bookcase_cover_src: '/imaxe/creador/tango-tek.svg'
 bookcase_cover_src_dark: '/imaxe/creador/tango-tek.svg'
 
 eqt-creadores: [
-    'tango tek',
+    'Tango Tek',
 ]
 
 eqt-creador-linguas: [
@@ -207,6 +207,8 @@ eqt-creador-nacions: [
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
+
+<br>
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 

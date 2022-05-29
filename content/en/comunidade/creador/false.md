@@ -173,7 +173,7 @@ bookcase_cover_src: '/imaxe/creador/false-symmetry.svg'
 bookcase_cover_src_dark: '/imaxe/creador/false-symmetry.svg'
 
 eqt-creadores: [
-    'false symmetry',
+    'FalseSymmetry',
 ]
 
 eqt-creador-linguas: [
@@ -191,6 +191,8 @@ eqt-creador-nacions: [
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
+
+<br>
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 

@@ -249,11 +249,11 @@ aliases: [
 ]
 
 #weight: 1
-bookcase_cover_src: '/imaxe/creador/rays.svg'
-bookcase_cover_src_dark: '/imaxe/creador/rays.svg'
+bookcase_cover_src: '/imaxe/creador/rays_works.svg'
+bookcase_cover_src_dark: '/imaxe/creador/rays_works.svg'
 
 eqt-creadores: [
-    'rays works',
+    'Rays Works',
 ]
 
 eqt-creador-linguas: [

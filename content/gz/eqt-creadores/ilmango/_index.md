@@ -1,6 +1,6 @@
 ---
 title: 'ilmango'
-date: 2022-05-29T13:33:00+02:00
+#date: 2022-05-29T13:33:00+02:00
 #draft: true
 author: 'Ran#'
 
@@ -24,8 +24,12 @@ slug: 'ilmango'
 aliases: [
     '/gz/creador/ilmango/',
     '/gz/creadores/ilmango/',
+    '/gz/creator/ilmango/',
+    '/gz/creatores/ilmango/',
     '/gz/eqt-creador/ilmango/',
     '/gz/eqt-creadores/ilmango/',
+    '/gz/eqt-creator/ilmango/',
+    '/gz/eqt-creatores/ilmango/',
 ]
 
 #weight: 1

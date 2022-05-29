@@ -1,6 +1,6 @@
 ---
 title: 'Tango Tek'
-date: 2022-05-29T13:33:00+02:00
+#date: 2022-05-29T13:33:00+02:00
 #draft: true
 author: 'Ran#'
 
@@ -19,8 +19,8 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/creador/tangotek/'
-slug: 'tangotek'
+url: '/creador/tango-tek/'
+slug: 'tango-tek'
 aliases: [
     '/gz/creador/tango tek/',
     '/gz/creador/tango-tek/',
@@ -30,14 +30,30 @@ aliases: [
     '/gz/creadores/tango-tek/',
     '/gz/creadores/tango_tek/',
     '/gz/creadores/tangotek/',
-    '/gz/eqt creador/tango tek/',
-    '/gz/eqt creadores/tango tek/',
+    '/gz/creator/tango tek/',
+    '/gz/creator/tango-tek/',
+    '/gz/creator/tango_tek/',
+    '/gz/creator/tangotek/',
+    '/gz/creatores/tango tek/',
+    '/gz/creatores/tango-tek/',
+    '/gz/creatores/tango_tek/',
+    '/gz/creatores/tangotek/',
+    '/gz/eqt-creador/tango tek/',
     '/gz/eqt-creador/tango-tek/',
+    '/gz/eqt-creador/tango_tek/',
     '/gz/eqt-creador/tangotek/',
+    '/gz/eqt-creadores/tango tek/',
     '/gz/eqt-creadores/tango-tek/',
+    '/gz/eqt-creadores/tango_tek/',
     '/gz/eqt-creadores/tangotek/',
-    '/gz/eqt_creador/tango_tek/',
-    '/gz/eqt_creadores/tango_tek/',
+    '/gz/eqt-creator/tango tek/',
+    '/gz/eqt-creator/tango-tek/',
+    '/gz/eqt-creator/tango_tek/',
+    '/gz/eqt-creator/tangotek/',
+    '/gz/eqt-creatores/tango tek/',
+    '/gz/eqt-creatores/tango-tek/',
+    '/gz/eqt-creatores/tango_tek/',
+    '/gz/eqt-creatores/tangotek/',
 ]
 
 #weight: 1

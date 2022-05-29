@@ -189,24 +189,26 @@ bookcase_cover_src: '/imaxe/creador/gruva-guy.svg'
 bookcase_cover_src_dark: '/imaxe/creador/gruva-guy.svg'
 
 eqt-creators: [
-    'gruva guy',
+    'Gruva Guy',
 ]
 
 eqt-creador-linguas: [
-    'english',
+    'English',
 ]
 
 eqt-creador-edicions: [
-    'bedrock',
+    'Bedrock',
 ]
 
 eqt-creador-nacions: [
-    'england',
+    'England',
 ]
 
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/en/community/creator/" >}}
+
+<br>
 
 {{< bandeira tipo="lingua" nome="en" ancho="28" alto="17" ligazon="/en/eqt-creador-linguas/en/" >}}
 
