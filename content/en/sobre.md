@@ -37,10 +37,12 @@ bookcase_cover_src_dark: '/imaxe/mc/paisaxe/paisaxe1.jpg'
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Home" ligazon="/en/" >}}
 
-{{< icon name="github" link="https://github.com/Ran-n" >}}
-{{< icon name="" link="https://stackoverflow.com/users/16545423/ran" >}}
+{{< rede tipo="github" titulo="GitHub" tipo-icona="feather" ligazon="anxo_ledo" >}}
+{{< rede tipo="twitter" titulo="Twitter" ligazon="anxo_ledo" >}}
+{{< rede tipo="stackoverflow" titulo="Twitter" ligazon="16545423" >}}
+{{< rede tipo="pypi" subtipo="user" titulo="PyPi" ligazon="ran-n" >}}
+
 {{< icon name="" link="https://stackexchange.com/users/22323027/ran?tab=accounts" >}}
-{{< icon name="" link="https://pypi.org/user/ran-n/" >}}
 
 <div style="text-align: center">
     <img title="Ran#" alt="Ran#" src="/fotos_content/creadores/kanagawa2.png">
