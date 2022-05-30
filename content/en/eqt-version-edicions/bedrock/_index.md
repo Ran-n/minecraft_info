@@ -19,7 +19,7 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/version-edicion/bedrock/'
+url: '/en/version-edition/bedrock/'
 slug: 'bedrock'
 aliases: [
     '/en/edicion version/b/',
@@ -232,4 +232,4 @@ bookcase_list_sections: true
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Conselhos" ligazon="/en/version-edicion/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Conselhos" ligazon="/en/eqt-version-edicions/" >}}

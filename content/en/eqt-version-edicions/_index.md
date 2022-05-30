@@ -19,8 +19,8 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/en/version-eticion/'
-slug: 'version-eticion'
+url: '/en/version-edition/'
+slug: 'version-edition'
 aliases: [
     '/en/edicion version/',
     '/en/edicion versions/',
@@ -129,3 +129,4 @@ bookcase_list_sections: true
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Versions" ligazon="/en/minecraft/version/" >}}

@@ -39,3 +39,5 @@ bookcase_list_sections: true
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo='"Minecraft"' ligazon="/gz/minecraft/" >}}
+
+Tamén podes listar as [versións por edición](/gz/eqt-version-edicions/).
