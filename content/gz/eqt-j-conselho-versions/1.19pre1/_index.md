@@ -1,7 +1,7 @@
 ---
 title: '1.19 Presaída 1'
 
-url: '/j-tiptrick-version/1.19pre1/'
+url: '/j-conselho-version/1.19pre1/'
 slug: '1.19pre1'
 aliases: [
     '/gz/eqt-j-advice-version/1.19pre1/',
