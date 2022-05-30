@@ -97,4 +97,4 @@ bookcase_list_sections: true
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Creators" ligazon="/gz/comunidade/creador/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creadores" ligazon="/gz/comunidade/creador/" >}}
