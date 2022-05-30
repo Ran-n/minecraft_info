@@ -101,7 +101,7 @@ bookcase_list_sections: true
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Conselhos Java" ligazon="/en/tip-trick/java/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Conselhos Java" ligazon="/en/conselho/java/" >}}
 
 ## By [creator](/en/eqt-j-conselho-lag-creadores/)
 {{< terms-cloud terms="eqt-j-conselho-lag-creadores" >}}

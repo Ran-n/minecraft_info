@@ -101,6 +101,6 @@ bookcase_list_sections: true
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Tips & Tricks" ligazon="/en/tip-trick/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Tips & Tricks" ligazon="/en/conselho/" >}}
 
 You can also search all the tips and tricks by [creator](/en/eqt-j-conselho-creadores/) or [version](/en/eqt-j-conselho-versions/) directly.
