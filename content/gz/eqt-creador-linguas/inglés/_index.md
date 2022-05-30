@@ -1,5 +1,5 @@
 ---
-title: 'English'
+title: 'Inglés'
 #date: 2022-05-30T22:02:00+02:00
 #draft: true
 author: 'Ran#'
@@ -96,7 +96,13 @@ bookcase_cover_src: 'linguas/en_0.svg'
 bookcase_cover_src_dark: 'linguas/en_0.svg'
 
 type: 'bookcase'
+bookcase_list_pages: true
+bookcase_list_sections: true
 
 ---
 
-{{< bandeira ancho="28" alto="17" tipo="lingua" nome="en" titulo="Creadores en inglés" ligazon="/gz/eqt-creador-linguas/en/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creadores por lingua" ligazon="/gz/eqt-creador-linguas/" >}}
+
+<br>
+
+{{< bandeira ancho="28" alto="17" tipo="lingua" nome="en" titulo="Creadores en inglés">}}

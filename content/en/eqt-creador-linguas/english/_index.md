@@ -99,4 +99,8 @@ type: 'bookcase'
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creators by language" ligazon="/gz/eqt-creador-linguas/" >}}
+
+<br>
+
 {{< bandeira ancho="28" alto="17" tipo="lingua" nome="en" titulo="English Language Creators" ligazon="/en/eqt-creador-linguas/en/" >}}

@@ -165,4 +165,8 @@ bookcase_list_sections: true
 
 ---
 
-{{< bandeira ancho="28" alto="17" tipo="lingua" nome="cas" titulo="Spanish Language Creators" ligazon="/en/eqt-creador-linguas/cas/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creators by language" ligazon="/gz/eqt-creador-linguas/" >}}
+
+<br>
+
+{{< bandeira ancho="28" alto="17" tipo="lingua" nome="cas" titulo="Spanish Language Creators" >}}

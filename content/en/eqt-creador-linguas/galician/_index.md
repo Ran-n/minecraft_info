@@ -117,4 +117,8 @@ bookcase_list_sections: true
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Creators by language" ligazon="/gz/eqt-creador-linguas/" >}}
+
+<br>
+
 {{< bandeira ancho="28" alto="17" tipo="lingua" nome="gz" titulo="Galician Language Creators" ligazon="/en/eqt-creador-linguas/gz/">}}
