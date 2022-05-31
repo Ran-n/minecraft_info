@@ -32,6 +32,10 @@ aliases: [
     '/en/eqt-creatores/',
 ]
 
+#weight: 0
+#bookcase_cover_src: ''
+#bookcase_cover_src_dark: ''
+
 type: 'bookcase'
 bookcase_list_pages: true
 bookcase_list_sections: true

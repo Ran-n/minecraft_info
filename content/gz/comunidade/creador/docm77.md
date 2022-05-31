@@ -121,7 +121,7 @@ eqt-creador-edicions: [
 ]
 
 eqt-creador-nacions: [
-    'alemaña',
+    'alemanha',
 ]
 
 keywords:
