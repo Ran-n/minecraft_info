@@ -350,7 +350,7 @@ eqt-version-edicions: [
 ]
 
 eqt-j-versions: [
-    '1.19 Pre-Release 2',
+    '1.19 Pre-Release 3',
 ]
 
 eqt-j-snapshot-versions: [

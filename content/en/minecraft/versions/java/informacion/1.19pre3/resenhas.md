@@ -1915,7 +1915,7 @@ eqt_creadores: [
 
 # Reviews | 1.19 Pre-Release 3
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="1.19 Pre-Release 3" ligazon="/en/minecraft/version/java/information/1.19pre2/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="1.19 Pre-Release 3" ligazon="/en/minecraft/version/java/information/1.19pre3/" >}}
 
 ## xisumavoid
 ### Minecraft 1.19 Pre-Release 3 More New Sculk Vibration Events!
