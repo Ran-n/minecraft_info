@@ -8,7 +8,7 @@ toc: true
 collapsible_toc: true
 collapsible_changelogs: true
 
-search_hiddgz: false
+search_hidden: false
 math: false
 zooming_js: true
 
@@ -17,7 +17,7 @@ ga: true
 twitter_cards: false
 
 #code_copy: false
-#opgz_graph: false
+#open_graph: false
 
 url: '/j-conselho-version/'
 slug: 'j-conselho-version'
