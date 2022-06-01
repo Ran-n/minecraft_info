@@ -2,7 +2,7 @@ tag = "tags"
 
 # versions
 #+ java | bedrock
-eqt-version-edicion = "eqt-version-edicions"
+eqt-version-edicion = "eqt-version-edicions"                                        #
 
 #+ que version/snapshot é
 eqt-j-version= "eqt-j-versions"
@@ -17,21 +17,21 @@ eqt-b-version-especial= "eqt-b-version-especiais"
 
 # creadores
 #+ nome creador
-eqt-creador = "eqt-creadores"
+eqt-creador = "eqt-creadores"                                                       #
 #+ se xoga en java e/ou bedrock
-eqt-creador-edicion = "eqt-creador-edicions"
+eqt-creador-edicion = "eqt-creador-edicions"                                        #
 #+ en que linguas fai os vídeos
-eqt-creador-lingua = "eqt-creador-linguas"
+eqt-creador-lingua = "eqt-creador-linguas"                                          #
 #+ a que nación pertence
-eqt-creador-nacion = "eqt-creador-nacions"
+eqt-creador-nacion = "eqt-creador-nacions"                                          #
 #
 
 # conselhos
-eqt-j-conselho-creador = "eqt-j-conselho-creadores"
-eqt-j-conselho-version = "eqt-j-conselho-versions"
+eqt-j-conselho-creador = "eqt-j-conselho-creadores"                                 #
+eqt-j-conselho-version = "eqt-j-conselho-versions"                                  #
 
-eqt-j-conselho-lag-creador = "eqt-j-conselho-lag-creadores"
-eqt-j-conselho-lag-version = "eqt-j-conselho-lag-versions"
+eqt-j-conselho-lag-creador = "eqt-j-conselho-lag-creadores"                         #
+eqt-j-conselho-lag-version = "eqt-j-conselho-lag-versions"                          #
 # --- #
 eqt-b-conselho-creador = "eqt-b-conselho-creadores"
 eqt-b-conselho-version = "eqt-b-conselho-versions"
@@ -82,8 +82,8 @@ eqt-b-redstone-brewer-version = "eqt-b-redstone-brewer-versions"
 
 # exploits
 ## xeral
-eqt-j-exploit-creador = "eqt-j-exploit-creadores"
-eqt-j-exploit-version = "eqt-j-exploit-versions"
+eqt-j-exploit-creador = "eqt-j-exploit-creadores"                                   #
+eqt-j-exploit-version = "eqt-j-exploit-versions"                                    #
 # --- #
 eqt-b-exploit-creador = "eqt-b-exploit-creadores"
 eqt-b-exploit-version = "eqt-b-exploit-versions"
