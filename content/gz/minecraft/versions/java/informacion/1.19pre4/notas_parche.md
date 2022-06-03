@@ -1284,7 +1284,7 @@ bookcase_cover_src_dark: '/monochrome/cover/list_dark.png'
 
 # Patch Notes | 1.19 Presaída 4
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="1.19 Presaída 3" ligazon="/gz/minecraft/version/java/informacion/1.19pre4/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="1.19 Presaída 4" ligazon="/gz/minecraft/version/java/informacion/1.19pre4/" >}}
 
 <img title="1.19 Presaída 4" alt="1.19 Presaída 4" src="/imaxe/mc/mob/ra/ra2.jpg">
 

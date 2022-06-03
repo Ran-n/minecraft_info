@@ -1908,6 +1908,8 @@ bookcase_cover_src_dark: '/monochrome/cover/picture_dark.png'
 
 eqt_creadores: [
     'xisumavoid',
+    'wattles',
+    'Rays Works',
 ]
 
 ---
@@ -1919,4 +1921,14 @@ eqt_creadores: [
 ## xisumavoid
 ### Minecraft 1.19 Pre-Release 4 Release Date For The Wild Update
 {{< youtube AvzI0KU2-OY >}}
+<!--{{< youtube >}}-->
+
+## wattles
+### Deserts, Pre Releases, New Spawn Eggs, + More! | Minecraft 1.19 Pre Release 4, 5, + News!
+{{< youtube dzaiV_V6iZU >}}
+<!--{{< youtube >}}-->
+
+## Rays Works
+### Minecraft NEWS: 1.19 Pre 5, Mojang Dev Leaves, Leaks
+{{< youtube HMjjOf8UVOI >}}
 <!--{{< youtube >}}-->
