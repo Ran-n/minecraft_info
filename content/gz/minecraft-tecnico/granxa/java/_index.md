@@ -326,3 +326,5 @@ bookcase_list_sections: true
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Granxas" ligazon="/gz/minecraft-tecnico/granxa/" >}}
+
+Tamén se pode buscar todas as granxas por [creador](/gz/eqt-j-granxa-creadores/) ou [versión](/gz/eqt-j-granxa-versions/) directamente.
