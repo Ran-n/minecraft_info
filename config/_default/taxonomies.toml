@@ -91,7 +91,7 @@ eqt-b-exploit-version = "eqt-b-exploit-versions"
 
 ## mob switch
 eqt-j-exploit-mob-switch-creador = "eqt-j-exploit-mob-switch-creadores"             #
-eqt-j-exploit-mob-switch-version = "eqt-j-exploit-mob-switch-versions"
+eqt-j-exploit-mob-switch-version = "eqt-j-exploit-mob-switch-versions"              #
 # --- #
 eqt-b-exploit-mob-switch-creador = "eqt-b-exploit-mob-switch-creadores"
 eqt-b-exploit-mob-switch-version = "eqt-b-exploit-mob-switch-versions"
