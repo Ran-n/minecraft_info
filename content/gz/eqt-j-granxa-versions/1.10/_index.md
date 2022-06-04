@@ -529,4 +529,4 @@ bookcase_list_sections: true
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Versións de exploits" ligazon="/gz/eqt-j-granxa-versions/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Versións das granxas" ligazon="/gz/eqt-j-granxa-versions/" >}}

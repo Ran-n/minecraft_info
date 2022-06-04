@@ -628,6 +628,5 @@ bookcase_list_sections: true
 {{< terms-cloud terms="eqt-j-granxa-creadores" >}}
 
 <br>
-<br>
 
 ## Listing
