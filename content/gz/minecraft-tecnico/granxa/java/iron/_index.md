@@ -625,9 +625,9 @@ bookcase_list_sections: true
 
 {{< terms-cloud terms="eqt-j-granxa-iron-versions" >}}
 
-## Escolle o [creador](/gz/eqt-j-granxa-creadores/)
+## Escolle o [creador](/gz/eqt-j-granxa-iron-creadores/)
 
-{{< terms-cloud terms="eqt-j-granxa-creadores" >}}
+{{< terms-cloud terms="eqt-j-granxa-iron-creadores" >}}
 
 <br>
 <br>

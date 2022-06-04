@@ -42,7 +42,7 @@ eqt-b-conselho-lag-version = "eqt-b-conselho-lag-versions"
 
 # granxas
 eqt-j-granxa-creador = "eqt-j-granxa-creadores"                                     #
-eqt-j-granxa-version = "eqt-j-granxa-versions"
+eqt-j-granxa-version = "eqt-j-granxa-versions"                                      #
 
 eqt-j-granxa-iron-creador = "eqt-j-granxa-iron-creadores"
 eqt-j-granxa-iron-version = "eqt-j-granxa-iron-versions"
