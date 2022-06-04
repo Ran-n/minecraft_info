@@ -19,7 +19,7 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/en/j-iron-iron-farm-version/'
+url: '/en/j-iron-farm-version/'
 slug: 'j-iron-iron-farm-version'
 aliases: [
     '/en/eqt-j-granja-hierro-version/',
