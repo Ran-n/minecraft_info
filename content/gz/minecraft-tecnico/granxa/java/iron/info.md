@@ -9,7 +9,7 @@ description: 'Recompilación da información sobre o funcionamento sobre este ti
 #footer: ''
 
 toc: true
-collapsible_toc: true
+collapsible_toc: false
 collapsible_changelogs: true
 
 search_hidden: false
@@ -350,6 +350,10 @@ aliases: [
     '/gz/technical-mc/granxas/j/iron/info/',
     '/gz/technical-mc/granxas/java/ferro/info/',
     '/gz/technical-mc/granxas/java/iron/info/',
+    '/gz/technical-minecraft/farm/j/ferro/info/',
+    '/gz/technical-minecraft/farm/j/iron/info/',
+    '/gz/technical-minecraft/farm/java/ferro/info/',
+    '/gz/technical-minecraft/farm/java/iron/info/',
     '/gz/technical-minecraft/farms/j/ferro/info/',
     '/gz/technical-minecraft/farms/j/iron/info/',
     '/gz/technical-minecraft/farms/java/ferro/info/',
@@ -605,13 +609,19 @@ aliases: [
 ]
 
 weight: -1
+bookcase_hide: true
 bookcase_cover_src: '/imaxe/portada-seccion/info.png'
 bookcase_cover_src_dark: '/imaxe/portada-seccion/info.png'
+
+eqt-creador: [
+    'wattles',
+]
 
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Granxas Java de Ferro" ligazon="/gz/minecraft-tecnico/granxa/java/ferro/" >}}
 
-## Everything To Know About Iron Farming! - Minecraft's Best Farm (#1)
+## 1.18
+### wattles
 
 {{< youtube z6BpslERxc4 >}}

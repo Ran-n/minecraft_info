@@ -106,6 +106,7 @@ aliases: [
     '/gz/technical-mc/farms/',
     '/gz/technical-mc/granxa/',
     '/gz/technical-mc/granxas/',
+    '/gz/technical-minecraft/farm/',
     '/gz/technical-minecraft/farms/',
     '/gz/technical-minecraft/granxa/',
     '/gz/technical-minecraft/granxas/',

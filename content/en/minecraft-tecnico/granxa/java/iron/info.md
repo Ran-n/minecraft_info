@@ -605,6 +605,7 @@ aliases: [
 ]
 
 weight: 1
+bookcase_hide: true
 bookcase_cover_src: '/imaxe/portada-seccion/info.png'
 bookcase_cover_src_dark: '/imaxe/portada-seccion/info.png'
 

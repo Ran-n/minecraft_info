@@ -187,6 +187,8 @@ aliases: [
     '/en/technical-mc/granxa/java/',
     '/en/technical-mc/granxas/j/',
     '/en/technical-mc/granxas/java/',
+    '/en/technical-minecraft/farm/j/',
+    '/en/technical-minecraft/farm/java/',
     '/en/technical-minecraft/farms/j/',
     '/en/technical-minecraft/farms/java/',
     '/en/technical-minecraft/granxa/j/',
@@ -326,3 +328,5 @@ bookcase_list_sections: true
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Farms" ligazon="/en/technical-minecraft/farm/" >}}
+
+You can also search all farms by [creator](/en/eqt-j-granxa-creadores/) or [version](/en/eqt-j-granxa-versions/) directly.

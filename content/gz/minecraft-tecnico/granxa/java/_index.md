@@ -187,6 +187,8 @@ aliases: [
     '/gz/technical-mc/granxa/java/',
     '/gz/technical-mc/granxas/j/',
     '/gz/technical-mc/granxas/java/',
+    '/gz/technical-minecraft/farm/j/',
+    '/gz/technical-minecraft/farm/java/',
     '/gz/technical-minecraft/farms/j/',
     '/gz/technical-minecraft/farms/java/',
     '/gz/technical-minecraft/granxa/j/',
