@@ -616,10 +616,11 @@ bookcase_list_sections: true
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Granxas Java" ligazon="/gz/minecraft-tecnico/granxa/java/" >}}
 
 ## Escolle a [versión](/gz/eqt-j-granxa-mud-versions/)
-
 {{< terms-cloud terms="eqt-j-granxa-mud-versions" >}}
 
-<br>
+## Escolle o [creador](/gz/eqt-j-granxa-mud-creadores/)
+{{< terms-cloud terms="eqt-j-granxa-mud-creadores" >}}
+
 <br>
 
 ## Listaxe
