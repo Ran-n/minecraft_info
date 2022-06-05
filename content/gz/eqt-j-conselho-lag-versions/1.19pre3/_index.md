@@ -849,7 +849,7 @@ aliases: [
     '/gz/jtiptricklagversións/1.19pre3/',
 ]
 
-weight: 1.19pre3
+weight: 20220525
 bookcase_cover_src: '/imaxe/mc/version/1.19pre3.png'
 bookcase_cover_src_dark: '/imaxe/mc/version/1.19pre3.png'
 
