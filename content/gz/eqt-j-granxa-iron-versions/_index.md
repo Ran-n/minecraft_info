@@ -530,4 +530,4 @@ bookcase_list_sections: true
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Granxas Java" ligazon="/gz/minecraft-tecnico/granxa/java/ferro/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Granxas de ferro" ligazon="/gz/minecraft-tecnico/granxa/java/ferro/" >}}
