@@ -519,7 +519,7 @@ aliases: [
     '/en/jgranxaversións/1.11/',
 ]
 
-weight: 1110
+weight: 20161114
 bookcase_cover_src: '/imaxe/mc/version/1.11.png'
 bookcase_cover_src_dark: '/imaxe/mc/version/1.11.png'
 
