@@ -519,7 +519,7 @@ aliases: [
     '/en/jironfarmversións/1.8/',
 ]
 
-weight: 20140902
+weight: -20140902
 bookcase_cover_src: '/imaxe/mc/version/1.8.png'
 bookcase_cover_src_dark: '/imaxe/mc/version/1.8.png'
 

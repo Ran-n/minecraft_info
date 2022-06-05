@@ -519,7 +519,7 @@ aliases: [
     '/en/jmudfarmversións/1.18.2/',
 ]
 
-weight: 20220228
+weight: -20220228
 bookcase_cover_src: '/imaxe/mc/version/1.18.2.png'
 bookcase_cover_src_dark: '/imaxe/mc/version/1.18.2.png'
 

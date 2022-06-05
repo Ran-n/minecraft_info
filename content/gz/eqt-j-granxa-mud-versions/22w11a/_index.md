@@ -849,7 +849,7 @@ aliases: [
     '/gz/jgranxaslamaversións/22w11a/',
 ]
 
-weight: 20220316
+weight: -20220316
 bookcase_cover_src: '/imaxe/mc/version/22w11a.png'
 bookcase_cover_src_dark: '/imaxe/mc/version/22w11a.png'
 

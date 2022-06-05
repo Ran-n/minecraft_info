@@ -369,7 +369,7 @@ aliases: [
     '/en/jgranxasarxilaversións/22w14a/',
 ]
 
-weight: 20220406
+weight: -20220406
 bookcase_cover_src: '/imaxe/mc/version/22w14a.png'
 bookcase_cover_src_dark: '/imaxe/mc/version/22w14a.png'
 

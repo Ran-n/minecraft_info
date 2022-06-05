@@ -849,7 +849,7 @@ aliases: [
     '/gz/jgranxashierroversións/1.13/',
 ]
 
-weight: 20180618
+weight: -20180618
 bookcase_cover_src: '/imaxe/mc/version/1.13.png'
 bookcase_cover_src_dark: '/imaxe/mc/version/1.13.png'
 
