@@ -13,7 +13,7 @@ eqt-b-snapshot-version= "eqt-b-snapshot-versions"
 #+ dia dos inocentes |
 eqt-j-version-especial= "eqt-j-version-especiais"
 eqt-b-version-especial= "eqt-b-version-especiais"
-#
+# versions #
 
 # creadores
 #+ nome creador
@@ -24,61 +24,86 @@ eqt-creador-edicion = "eqt-creador-edicions"                                    
 eqt-creador-lingua = "eqt-creador-linguas"                                          #
 #+ a que nación pertence
 eqt-creador-nacion = "eqt-creador-nacions"                                          #
-#
+# creadores #
 
 # conselhos
+## xeral
 eqt-j-conselho-creador = "eqt-j-conselho-creadores"                                 #
 eqt-j-conselho-version = "eqt-j-conselho-versions"                                  #
+# --- #
+eqt-b-conselho-lag-creador = "eqt-b-conselho-lag-creadores"
+eqt-b-conselho-lag-version = "eqt-b-conselho-lag-versions"
+##
 
+## lag
 eqt-j-conselho-lag-creador = "eqt-j-conselho-lag-creadores"                         #
 eqt-j-conselho-lag-version = "eqt-j-conselho-lag-versions"                          #
 # --- #
 eqt-b-conselho-creador = "eqt-b-conselho-creadores"
 eqt-b-conselho-version = "eqt-b-conselho-versions"
+## lag ##
 
-eqt-b-conselho-lag-creador = "eqt-b-conselho-lag-creadores"
-eqt-b-conselho-lag-version = "eqt-b-conselho-lag-versions"
-#
+# conselhos #
 
 # granxas
+## xeral
 eqt-j-granxa-creador = "eqt-j-granxa-creadores"                                     #
 eqt-j-granxa-version = "eqt-j-granxa-versions"                                      #
-
-eqt-j-granxa-iron-creador = "eqt-j-granxa-iron-creadores"                           #
-eqt-j-granxa-iron-version = "eqt-j-granxa-iron-versions"                            #
-eqt-j-granxa-warped-crimson-creador = "eqt-j-granxa-warped-crimson-creadores"
-eqt-j-granxa-warped-crimson-version = "eqt-j-granxa-warped-crimson-versions"
-eqt-j-granxa-mud-creador = "eqt-j-granxa-mud-creadores"
-eqt-j-granxa-mud-version = "eqt-j-granxa-mud-versions"
-eqt-j-granxa-clay-creador = "eqt-j-granxa-clay-creadores"
-eqt-j-granxa-clay-version = "eqt-j-granxa-clay-versions"
 # --- #
 eqt-b-granxa-creador = "eqt-b-granxa-creadores"
 eqt-b-granxa-version = "eqt-b-granxa-versions"
+##
 
+## iron
+eqt-j-granxa-iron-creador = "eqt-j-granxa-iron-creadores"                           #
+eqt-j-granxa-iron-version = "eqt-j-granxa-iron-versions"                            #
+# --- #
 eqt-b-granxa-iron-creador = "eqt-b-granxa-iron-creadores"
 eqt-b-granxa-iron-version = "eqt-b-granxa-iron-versions"
+##
+
+## warped crimson
+eqt-j-granxa-warped-crimson-creador = "eqt-j-granxa-warped-crimson-creadores"
+eqt-j-granxa-warped-crimson-version = "eqt-j-granxa-warped-crimson-versions"
+# --- #
 eqt-b-granxa-warped-crimson-creador = "eqt-b-granxa-warped-crimson-creadores"
 eqt-b-granxa-warped-crimson-version = "eqt-b-granxa-warped-crimson-versions"
+##
+
+## mud
+eqt-j-granxa-mud-creador = "eqt-j-granxa-mud-creadores"
+eqt-j-granxa-mud-version = "eqt-j-granxa-mud-versions"
+# --- #
 eqt-b-granxa-mud-creador = "eqt-b-granxa-mud-creadores"
 eqt-b-granxa-mud-version = "eqt-b-granxa-mud-versions"
+##
+
+## clay
+eqt-j-granxa-clay-creador = "eqt-j-granxa-clay-creadores"
+eqt-j-granxa-clay-version = "eqt-j-granxa-clay-versions"
+# --- #
 eqt-b-granxa-clay-creador = "eqt-b-granxa-clay-creadores"
 eqt-b-granxa-clay-version = "eqt-b-granxa-clay-versions"
-#
+##
+# granxas #
 
 # redstone
+## xeral
 eqt-j-redstone-creador = "eqt-j-redstone-creadores"
 eqt-j-redstone-version = "eqt-j-redstone-versions"
-
-eqt-j-redstone-brewer-creador= "eqt-j-redstone-brewer-creadores"
-eqt-j-redstone-brewer-version = "eqt-j-redstone-brewer-versions"
 # --- #
 eqt-b-redstone-creador = "eqt-b-redstone-creadores"
 eqt-b-redstone-version = "eqt-b-redstone-versions"
+##
 
+## redstone brewer
+eqt-j-redstone-brewer-creador= "eqt-j-redstone-brewer-creadores"
+eqt-j-redstone-brewer-version = "eqt-j-redstone-brewer-versions"
+# --- #
 eqt-b-redstone-brewer-creador= "eqt-b-redstone-brewer-creadores"
 eqt-b-redstone-brewer-version = "eqt-b-redstone-brewer-versions"
-#
+##
+# redstone #
 
 # exploits
 ## xeral
@@ -96,4 +121,4 @@ eqt-j-exploit-mob-switch-version = "eqt-j-exploit-mob-switch-versions"          
 eqt-b-exploit-mob-switch-creador = "eqt-b-exploit-mob-switch-creadores"
 eqt-b-exploit-mob-switch-version = "eqt-b-exploit-mob-switch-versions"
 ##
-#
+# exploits #

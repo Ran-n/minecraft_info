@@ -616,10 +616,11 @@ bookcase_list_sections: true
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Java Farms" ligazon="/en/technical-minecraft/farm/java/" >}}
 
 ## Pick the [version](/en/eqt-j-granxa-clay-versions/)
-
 {{< terms-cloud terms="eqt-j-granxa-clay-versions" >}}
 
-<br>
+## Pick the [creator](/en/eqt-j-granxa-clay-creadores/)
+{{< terms-cloud terms="eqt-j-granxa-clay-creadores" >}}
+
 <br>
 
-## Listaxe
+## Listing

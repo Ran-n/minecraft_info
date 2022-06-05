@@ -620,11 +620,9 @@ bookcase_list_sections: true
 {{< icona tipo="info" ancho="24px" alto="24px" ligazon="./info/" >}}
 
 ## Pick the [version](/en/eqt-j-granxa-iron-versions/)
-
 {{< terms-cloud terms="eqt-j-granxa-iron-versions" >}}
 
 ## Pick the [creator](/en/eqt-j-granxa-iron-creadores/)
-
 {{< terms-cloud terms="eqt-j-granxa-iron-creadores" >}}
 
 <br>
