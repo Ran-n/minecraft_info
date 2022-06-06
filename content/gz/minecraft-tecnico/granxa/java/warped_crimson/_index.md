@@ -1192,10 +1192,11 @@ bookcase_list_sections: true
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Granxas Java" ligazon="/gz/minecraft-tecnico/granxa/java/" >}}
 
 ## Escolle a [versión](/gz/eqt-j-granxa-warped-crimson-versions/)
-
 {{< terms-cloud terms="eqt-j-granxa-warped-crimson-versions" >}}
 
-<br>
+## Escolle a [creador](/gz/eqt-j-granxa-warped-crimson-creadores/)
+{{< terms-cloud terms="eqt-j-granxa-warped-crimson-creadores" >}}
+
 <br>
 
 ## Listaxe
