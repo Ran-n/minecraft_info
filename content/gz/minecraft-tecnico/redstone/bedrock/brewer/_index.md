@@ -4458,15 +4458,11 @@ bookcase_list_sections: true
 <!-- [info](./info) -->
 
 ## Escolle a [versión](/gz/eqt-b-redstone-brewer-versions/)
-
 {{< terms-cloud terms="eqt-b-redstone-brewer-versions" >}}
 
+## Escolle o [creador](/gz/eqt-b-redstone-brewer-creadores/)
+{{< terms-cloud terms="eqt-b-redstone-brewer-creadores" >}}
 
-## Escolle o [creador](/gz/eqt-b-redstone-creadores/)
-
-{{< terms-cloud terms="eqt-b-redstone-creadores" >}}
-
-<br>
 <br>
 
 ## Listaxe

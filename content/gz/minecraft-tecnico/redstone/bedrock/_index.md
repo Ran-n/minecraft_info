@@ -134,3 +134,5 @@ bookcase_list_sections: true
 ---
 
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Redstone" ligazon="/gz/minecraft-tecnico/redstone/" >}}
+
+Tamén se pode buscar os circuítos de redstone por [creador](/gz/eqt-b-redstone-creadores/) ou [versión](/gz/eqt-b-redstone-versions/) directamente.
