@@ -1192,10 +1192,11 @@ bookcase_list_sections: true
 {{< icona tipo="frecha-esquerda-redondeada" titulo="Java Farms" ligazon="/en/technical-minecraft/farm/java/" >}}
 
 ## Pick the [version](/en/eqt-j-granxa-warped-crimson-versions/)
-
 {{< terms-cloud terms="eqt-j-granxa-warped-crimson-versions" >}}
 
-<br>
+## Pick the [creador](/en/eqt-j-granxa-warped-crimson-creadores/)
+{{< terms-cloud terms="eqt-j-granxa-warped-crimson-creadores" >}}
+
 <br>
 
 ## Listing

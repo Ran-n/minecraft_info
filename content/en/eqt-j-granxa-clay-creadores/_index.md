@@ -822,4 +822,4 @@ bookcase_list_sections: true
 
 ---
 
-{{< icona tipo="frecha-esquerda-redondeada" titulo="Iron Farms Java" ligazon="/en/technical-minecraft/farm/java/clay/" >}}
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Clay Farms Java" ligazon="/en/technical-minecraft/farm/java/clay/" >}}
