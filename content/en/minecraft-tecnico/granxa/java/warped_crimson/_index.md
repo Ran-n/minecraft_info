@@ -22,7 +22,7 @@ twitter_cards: false
 #code_copy: false
 #open_graph: false
 
-url: '/en/technical-minecraft/farm/java/warped_crimson/'
+url: '/en/technical-minecraft/farm/java/warped-crimson/'
 slug: 'warped_crimson'
 aliases: [
     '/en/mc technical/farms/j/warped crimson/',
@@ -673,6 +673,14 @@ aliases: [
     '/en/technical-mc/granxas/java/warped-crimson/',
     '/en/technical-mc/granxas/java/warped_crimson/',
     '/en/technical-mc/granxas/java/warpedcrimson/',
+    '/en/technical-minecraft/farm/j/warped crimson/',
+    '/en/technical-minecraft/farm/j/warped-crimson/',
+    '/en/technical-minecraft/farm/j/warped_crimson/',
+    '/en/technical-minecraft/farm/j/warpedcrimson/',
+    '/en/technical-minecraft/farm/java/warped crimson/',
+    '/en/technical-minecraft/farm/java/warped-crimson/',
+    '/en/technical-minecraft/farm/java/warped_crimson/',
+    '/en/technical-minecraft/farm/java/warpedcrimson/',
     '/en/technical-minecraft/farms/j/warped crimson/',
     '/en/technical-minecraft/farms/j/warped-crimson/',
     '/en/technical-minecraft/farms/j/warped_crimson/',
