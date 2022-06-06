@@ -1024,3 +1024,4 @@ bookcase_list_sections: true
 
 ---
 
+{{< icona tipo="frecha-esquerda-redondeada" titulo="Versións das granxas de arxila" ligazon="/gz/eqt-j-granxa-clay-versions/" >}}
